@@ -1,5 +1,6 @@
 # Causal Inference Workshop
-Materials for Sustainable Development PhD Spring 2024 Causal Inference Workshop
+Materials for Sustainable Development PhD Spring 2024 Causal Inference Workshop 
+
 Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/CIworkshop_syllabus.pdf) of the workshop
 
 ## Outline
