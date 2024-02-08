@@ -10,7 +10,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 4: IV and RDD coding exercises 
 
 
-## Coding examples and exercises 
+## Coding examples and exercises (in R and Stata)
 - Week 1: What happens when errors are spatially correlated? Simulated exercise
 - Week 4:
   - __01a_iv_simulated__: IV exercise using simulated data (adjusting strength of instrument, exclusion restriction)
