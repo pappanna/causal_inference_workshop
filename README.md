@@ -7,7 +7,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 1: Modeling assumptions
 - Week 2: Potential outcomes framework (and DAGs, briefly)
 - Week 3: IV and RDD (overview, DGP, assumptions, examples)
-- Week 4: IV and RDD coding exercises 
+- Week 4: IV and RDD coding exercises and SDev examples
 
 
 ## Coding examples and exercises (in R and Stata)
