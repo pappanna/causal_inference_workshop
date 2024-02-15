@@ -15,9 +15,9 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 1: What happens when errors are spatially correlated? Simulated exercise
 - Week 4:
   - __01a_iv_simulated__: IV exercise using simulated data (adjusting strength of instrument, exclusion restriction)
-  - __01b_iv_card1995__: IV exercise using published data (Card 1995), based on https://mixtape.scunning.com/07-instrumental_variables
-  - __01c_rdd_simulated__: RD exercise using simulated data (different functional forms of X, non-linear DGP, etc.), based on https://mixtape.scunning.com/07-instrumental_variables
-  - __01d_rdd_carpenterdobkin2009__: RD exercise using published data (Carpenter and Dobkin 2009), based on https://rpubs.com/phle/r_tutorial_regression_discontinuity_design
+  - __01b_iv_card1995__: IV exercise using published data (Card 1995), based on [this](https://mixtape.scunning.com/07-instrumental_variables)
+  - __01c_rdd_simulated__: RD exercise using simulated data (different functional forms of X, non-linear DGP, etc.), based on [this](https://mixtape.scunning.com/07-instrumental_variables)
+  - __01d_rdd_carpenterdobkin2009__: RD exercise using published data (Carpenter and Dobkin 2009), based on [this](https://rpubs.com/phle/r_tutorial_regression_discontinuity_design)
 
 
 ## Other helpful resources for causal inference and research design 
