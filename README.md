@@ -8,6 +8,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 2: Potential outcomes framework (and DAGs, briefly)
 - Week 3: IV and RDD (overview, DGP, assumptions, examples)
 - Week 4: IV and RDD coding exercises and SDev examples
+- Week 5: Event study, DiD, DiDiD, and the (potential) problem with TWFEs
 
 
 ## Coding examples and exercises (in R and Stata)
@@ -22,3 +23,5 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 ## Other helpful resources for causal inference and research design 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) by Nick Huntington-Klein
+- TWFE/DiD with heterogeneous treatment effects resources:
+-- [YouTube](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) DiD reading group videos (very helpful!)
