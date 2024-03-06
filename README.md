@@ -9,6 +9,8 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 3: IV and RDD (overview, DGP, assumptions, examples)
 - Week 4: IV and RDD coding exercises and SDev examples
 - Week 5: Event study, DiD, DiDiD, and the (potential) problem with TWFEs
+- Week 6: New TWFE literature, DiD/TWFE coding exercises
+- Week 7: Synthetic Control and Synthetic DiD
 
 
 ## Coding examples and exercises (in R and Stata)
@@ -18,7 +20,10 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
   - __01b_iv_card1995__: IV exercise using published data (Card 1995), based on [this](https://mixtape.scunning.com/07-instrumental_variables)
   - __01c_rdd_simulated__: RD exercise using simulated data (different functional forms of X, non-linear DGP, etc.), based on [this](https://mixtape.scunning.com/07-instrumental_variables)
   - __01d_rdd_carpenterdobkin2009__: RD exercise using published data (Carpenter and Dobkin 2009), based on [this](https://rpubs.com/phle/r_tutorial_regression_discontinuity_design)
-
+- Week 6:
+  - __01_twfe__: Implements various new TWFE estimators in R 
+- Week 7: 
+  - __01_synthdid__: Implements synthetic control and synthetic DiD examples in R 
 
 ## Other helpful resources for causal inference and research design 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
@@ -26,4 +31,5 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - TWFE/DiD with heterogeneous treatment effects resources:
   - Helpful starting point: de Chaisemartin and D'Haultfoeuille [review/survey](https://www.nber.org/papers/w29691)
   - [YouTube](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) DiD reading group videos (very helpful!)
+  - Jonathan Roth's [DiD resources page](https://www.jonathandroth.com/did-resources/)
     
