@@ -11,6 +11,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 5: Event study, DiD, DiDiD, and the (potential) problem with TWFEs
 - Week 6: New TWFE literature, DiD/TWFE coding exercises
 - Week 7: Synthetic Control and Synthetic DiD
+- Week 8: Pre-estimation, estimation, and post-estimation steps 
 
 
 ## Coding examples and exercises (in R and Stata)
