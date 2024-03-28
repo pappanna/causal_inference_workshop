@@ -32,6 +32,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/index.html) by Nick Huntington-Klein
 - Paul Goldsmith-Pinkham's [Yale Applied Empirical Methods PhD Course repo](https://github.com/paulgp/applied-methods-phd)
+- Kirill Borusyak's [Berkeley ARE PhD Applied Econometrics](https://github.com/borusyak/are213)
 - TWFE/DiD with heterogeneous treatment effects resources:
   - Helpful starting point: de Chaisemartin and D'Haultfoeuille [review/survey](https://www.nber.org/papers/w29691)
   - [YouTube](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) DiD reading group videos (very helpful!)
