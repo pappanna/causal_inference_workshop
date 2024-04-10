@@ -12,7 +12,8 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 6: New TWFE literature, DiD/TWFE coding exercises
 - Week 7: Synthetic Control and Synthetic DiD
 - Week 8: Pre-estimation, estimation, and post-estimation steps
-- Week 9: Inference 
+- Week 9: Inference
+- Week 10: Fixed effects, climate regressions, remote sensing
 
 ## Coding examples and exercises (in R and Stata)
 - Week 1: What happens when errors are spatially correlated? Simulated exercise
@@ -27,6 +28,8 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
   - __01_synthdid__: Implements synthetic control and synthetic DiD examples in R
 - Week 9:
   - __01_rand_inf__: Simple randomization inference example, based on [this](https://www.alexstephenson.me/post/randomization-inference-a-simple-example/)
+- Week 10:
+  - __01_fe__: Simple examples showing problem with perfectly collinear treatment variable and time/unit FE 
 
 ## Other helpful resources for causal inference and research design 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
