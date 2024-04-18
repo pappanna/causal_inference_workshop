@@ -1,0 +1,533 @@
+Operator: Good morning, my name is Matt and I will be your conference facilitator today. Welcome
+to Chevron’s Second Quarter 2008 Earnings Conference Call. [Operator Instructions]
+I will now turn the conference over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Mr. Steve Crowe. Please go ahead, sir.
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thanks, Matt. Welcome to Chevron’s second quarter earnings conference call and webcast. Jim
+Aleveras, General Manager of Investor Relations, is on the call with me. Our focus today is on
+Chevron’s financial and operating results for the second quarter of 2008. We’ll refer to the slides
+that are available on the web.
+Before we get started, please be reminded that this presentation contains estimates, projections,
+and other forward-looking statements. We ask that you review the cautionary statement on slide 2.
+
+I’ll begin with slide 3, which provides an overview of our financial performance. The company’s
+second quarter earnings were a record $6 billion, or $2.90 per diluted share. Our second quarter
+2008 results were up 11% from the second quarter 2007. Higher crude oil prices benefited our
+upstream performance but had a negative impact on our downstream business. The second
+quarter of last year included a $500 million net gain on the sale of an investment and redemption of
+debt. Second quarter 2008 earnings rose over 15% compared with the first quarter of 2008, which
+Jim will discuss shortly.
+Return on capital employed for the trailing 12 months was 23%. The debt ratio was below 8% at
+the end of June. Capital and exploratory spending was 5.2 billion for the quarter. In addition to the
+$2 billion of stock buybacks, we increased the second quarter dividend 12%.
+Jim will now take us through the quarterly comparisons. Jim?
+
+Jim Aleveras, General Manager, Investor Relations
+Thanks, Steve. My remarks compare results of the second quarter 2008 with the first quarter 2008.
+As a reminder, our earnings release compared the second quarter 2008 with the same quarter a
+year ago.
+Turning to slide 4, second quarter net income was $800 million higher than the first quarter. Starting
+with the left side of the chart, higher crude oil and natural gas realizations benefited the company’s
+worldwide upstream results. At the same time, the significant increase in crude oil prices adversely
+affected the downstream segment. The variance in the residual Other bar primarily reflects higher
+charges at the corporate level for environmental remediation and tax adjustments.
+Slide 5 summarizes the results of our US upstream operations, which improved by about $590
+million between quarters. Higher crude oil and natural gas realizations benefited earnings by $775
+million. Chevron’s average US crude oil realization was up about $24.30 per barrel between
+consecutive quarters. This was less than the nearly $26 increase in WTI’s spot prices between
+quarters, since much of our Gulf of Mexico crude oil production is priced on a lag basis.
+Production volumes were down 2% between quarters, largely due to operational downtime and
+normal field declines. This reduced earnings by $30 million. Higher operating expenses reduced
+earnings by $70 million. Fuel, steam, and utility cost increased, as did maintenance expenses.
+The Other bar is the net of everything else, including various gas marketing effects.
+Turning to slide 6. International upstream earnings for the second quarter were about $1.5 billion
+higher than the first quarters’ results. Higher oil and gas prices increased earnings by nearly $1.3
+billion. Our average unit realizations for liquids rose by $24.30 per barrel between sequential
+quarters, about the same as the average Brent spot price increase. An increase in liftings
+contributed $130 million to the second quarter. Liftings were up primarily in Tengiz, the UK, and
+China. Overall liftings were roughly in balance for the first half of the year after our underlifted
+position in the first quarter.
+Operating expense reduced earnings by $90 million, mainly in the UK, Kazakhstan, and Indonesia.
+The Other bar reflects the net of many unrelated items. The largest item was a favorable swing in
+foreign exchange effects. Among the offsetting items, exploration expense was higher in the
+second quarter.
+
+Slide 7 summarizes the change in worldwide oil equivalent production including volumes produced
+in oil sands in Canada. Production fell by 62,000 barrels per day, or 2%, between quarters. US
+production declined 13,000 barrels per day, due to operational downtime and normal field declines
+that I mentioned. Outside the US, overall production dropped 49,000 barrels per day in the second
+quarter. However, we estimate that the impact of higher prices reduced production by about
+75,000 barrels per day between sequential quarters. So, absent price effects, volumes would have
+been up between quarters. I’ll elaborate on this in a moment.
+Indonesia production was impacted by prices, but the largest effect was the absence of the onetime benefit of a favorable gas unitization agreement that we discussed on the conference call last
+quarter. While gross production at Tengiz continued to ramp up with our expansion project, both
+Tengiz and Karachaganak net volumes were affected by higher prices.
+Turning to our production outlook for 2008. Total OEG production for the first six months of 2008
+was 2.57 million barrels per day. During this period, WTI prices averaged just over $110 per barrel.
+Our production target for 2008, which assumed $70 per barrel WTI, was 2.65 million barrels per
+day.
+Absent the price effects under production-sharing and variable-royalty agreements, our production
+for the first half would have been on track with our full-year production target of 2.65 million barrels
+per day. This production level reflected strong base business performance without significant
+contributions from several 2008 major project start-ups. Our project start-ups will increase
+production during the second half of the year and, adjusting for price effects, we expect to meet or
+exceed our volume target for the year. Steve will provide a brief update on our major projects at the
+end of our presentation.
+We reviewed our rule of thumb, as prices have moved far above $70 per barrel, and we believe the
+rule of thumb is still applicable at the current price level. That is to say, a $1 per barrel increase in
+prices leads to about a 2,000 barrel per day reduction in our net production volumes for the year.
+However, I’d like to re-emphasize the caveats we’ve given you about this rule of thumb. The
+calculation of price impacts includes many variables including the interaction of prices and costs,
+very specific contract thresholds and terms, and so forth. The rule of thumb is our best estimate of
+the impact for 2008, but results will vary when making comparisons between periods.
+For example, because certain thresholds were met in the second quarter, the rule of thumb does
+not work when comparing the first and second quarters of 2008. Each dollar change in price had an
+impact of over 3,000 barrels per day in this particular comparison. We’ll continue to update you as
+we move through this very volatile price environment.
+
+Turning to slide 8. Our US downstream operations moved from breakeven to a loss of about $680
+million in the second quarter. Industry refining margins improved in the second quarter, although
+marketing indicator margins weakened, particularly on the West Coast. On balance, indicator
+margins suggest a $305 million benefit.
+WTI prices rose more than $38 per barrel from the end of the first quarter to the end of the second
+quarter. This compares to an increase of less than $6 per barrel during the first quarter. This truly
+extraordinary crude price spike in the second quarter reduced US downstream earnings by $490
+million between quarters. The $490 million is shown on the bar labeled Timing Effects.
+Of the $490 million, about 280 million reflected the impact of provisionally-priced foreign crude.
+This crude is priced on a delivered basis, although we take title to it when it is lifted. We typically
+have about 13 to 15 million barrels of provisionally-priced crude in transit to the US West Coast.
+These barrels are effectively mark-to-market at the end of each period.
+
+A second timing effect accounted for $110 million of the 490 million change between quarters. We
+used derivatives to convert crudes, including crudes that are not provisionally priced, from the
+acquisition price to the price at the time they are run. As prices went up dramatically during the
+second quarter, this resulted in derivative losses. The balance of timing effects between quarters
+reflected a number of supplier-related activities, including mark-to-market losses on derivatives
+related to a long-term contract.
+Moving to the next bar, we had an unfavorable variance of $300 million between quarters due to
+refinery shutdown effects. Almost all of these were planned shutdowns, and we previously
+cautioned that 2008 would be a heavy planned-shutdown period for us. The adverse $300 million
+variance reflects both the direct operating expense and the lost margin capture, as we purchased
+more expensive feedstocks and intermediates during the refinery shutdowns. Most of the
+difference between quarters was due to our Pascagoula refinery, where both the number one crude
+unit and coker were down during the second quarter. Planned shutdowns at El Segundo and Haoi
+were much smaller factors. Our 2008 maintenance schedule indicates that essentially all of our
+major US planned shutdowns were completed in the first half of 2008.
+Excluding the operating expense related to refinery shutdowns, other OpEx was $145 million higher
+in the second quarter. Many factors were involved here, including higher fuel costs. The Other bar
+on the chart is an unfavorable variance of $56 million, which primarily reflects minor pipeline
+impairments.
+Turning to slide 9, international downstream earnings fell $300 million from the first quarter’s
+results. Refining indicator margins improved, while marketing margins were mixed across our
+international and geographic areas. On balance ,company margins were a $185 million benefit
+between quarters. Volumetric effects were a $25 million adverse variance. This primarily reflected
+the unplanned shutdowns at the Pembroke refinery in Wales. We estimate the overall impact of all
+international refinery downtime between quarters to be an unfavorable variance of $32 million,
+which reflects OpEx as well as volume and feedstock impacts.
+As we saw in the United States, international downstream timing effects were a major factor in the
+adverse change between quarters, as the price of crude and petroleum products increased very
+significantly over the course of the second quarter. Two-thirds of the $225 million shown as Timing
+Effects was related to long-haul sales of equity crude and refined products.
+For select cargos, we often use derivatives to lock in a margin above the cost of transportation.
+During periods of rapidly increasing prices, this can lead to derivative losses. The majority of this
+timing effect is related to delivered sales of Partitioned Neutral Zone equity crude and exports of
+refined products from our Pembroke refinery to third parties. The balance of the timing effect is
+primarily due to losses on derivatives used to convert crude pricing to the time of a refinery run.
+There was also a factor involved here regarding the changes in inventory.
+The next bar shows operating expense was a $140 million unfavorable variance between quarters.
+A number of different items affected the various geographic regions. There was not a pattern to the
+components of the $140 million change. The Other bar shows a $95 million reduction between
+quarters, and this primarily reflects lower foreign exchange gains, as well as an adverse swing in
+tax items.
+Slide 10 shows that earnings from chemical operations were $41 million in the second quarter
+compared with 43 million in the first quarter. Results for olefins fell on lower margins and volumes,
+as well as higher operating expense. Aromatics’ results were also affected by lower volumes and
+higher operating expenses. Additionally, shutdown activity reduces aromatics’ results.
+The Other bar on this chart shows a favorable $26 million variance between quarters. This reflects
+the absence of a $40 million environmental provision we mentioned on last quarter’s conference
+call, partly offset by a lower additive margins.
+Turning to slide 11, which covers all other. Second quarter results were net charges of $580 million
+compared to net charges of 255 million in the first quarter. The $210 million variance reflects
+environmental provisions related to legacy Texaco and Unocal downstream assets. Since these
+assets were sold prior to Chevron acquiring their parent companies, the impact is included here,
+rather than in the downstream segment.
+
+Tax items were in $80 million unfavorable variance. The Other bar reflects the net of many
+unrelated items.
+Before I turn things back over to Steve, I’d just like to briefly recap the second quarter’s results.
+First, upstream results were very strong, in line with the indicators in our July 10th interim update.
+Second, we experienced a sharp decline in downstream performance due to timing effects and
+refinery downtime as we discussed in the interim update. Finally, as we projected, chemical results
+were flat between sequential quarters, and our all other charges were significantly higher than the
+standard guidance range due to environmental remediation charges.
+That completes my variance analysis for the quarter. Back over to you, Steve.
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thanks Jim.
+Before opening the call to questions, I’d like to highlight the significant progress we’ve made on
+some of our major capital projects. Please turn to slide 12.
+First up is our Agbami project, offshore Nigeria. Yesterday we announced that Agbami had begun
+production. Chevron is the operator with a 68% interest in this world-class deepwater project.
+Agbami’s initial gross OEG production is expected to quickly ramp up to more than 100,000 barrels
+per day. We anticipate this reaching 250,000 barrels per day by the end of 2009.
+In the UK, our partner recently announced first production for the Callanish-Brodgar fields, also
+known as the Britannia satellite development. At the Tengiz field in Kazakhstan, our phased
+expansion remains on schedule for a full facility start-up this quarter. The first phase, which began
+late last year, added nearly 90,000 barrels per day of total production during the second quarter.
+The second phase of production is now complete, and we’re doing the major turnaround, final tieins, and commissioning. As a result, there will be a brief drop in production of about 25,000 barrels a day in the third quarter. We have full facility start-up, we anticipate the project will add 240,000
+barrels a day of production, increasing Tengiz’s total capacity from 300 to 540,000 barrels per day.
+In the Gulf of Mexico, we completed our plan to retrofit and tension all eight mooring lines on our
+Blind Faith facility. We’re continuing with commissioning work, having installed all four of the risers.
+We expect start-up later this year. It’s difficult to be more specific about the timing, as weather
+could impact our commissioning efforts.
+In Australia, the Northwest Shelf fifth train – fifth LNG train is in the midst of commissioning, with
+an anticipated first cargo in the fourth quarter. In Brazil, our Frade project is on track for 2009 startup. At our Tahiti facility in the Gulf of Mexico, the production spar has been moored, the installation
+of subsea flow lines and risers is nearly complete, and the first of three major topside modules was
+installed last week. We expect to install the other two topside modules this quarter. The Tahiti
+project remains on schedule for first production in the third quarter 2009. In Angola, our TombuaLandana project is also on schedule for first production next year. In summary, our major projects
+are on track to deliver significant new volumes.
+
+Well, that concludes our prepared remarks. We’ll now take your question. One question and one
+follow-up per caller, please. Matt, would you open up the lines for questions?
+
+Operator: Thank you, sir. [Operator Instructions] Our first question is from Arjun Murti of Goldman
+Sachs. Your question, please.
+<Q – Arjun Murti>: Thank you. Thanks for the project update. I was wondering if you could provide
+a similar update on some of your exploration plans, I guess in particular the status at some of the
+key lower tertiary projects, Jack in particular, St. Malo, if you could provide an update on – I guess
+the question’s generally about most notably the lower tertiary. That would be helpful. Thank you.
+<A – Stephen Crowe>: Thank you, Arjun. Well we’re looking at Jack and St. Malo presently. We
+have another well that will be completed later in the year. We’re giving consideration as to whether
+or not we can tie back those two projects, Jack and St. Malo, one of which came from Unocal and
+one of which is a legacy Chevron one, and consider developing the two of them in tandem. We’ll
+have more to say about the progress of the lower tertiary as we get a little deeper in the year and
+can probably give you a more definitive update on our next conference call.
+Arjun, did you have any follow-up question?
+<Q – Arjun Murti>: Are those expected to be sanctioned this year, and does the fact that you’re
+considering a joint development speak to any disappointment or update in terms of the resource
+potential at either or both together?
+
+<A – Stephen Crowe>: I think the consideration of joining those two projects together really
+speaks to the opportunity to reduce costs in the current environment and produce them in tandem
+is a more efficient way of developing the resource.
+<Q – Arjun Murti>: It’s an efficiency consideration?
+<A – Stephen Crowe>: Primarily.
+<Q – Arjun Murti>: And, I’m sorry, do you think – would we expect the sanction decision this year,
+or is that an ‘09 or later kind of event?
+<A – Stephen Crowe>: That will be outside of 2008.
+<Q – Arjun Murti>: Thank you very much.
+<A – Stephen Crowe>: Thank you, Arjun, for your call. May we have the next question, please?
+Operator: The next question is from Neil McMahon of Sanford Bernstein. Your question, sir.
+<Q – Neil McMahon>: Hi. Just really on some of the numbers in today’s call that Jim ran through,
+on the variance analysis. Looking at the OpEx reduction, both in the US, but more importantly in
+international, which is a bit strange, given higher royalties and in an inflation environment, and I
+was wondering to what extent – well, first of all, really why that OpEx reduction took place from the
+first quarter to second quarter?
+And in particular, related to what’s going on in Kazakhstan with some of your partners in the
+Karachaganak field seeing increased charges associated with changes in the fiscal terms in that
+country?
+<A – Stephen Crowe>: Let me give a first correction, I think, Neil. As Jim was going through the
+variance analysis, say on the US upstream, we indicated on our – on slide 5 that operating expense
+was higher in the second quarter in comparison to the first quarter by about $70 million after tax,
+mainly reflecting, as you would expect, higher fuel costs and utility costs along with higher
+maintenance. So actually, the costs were higher in the second than in the first quarter.
+<Q – Neil McMahon>: Right<A – Jim Aleveras>: Neil, with regard to the international upstream, you will see OpEx down a little
+bit, but the biggest factor there was simply a number of different things in our various UK,
+Kazakhstan, and Indonesia operations.
+<Q – Neil McMahon>: Well I’m just sort of struggling why it’s dropped, given the fact that BG on
+their conference call were talking about the fact that under duress, or maybe that wasn’t the word
+they used, they were paying new taxes associated with the fiscal change in Kazakhstan, that’s all. It
+seems strange that you’ve – you’re gone down, whereas they went up.
+<A – Jim Aleveras>: Okay. Neil, perhaps it’s a semantic issue here. When we’re showing OpEx
+as a negative, what we’re saying is, it’s a negative to P&L. We start with our income from the first
+quarter, and we end with our income in the second quarter. So when OpEx is a negative, what it
+means is it’s a detraction from our earnings in the second quarter.
+<Q – Neil McMahon>: Right, I understand that, but you did say that it went down, that’s all, so-
+
+<A – Jim Aleveras>: So, we said OpEx was a negative. If you look at the international upstream
+chart, it’s a negative $90 million to earnings. So that’s OpEx actually going up. It’s reducing
+earnings by $90 million.
+<Q – Neil McMahon>: Okay. I thought you said a few minutes ago that things got better in
+Kazakhstan, but that’s fine. Maybe as a follow up then, just on the environmental charge and your –
+under corporate, maybe could you just walk through that, since you did say you had disposed of
+those assets, or maybe my hearing’s totally gone?
+<A – Stephen Crowe>: Well as we had foreshadowed in the interim update on July 10, certain of
+the environmental provisions or obligations that we have that are connected with legacy operations
+of Texaco or Unocal, we still are obliged, per certain of the contractual arrangements, to effect the
+environmental clean-up or remediation.
+It so happened that, here in the second quarter, for primarily the Unocal, but also Texaco
+operations that are no longer operated, they’ve been disposed of, certain events have occurred
+where we thought it was appropriate for the accounting rules to recognize the increased liability. So
+that was the fundamental driver for that increase of $210 million between the first and second
+quarters of this year.
+<Q – Neil McMahon>: Steve, can you tell us what they are, or what the chances are that this sort
+of thing is going to happen again on some of those assets?
+<A – Stephen Crowe>: Well, they were a variety of things, some of which were marketing related,
+operations that Unocal had that have since been sold twice. Some of them are connected with
+refinery and terminal locations, both legacy – primarily legacy Texaco. And those things occur
+driven by events.
+But you will have noticed I think over the last year or so that our recognition of environmental
+expenses, whether it would be for currently owned and operated operations or those previously
+disposed of, are a bit more – occur more regularly during the course of the year. So – but it’s very
+hard to give you a prediction as to what the ratable pace would be, because it’s driven by events,
+and they tend to come based on the situation.
+<Q – Neil McMahon>: Okay, thanks.
+<A – Stephen Crowe>: Thanks very much. May we have the next question, please?
+Operator: Your next question is from Paul Sankey of Deutsche Bank. Your question, please?
+<Q – Paul Sankey>: Hi, good morning, gentlemen.
+<A – Stephen Crowe>: Hi, Paul.
+<Q – Paul Sankey>: I got a little bit confused regarding your overall statements about volumes for
+the year. You said you’re at 2537, 2.5 million, and that you would otherwise have been at your
+target, but for the PFC and other effects, the 2650. You then subsequently said that you expect still
+to meet the target by the end of the year, was it? Or I – could you just clarify – I didn’t quite
+understand what you were saying. Do you mean that you’re going to still be at 2537 by the end of
+the year, or you’re going to hit to 265-?
+<A – Stephen Crowe>: I’ll let Jim cover that.
+<Q – Paul Sankey>: Thanks.
+<A – Jim Aleveras>: Paul, what we’re saying is that we expect to meet or exceed the 2.65 that we
+talked about at $70 a barrel oil at our March meeting, but that’s adjusted for prices. Right now we’re
+in a very volatile pricing environment, so if prices stay above $70, we’ll come in below that, but we’ll
+give you a reconciliation back to that that will explain the PFC effects that caused it.
+<Q – Paul Sankey>: Yeah but, the point I was making was that you said that the current level
+effectively, but for those effects, the 2.5 level but for those effects, amounted to the 2.6, if you like,
+which would then to me suggest that there is no growth in the second half?
+<A – Jim Aleveras>: No. We expect to meet or exceed, and I’ll put exceed in Italics, if that helps,
+Paul.
+<Q – Paul Sankey>: Okay, I’ve got you, I think.
+<A – Stephen Crowe>: So what we are saying, again, for those on the phone is, we’re reaffirming
+our production guidance earlier in the year that we’ll have net production of 2.65, at a $70 per barrel
+average price for the year. And Jim also mentioned that, it still looks appropriate, as you make
+those adjustments because of higher crude prices, a 2:1 ratio, such that for every dollar increase
+above the $70, you could anticipate roughly a 2,000 barrel a day reduction in net production.
+<Q – Paul Sankey>: Okay, and if I could take my follow up, you were clear on Agbami. On Tengiz,
+you mentioned that you’ll be down in 3Q. Could you just give us the overall levels? You mentioned
+you’d be down I think 25,000 a day. Could you just give us the overall levels? Even at the
+Kazakhstan level, that would be fine.
+And then if you could also just clarify the exit rate for ‘08, because you said there the capacity I
+think is 240 a day, but if you could just clarify where you think you’ll be by the end of the year?
+That’s great, thank you.
+<A – Jim Aleveras>: Well let’s take the first one first. Paul, we mentioned the 25,000 barrel a day
+reduction in the current quarter simply to alert people that, as we tie-in the facilities and we bring
+the second-generation plan on stream, we will have to reduce production a little bit, as we’re tying
+everything back together.
+<Q – Paul Sankey>: And that will be down to what levels?
+<A – Jim Aleveras>: Right now, we’re running close to 400,000 barrels a day on a gross 100%
+basis.
+<Q – Paul Sankey>: Got you. And that’s pre the 25, right?
+<A – Jim Aleveras>: Yes.
+<A – Stephen Crowe>: That’s correct.
+<A – Jim Aleveras>: That’s correct.
+<Q – Paul Sankey>: Okay, so<A – Jim Aleveras>: So the<Q – Paul Sankey>: Yeah, go on.
+<A – Jim Aleveras>: So there will be a slight reduction in overall production just as we tie
+everything together and get the plant up and running.
+<Q – Paul Sankey>: And the exit rate?
+
+<A – Jim Aleveras>: In terms of the exit rate, from 2008 going into 2009, it’s a little too early to tell
+yet.
+<Q – Paul Sankey>: Once you get<A – Jim Aleveras>: We certainly have achieved, as we promised, the 90,000 barrel a day
+improvement in the first phase of the project, the sour gas injection.
+<A – Stephen Crowe>: But it will be ramping up to the expected 540,000 barrels a day on a total
+project. I just don’t want to quote an exact number as we exit 2008 and go into 2009.
+<A – Jim Aleveras>: But we’re certainly going to expect a pretty prompt increase, once we get out
+of the third quarter into the fourth quarter.
+<A – Stephen Crowe>: That’s correct.
+<Q – Paul Sankey>: Okay.
+<A – Stephen Crowe>: Thanks very much.
+<Q – Paul Sankey>: Thank you.
+Operator: Our next question is from Paul Cheng of Lehman Brothers. Your question, please?
+<Q – Paul Cheng>: Hey guys.
+<A – Jim Aleveras>: Hi Paul.
+<Q – Paul Cheng>: Steve and Jim, with Agbami come on stream and also a number of projects,
+can you maybe share with us that the tie-up return and profitability on those new project comparing
+to your existing one. It looks like Agbami should be extremely profitable. So wondering if you can
+shed some light?
+<A – Stephen Crowe>: Well we typically wouldn’t talk about the economics of a specific project
+which obviously get into a lot of the fiscal terms that we have in each of those operations, but
+Agbami will be a very profitable project for us. It will be returning cash to us on a prompt basis. As
+you know, it’s a light oil condensate project and ought to have a very handsome rate of return.
+Our expectation, sort of harkening back to an earlier question on ramp-up, is that we probably will
+see, as the wells come on, production reaching 100,000 barrels a day in the early part of next year.
+And then as we mentioned before, moving up to the 250,000 barrels a day by the end of 2009.
+But I think a takeaway from that last chart that I showed in the prepared remarks is, we’ve got a
+long and healthy list of projects, some of which have come on, some of which are right in the midst
+of being commissioned, and some are coming on and right on schedule for 2009. So I think our
+production, which of course, net production will be influenced by prices and the way variable royalty
+mechanisms work and production-sharing agreements. But these large projects are all lined up and
+as you can see, it’s quite a long list, and probably will differentiate Chevron versus a lot of our
+competitors. I think it’s a major difference, we’ve been talking about it for a couple of years now, but
+they’re ready.
+<Q – Paul Cheng>: Steve, what’s your current production in Agbami, where you at this point?
+<A – Stephen Crowe>: Well Agbami started up literally at Tuesday of this week, as I recall. And so
+as the wells come on, it will be ramping up. The last I saw, and it changes all the time, Paul, but the
+last I saw was a day or so ago and it was about 20,000 barrels a day, so – but it ramps up over
+time, so don’t put any specific number. It’s a function of when the wells come on. But as I
+mentioned, as they do come on, we anticipate about 100,000 barrels a day in early 2009.
+<Q – Paul Cheng>: Can I ask a, Steve, maybe a conceptual question about timing effect losses in
+your downstream operation?
+<A – Stephen Crowe>: Sure.
+<Q – Paul Cheng>: I understand the price finalization impact related to the long haul supply to
+Saudi Arabia and all that, and so that’s really no big deal on that. What I’m not quite sure I
+understand why we even use a derivative for – let’s say, if your own equity, crude oil, you’re sell it. I
+think what, based on you guys describe this, that you use derivative to hedge whatever is the price
+that during that journey, that shipping time, whether it’s 20 day or 40 days, given that no one really
+can foresee what is the price direction for the next 20, 40 days so you – arguably you have 50% of
+the time you make money, 50% of the time you lose money in that derivative trade, and given
+Chevron have no concern about liquidity or anything, why we even bother to do that?
+<A – Jim Aleveras>: Well Paul, what we – the reason we did that was to match the cost of crude
+that we purchase to the time that it’s run in the refinery, to get the margins of the day.
+<Q – Paul Cheng>: But why we even bother? I mean<A – Jim Aleveras>: Okay<Q – Paul Cheng>: -Jim, that’s my question.
+<A – Jim Aleveras>: Well<Q – Paul Cheng>: I mean, over time, you make no difference.
+<A – Jim Aleveras>: Well Paul, what we are trying to do there is just lock in a refining margin
+which, historically refining margins have fluctuated, and we want to get refining margin of the day.
+As we have done this, especially in the second quarter during a period of very, very rapid price
+changes, we’ve seen that that’s added volatility to our earnings. That volatility is something that we
+don’t find acceptable, and we have curtailed that program to a considerable extent in the second
+quarter. So going forward, you can expect to see much smaller effects from this.
+<Q – Paul Cheng>: Okay. Thank you, Jim.
+<A – Stephen Crowe>: Let me just – let me just reiterate a couple of points, inasmuch as the
+timing effects were significant in looking at our results.
+In light of our second quarter results, we’re looking at everything that impacts our downstream
+performance. But let me make it clear, our strategy for the downstream business hasn’t changed.
+We’re continuing to work on rationalizing our portfolio to eliminate less-profitable assets and to
+reduce the capital employed in our marketing network, while maintaining our brand uplift. We’re
+absolutely focused on refinery reliability and selective investments to improve refinery performance.
+But we’re also looking at the tactical issues, as Jim mentioned, like the use of derivatives and other
+factors that sometimes add perhaps unnecessary volatility to our reported results.
+Thanks for your call and questions, Paul. May we have the next question?
+Operator: Our next question is from Kate Lucas of JPMorgan. Your question, please.
+<Q>: Hi. Good morning, gentlemen.
+<A – Stephen Crowe>: Good morning, Kate.
+<Q>: Can you just comment a little bit on how the – on the progress of the steamflood technology
+that you’re using or implementing in the Neutral Zone, specifically any challenges with the
+steamflood or the carbonate reservoir?
+And then, can you comment on whether you’re able to source the natural gas and water without
+any issues?
+<A – Stephen Crowe>: Thanks, Kate. As you know, we’re in a pilot project in the PNZ to see if the
+technology would be applicable to carbonate formation. As far as I’m aware, good progress is being
+made. And as you’re also aware, we’re doing that early pilot in the Partitioned Neutral Zone which
+has its concession ending in the early part of 2009. This is a 60-year concession, and we are very
+optimistic that that concession will be extended, but it’s too early at this point on the call to confirm it
+definitively. But all the indications are, from the pilot steam project, that things are progressing as
+we had anticipated.
+Thanks very much, Kate<Q>: Okay, great. Thanks.
+<A – Stephen Crowe>: The follow-up question, please? I’m sorry, Kate, may have lost you there.
+May we have the next question, please?
+Operator: Our next question is from Erik Mielke of Merrill Lynch. Your question, please?
+<Q – Erik Mielke>: Yeah, hi. We went through most of my questions. Just a couple of quick followups. In the discussion earlier with Neil on international operating costs during the second quarter, I
+recognize that there was an increase during the quarter, but the rate of increase was perhaps less
+than we would have expected. Is that because of the volume mix effect, or is it part of underlying
+cost improvements that you’ve previously discussed?
+<A – Jim Aleveras>: It’s a combination of a number of things, Erik. If we look at our operating
+expense, what we’re seeing is higher cost in a lot of areas, but we did have some workover costs in
+West Africa that affected the prior period that are not in the current period.
+<A – Stephen Crowe>: Hope that helps.
+<Q – Erik Mielke>: It does indeed. And then finally, just looking at politics and the fact that by the
+time we have the next call we’ll be right in the middle of the elections. We’ve had an announcement
+today from one of the two candidates that they’re considering windfall taxes to finance a so-called
+energy rebate. What are you hearing from your contacts in Washington when it comes to the
+outlook for taxation on US oil companies? And if you have any comments on what the impact will
+be for the different proposals on CO2 Cap and Trade for your business?
+<A – Stephen Crowe>: Well it’s again very early with respect to the measurement of the impact of
+the various CO2 proposals that have been floated around for the last year or so.
+As far as windfall profits tax is concerned, we have, over the last year, seen a number of proposals
+tabled. Some were windfall profit tax, some were related to use of foreign tax credits, some were
+connected with the sustained usability of LIFO. At this juncture up to this point, those have all not
+passed muster, but it’s – again, it depends on the nature and terms of the – of any legislation that
+might be forthcoming in a new administration down the road. So it really much depends on the form
+of any additional taxation. Hard to speculate until you know all the details.
+Erik, do you have any other question?
+<Q – Erik Mielke>: No, that’s it for me. Thank you.
+<A – Stephen Crowe>: Thank you much. May we have the next questioner, please?
+Operator: Our next question is from Jason Gammel of Macquarie. Your question, please?
+<Q – Jason Gammel>: Thank you. Good morning, guys.
+<A – Stephen Crowe>: Hi, Jason.
+<Q – Jason Gammel>: I just wanted to ask a question about the timing of the Pascagoula coker
+turnaround. From an historic margin capture standpoint, the second quarter would seem to be
+counter-intuitive for planning a too much turnaround on a coker. Can you shed any light into that
+decision-making process?
+<A – Jim Aleveras>: Let me take a swipe at that. The whole issue of bringing a coker down is a
+very, very complex issue, that we’re very conscious the timing is important in terms of scheduling a
+turnaround, because of the impact on margins.
+If we look at the light/heavy differential as a key proxy for coker profitability, we don’t find that it falls
+in consistent pattern between the first and second quarter. So, in the 2003-2005 period, light/heavy
+differentials were actually higher in the first quarter than the second quarter. You just can’t change
+a major refinery turnaround once you see actual margins coming through the market on a weekly or
+a monthly basis.
+In Pascagoula, for example, the crude unit and coker shutdowns during the second quarter were
+very major undertakings, involving thousands of temporary workers. And the Pascagoula coker had
+run five years since its last schedule turnaround. We simply were not in a position to second-guess
+the market as the market evolved in 2008 to get the timing exactly where you would have liked to
+have gotten it in the hindsight, to capture the best margins.
+<A – Stephen Crowe>: I think I would add, as well, two other points, Jason. One, there was a lot of
+activity with respect to bringing back the other crude unit in the first quarter, so there really wasn’t
+an opportunity to accelerate it by a quarter or two, if you had perceived a different light/heavy
+differential in the short term.
+But the other point that I would make is, as Jim had alluded to, almost all of our scheduled
+maintenance here in the US for 2008 is behind us. So we would expect to have increased refinery
+availability during the second half of the year.
+<Q – Jason Gammel>: Okay, that’s very helpful, guys. Maybe as a follow-up I could ask about the
+decline in branded gasoline sales? Looks to be down about 5% year over year. Is that purely a
+demand function, or are there some divestitures that played a role in that as well?
+
+<A – Jim Aleveras>: It’s largely a demand function, Jason. What we’re seeing is a higher amount
+of demand decrease in the US West Coast than we’re seeing in the other parts of the country. And
+of course, Chevron is disproportionally exposed to the US West Coast.
+We’ve seen this in prior periods as well, when California was disproportionally hit in the early 1990s
+as the defense contractors exited the state, and in the late 1990s as the dot-com bubble burst. In
+each case, we’ve seen California rebound. Right now, California is being disproportionately hit by
+the housing and credit crisis, and this has created what we feel is a negative consumer sentiment
+that’s causing people to do less discretionary driving.
+Long term, we’re very bullish about California. We’ve seen California knocked down twice in the
+last decade. The exit of the defense contractors was a huge impact in California, the dot-com
+bubble was a huge impact in California, and California unemployment rates had run 1.5 times the
+national average, so there’s a lot of consumer sentiment going on here, and we’re just in the midst
+of this for a short period of time.
+We don’t know what the future holds, but in the past, California has wobbled around more than the
+country has, but it’s always come back. So we’re optimistic about the future, but for the moment, we
+are being disproportionately affected by our exposure to the US West Coast.
+<A – Stephen Crowe>: So, Jason, just to close that off, we really don’t have any divestments that
+are impacting the lower branded mo gas sales, it’s all a function of industry market demand.
+<Q – Jason Gammel>: Very helpful, thanks guys.
+<A – Stephen Crowe>: Thanks, Jason. May we have the next question, please?
+Operator: The next question is from Wassim Khalil of HSBC. Your question, please.
+<Q>: Yeah, hi there. I was just wondering if you could perhaps give us a little bit more information
+on the Partitioned Neutral Zone. I believe as relayed earlier from JPMorgan it was cut off and I was
+just wondering if you could just perhaps give us some more information or any updates that are
+going on regarding that?
+<A – Stephen Crowe>: Well, I really don’t have a lot of additional information to offer up. I had
+commented on the status and successful progress of our steamflood in the carbonate rock, and
+also had mentioned that we’ve been having ongoing discussions with the Kingdom for an extension
+of the concession agreement, which is progressing, and against which we’re very optimistic that
+we’ll have a successful low resolution.
+Beyond that, I really don’t have any additional information to provide to you on the call here today.
+<Q>: Right. Okay. I guess then, there’s no additional information, there’s no additional questions.
+Thank you very much.
+<A – Stephen Crowe>: Okay. Thank you very much.
+<Q>: Thank you.
+<A – Stephen Crowe>: May we have the next questioner, please?
+Operator: Our next question is from Doug Leggate of Quantum. Your question, please?
+<Q>: Thanks. Hey, Steve. This is becoming a bit of a theme here. On this Partitioned Neutral Zone,
+I’m just curious, in the event that the concession is extended, can you give any kind of a rough
+approximation as to what the period that you would expect it to be? Because I’m expecting you
+would be able to book the reserves here, right? If it gets extended?
+<A – Stephen Crowe>: If the concession is extended, we would be able to book reserves. As you
+know, under current accounting rules, we’re only able to book reserves to the extent that production
+would occur under the existing contract.
+As far as any of the commercial terms that are in the midst of being finalized and negotiated, I’m
+clearly not at liberty to discuss those now, but your fundamental premise about being able to book
+reserves is correct, Doug.
+<Q>: Sorry, I guess it’s a related follow-up. Would this be as long as the original concession, or
+would it be much shorter? Just ballpark would be real useful.
+<A – Stephen Crowe>: Well, the existing concession was for 60 years, and I really not at liberty to
+talk about the terms of the successor, if it is concluded. We’ll give the investment community full
+detail, or as much detail as we can, at the point of our announcement.
+<Q>: Great. Thanks, Steve.
+<A – Stephen Crowe>: Thanks, Doug.
+Operator: [Operators Instructions]
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Matt, it looks like we’ve gone through the lists of analysts who had questions for us. I think in
+closing, let me say how much I appreciate all of the analysts’ participation, particularly asking
+questions on behalf of all of those listening. And thank you very much. Matt, back to you.
+Operator: Ladies and gentlemen, this concludes Chevron’s Second Quarter 2008 Earnings
+Conference Call. Thank you for participating. You may now disconnect. Good day.

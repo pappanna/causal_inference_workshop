@@ -1,0 +1,521 @@
+Operator: Good morning. My name is Matt and I will your conference facilitator today. Welcome to
+Chevron's second quarter 2006 earnings conference call. At this time, all participants are in a listenonly mode. After the speakers' remarks, there will be a question-and-answer session and
+instructions will be given at that time. [Operator Instructions]. As a reminder, this conference is
+being recorded. I would now like to turn the conference over to the Chairman and Chief Executive
+Officer, Mr. Dave O'Reilly. Please go ahead sir.
+
+David O'Reilly, Chairman of the Board and Chief Executive Officer
+Good morning and welcome to Chevron's second quarter earnings conference call. I am joined
+today by Steve Crowe, our Chief Financial Officer; and Irene Melitas, Manager of Investor
+Relations. Our focus today is on Chevron's financial and operating results for the second quarter of
+2006, and I will refer to the slides that were e-mailed to you this morning and that are available on
+the web.
+
+Before we get started, please be reminded that today's presentation contains estimates, projections
+and other forward-looking statements and I ask that you review the “Safe Harbor” statements on
+Slide 2.
+I will begin with Slide 3 which provides an overview of our financial performance. The company
+reported results of $4.4 billion or $1.97 per diluted share for the quarter. Our results were up 18%
+compared to the second quarter 2005, on higher crude oil prices and increased production. Second
+quarter results were up 9% from the first quarter of 2006 and Steve will discuss this shortly. Return
+on capital employed for the trailing four quarters was 24%. We continued to reduce debts during
+the second quarter, and at quarter end, our debt-to-capital ratio was 13.4%. Our C&E spending
+totaled $4.3 billion for the quarter. Stock repurchases in the second quarter totaled $1.3 billion,
+reflecting an accelerated buyback pace, and we anticipate completing the $5 billion buyback
+program by year-end, and finally, our year-to-date shareholder return is about 21%.
+Steve will now take us through the quarterly comparisons, first quarter to second quarter. Steve?
+
+Stephen Crowe, Vice President and Chief Financial Officer
+Thanks Dave. My remarks compare the results of the second quarter 2006 to the first quarter. Bear
+in mind that our earnings release compares the second quarter of 2006 to the same quarter a year
+ago.
+Turning to Slide 4; net income was about $360 million higher in the second quarter. Starting with
+the left side of the chart, stronger crude prices improved upstream results but were partially offset
+by the effects of lower natural gas prices in the U.S. The positive margin variance in downstream
+reflects stronger refining margins in the U.S. and improved international margins, particularly in
+Asia-Pacific and Europe.
+Second quarter earnings benefited from higher production in the U.S. related to ongoing restoration
+of volumes shut in from last year's storm activity. More than offsetting, however, were lower
+international upstream liftings, primarily reflecting the timing of cargos. Our second quarter
+earnings were adversely affected by a $250 million abandonment charge net of insurance, related
+to higher anticipated costs to dismantle wells and facilities damaged during last year's Gulf of
+Mexico storms. The variance in the residual, chemicals, and other bar is the net of everything else
+and reflects lower results in chemicals and shipping, a negative swing in tax-related and other
+miscellaneous items.
+
+Slide 5 summarizes the results of our U.S. upstream earnings which were roughly $310 million
+lower between quarters. Higher liquids realizations benefited earnings by 175 million. The $6.62 per
+barrel increase for liquids between quarters was less than the rise in industry benchmark prices.
+While the average quarterly price for WTI improved $7.22 per barrel, the Gulf of Mexico benchmark
+trade month price, which is on a lag basis, rose by $6.42 per barrel. Lower natural gas realizations
+resulted in a negative $165 million profit effect. Our average realizations declined $1.57 per
+thousand cubic feet, less than the average decline in bid week prices, reflecting our regional
+production mix and volume sold at spot. The effects of storm recovery volumes and one additional
+producing day benefited earnings by $65 million. The charge for higher abandonment costs
+associated with structures and wells damaged from last year's hurricanes reduced earnings by
+about 250 million. Included in the other are lower natural gas trading margins and the negative
+swing effects of tax-related and other miscellaneous items.
+Turning to Slide 6; international upstream earnings for the quarter were about $125 million higher
+than the first quarter's earnings, driven by the rise in liquid prices. Higher realizations improved
+earnings by $325 million. Liquid realizations rose by $7.11 per barrel, in line with comparable
+increases of spot Brent prices. Despite slightly higher international production in the second
+quarter, lower liftings last quarter – particularly in the U.K. and Australia – resulted in a negative
+earnings variance of $240 million or about $0.11 per share.
+
+As mentioned during last quarter's conference call, we were overlifted in the first quarter, which
+benefited earnings and during the second quarter underlifted relative to production by a similar
+amount. Year-to-date liftings are roughly in balance with production. The other variance bar
+includes the net effect of various items and includes a favorable swing in foreign exchange and tax
+items that was partially offset by higher operating costs and exploration expenses.
+Looking forward, as a result of the recently enacted tax increase on North Sea oil and gas
+producers, we anticipate taking a third quarter catch-up charge of about $200 million and expect
+another $80 million or so on second half earnings.
+Slide 7 summarizes the change in worldwide oil equivalent production, including volumes produced
+from oil sands in Canada and production under an operating service agreement in Venezuela.
+Volumes were up about 1% between quarters.
+U.S. production increased 18,000 barrels per day between quarters, mainly on the restoration of
+volumes shut in due to storms in the Gulf of Mexico. Despite the increase, the storm-related activity
+curtailed second quarter production by about 60,000 barrels per day. Outside the U.S., oil and gas
+production increased by 7,000 barrels per day between quarters. The main changes were in
+Kazakhstan following the downtime in Tengiz in the first quarter and in the U.K. due to planned
+maintenance last quarter. Production increases elsewhere added about 19,000 barrels per day.
+Turning to Slide 8; production during the first half of the year was 2.66 million barrels per day. This
+was lower than our projection at the beginning of the year as a result of greater-than-expected
+operational downtime and the PSC and royalty effects of higher prices on that production. In the
+second half of this year, we expect production will average about 2.6 million barrels per day. This
+estimate includes a 90,000-barrel-per-day effect from the Empresa Mixta conversion in Venezuela,
+partially offset by production increases elsewhere in the portfolio. Despite the Empresa Mixta
+conversions, our production growth guidance discussed at the March Analyst Meeting remains
+unchanged.
+Turning to Slide 9; U.S. downstream net income rose by about $345 million between quarters, led
+by stronger refinery margins. Margin effects of $400 million contributed favorably to earnings
+relative to the first quarter, reflecting more robust refining margins, particularly in the West. In the
+West, the ANS [Alaska North Slope] refining margin improved by $10.74 per barrel between
+periods, and in the East, the Gulf Coast light/heavy differential indicator rose by $11.48 per barrel.
+On the marketing side, improved aviation fuel margins and stronger seasonal asphalt profits also
+contributed to the higher downstream results. Refined product trade sales were down 4% between
+quarters due to a change in accounting for certain purchase and sales contracts, which now
+requires the transactions to be netted for financial reporting. Absent the accounting rule change,
+trade sales volumes in the second quarter would have been up 3%. Higher operating expenses
+reduced earnings by $50 million, reflecting an increase in environmental reserves and higher plant
+maintenance activity at Pascagoula.
+Turning to Slide 10; international downstream earnings of $444 million were higher than the first
+quarters by about 75 million. Stronger refining and marketing margins, particularly in Asia-Pacific
+and Europe, resulted in a positive variance between periods of $240 million. In refining, increased
+demand coupled with the industry's heavier maintenance activity pushed margins higher. The Brent
+margin climbed $1.53 per barrel, and the Dubai cracking margin rose by $4.56 per barrel. Lower
+marketing margins in most regions were more than offset by stronger margins in Europe. The swing
+in tax-related items reduced earnings by about $60 million between quarters. Finally, the variance
+in other includes lower shipping and trading results as well as other miscellaneous items.
+
+Slide 11 shows chemical results were $94 million in the second quarter compared to 153 million in
+the first quarter. Olefins were down about $60 million, primarily due to lower ethylene margins and
+volumes. Polyethylene results were also lower due to a decline in sales margins. The improvement
+in earnings related to additives was mainly attributable to higher sales volumes and margins.
+Slide 12 covers all other. Second quarter results show a positive variance from the prior quarter,
+largely due to gains from the redemption of the company's investment in Dynegy's preferred stock,
+reflected in the ‘P&L Businesses’ bar and a gain from the retirement of about of $1.5 billion of
+Unocal debt included in other. Absent the gain on debt retirement, the other segment’s net charges
+would have fallen within the range of our standard quarterly guidance, that is, 160 to $200 million,
+excluding Dynegy.
+That completes our brief analysis for the quarter and now I'll turn it back to Dave.
+
+David O'Reilly, Chairman of the Board and Chief Executive Officer
+Thank you Steve. Now, let me briefly recap our strategic progress in recent months, beginning with
+the activities on Slide 13. These include, in Angola, the production of first crude oil from the
+offshore Lobito Field, which together with Benguela, Belize and Tomboco comprise our 31%-owned
+and operated BBLT Development. The project was on time and on budget and ramping up.
+In the U.K., the production of first crude oil from our 85%-owned and operated areas sea project in
+the Captain Field; in Azerbaijan, the participation in the first crude oil shipment through the BTC
+pipeline in which we hold an 8.9% interest; and in Brazil, we announced our commitment to develop
+the 52%-owned and operated Frade Field, our first deepwater development project in Brazil.
+Continuing on Slide 14; in Nigeria, we made an oil discovery in the offshore Oil Prospecting License
+214 in which our interest is 20%. In Australia, we made a natural gas discovery at Chandon-1 in
+the Greater Gorgon development area. And finally, in Vietnam, the signing of a 30-year productionsharing contract with Vietnam Oil and Gas Corporation for Block 22 [Block 122] occurred.
+We also announced several strategic initiatives to enhance the development of our alternative fuels
+portfolio, including the creation of a biofuels business unit, the completion of the acquisition of a
+22% interest in Galveston Bay Biodiesel, and a technology partnership with the Georgia Institute of
+Technology to pursue alternative fuel development, in particular biofuels.
+
+That concludes our prepared remarks. We now take your questions. One question per caller
+please and we will try to wrap up at or before the top of the hour. So Matt if you would please open
+the line for questions, thank you.
+
+Operator: Thank you. [Operator Instructions]. Our first question is from Doug Leggate of Citigroup.
+Your question please.
+<Q – Doug Leggate>: Good morning guys.
+<A>: Hi Doug.
+
+<Q – Doug Leggate>: Refining and marketing, I am a little confused I guess at the – what I thought
+was a fairly low number, your comments about the U.S. suggest the marketing margins were
+higher, can you just breakout the delta, please Steve, between quarters for marketing and maybe
+try and explain if you saw the capture rate and strong margin refinement as less than it would
+otherwise have been in previous quarters?
+<A – Stephen Crowe>: As we look at the refining and marketing variance Doug, comparing the
+second to the first quarter, we indicated that about $400 million of the – it was about $400 million of
+margin improvement. Roughly speaking, about 40 or so of that was attributable to marketing. I
+think inherent in your question and in doing your assessment of what the refining and marketing
+improvement should be quarter-to-quarter is based upon looking at indicative margins for refining
+and indicative industry margins for marketing. In the case of marketing, for example, where we
+give marketing margins in the West and in the East. In the West relative to, for motor gasoline
+relative to dealer tank wagon prices and in the East relative to Houston rack. You have got a mix
+effect of where the locations of our actual sales are and you’ll get a, you can get some distortions
+relative to those industry indicative margins. So, you have a location issue to grapple with and you
+also have a mix of products. Certainly in the eastern part of the United States where we source a
+preponderance of our motor gasoline from other than our refineries, their acquisition is based on
+market at the time. So, it's possible that when you peer in and use indicative margins you might
+otherwise assume that the domestic R&M, for example, would be – would have been higher than
+we have reported.
+<Q – Doug Leggate>: Any – any hangover effects from hurricane cost or anything like that?
+<A – Stephen Crowe>: Fairly minimal, as we indicated in the release, we did continue to have, but
+it was mainly upstream some charges associated with repairs and maintenance as well as the
+abandonment provision that I mentioned and there is a small part still that is associated with
+operations other than upstream, but by comparison, it's pretty small.
+<A – David O'Reilly>: Steve, Dave here – sorry, Doug I guess is on the phone. Doug, we also did
+incur expense related to hurricane preparations across the whole system in the second quarter and
+we are very well prepared for the hurricane season, for example, purchasing and installing
+emergency generators strategically throughout our marketing regions and quite a number of
+temporary housing expenses that are incurred. Most of those are included in that $300 million, but
+probably not all of them have been captured. The $300 million that we highlighted in the press
+release.
+<A – Stephen Crowe>: Doug, one other item and for the benefit of others. In our press release
+and as we have been disclosing for the last several quarters in our SEC filings effective on April 1 is
+an accounting change with how certain purchase and sales contracts are handled. It has an effect
+on the income statement of reducing the revenues and an exact offset on reducing purchases, so
+there is no P&L effect but the volumes will change. And so, you will note in our press release, for
+example, on the attachments you can get the quantification of that as it relates to refined products,
+but I would emphasize there is no P&L effect, this is simply a matter of netting rather than treating it
+on a gross basis. But it is something that the analyst community will need to factor into its models
+going forward. Thanks very much, Doug.
+<Q – Doug Leggate>: Thank you.
+<A – Stephen Crowe>: May we have the next question?
+Operator: Our next question is from Neil McMahon of Bernstein, your question?
+<Q – Neil McMahon>: Hi, just really going towards these abandonment costs, I was very surprised
+that it wasn’t included within your interim update that such costs where coming. And are they
+related to the Typhoon field, which I believe – or Typhoon platform, which I believe has been sunk
+over the last quarter. And if that is the case, are you going to take any reserve write-down on that or
+what is the backup or follow up plan for that field? Thanks.
+
+<A – David O'Reilly>: Neil, I'll take that. This is Dave. We obviously would have liked to have this
+in our interim update, but unfortunately the data was not available until the last few weeks and as
+you know we put our interim update out about a third – end of the third week in June. The issue
+does not have a reserves effect, we have already accounted for that as best we could of course at
+the end of the year. It's not really got a lot to do with Typhoon. This is to do with a more detailed
+subsurface analysis of the damaged facilities and wells that are going to be abandoned and the
+complexity and the cost incurred in basically fully and securely abandoning those facilities. It also
+meant analyzing the availability of insurance to cover those advance. And when the complete work
+was done, the plan filed with the MMS and approved by the MMS and the full understanding of
+what insurance was available to cover this, it became obvious that we just had an exposure here
+that we had to take, because it is an abandonment charge. So, what we're reflecting here is that
+new information from the last few weeks that will secure those facilities. But, they have no – it does
+not involve reserve write-down, it does not involve a charge or anything related to Typhoon and
+with that I – I guess -<A – Stephen Crowe>: As far as we know we've dealt with as much as we can possibly and
+appropriately account for at this time.
+<Q – Neil McMahon>: That's great detail. Just wanted to ask about Typhoon then. What are you –
+at this stage given the fact you are ongoing with the investigations and still concluding the costs.
+What are the – what should we look forward to on this field, is there a future of getting more oil out
+of that field at the moment?
+<A – David O'Reilly>: There is the – there obviously is the potential to recover more. We are
+working on plans – we are working on plans to recover the fields that are economic to do so and we
+have a multiyear plan that we will phase-in over the next few years as we put it in our project
+queue. We – you’ll recall that we had about 300,000 barrels a day of production in the Gulf preKatrina, last August and we have said that this year we would achieve about 200,000 barrels a day.
+25 to 30,000 barrels a day will probably not come back, it's associated with the permanent loss of
+production, but the other 60 or 70,000 barrels a day we're still working on and we will continue to
+work on, and if it is economic, we will continue to work at recovering it. So, we have a plan, we can't
+commit to the details of that plan right now other than it is being worked.
+<A – Stephen Crowe>: Neil, I would – for your benefit and others I would just make a couple of
+other comments. As was the question with Doug, we do have ongoing repair and maintenance
+costs and the way that is accounted for is the expenses are taken as the costs are incurred. By
+contrast, an abandonment provision is something that once it is estimable and probable, you have
+a legal obligation to recognize it all at once. And we had had an abandonment provision associated
+with the damaged structures and wells, and once we have been able to do the more detailed review
+of what we found to be far more mangled and more complicated an abandonment, we needed to
+have a larger provision, net of insurance, and that is why we booked it.
+
+Your point's well taken though, that effect is worth about $0.11 per share. And likewise, the analyst
+community is not in a good position to estimate the impact of the liftings patterns that I alluded to in
+my comments. And that again is worth about $0.11. So, that's a $0.22 swing, which in my mind
+taking that into consideration, the community out there did a pretty good job recognizing that those
+two items were not knowable from your perspective. Thanks very much Neil for your call.
+Operator: Our next question is from Arjun Murti of Goldman Sachs. Your question please.
+<Q – Arjun Narayana Murti>: Thank you. My question relates to your various biofuels related
+announcements. I was wondering if you could characterize order of magnitude investments you
+might be making over the next several years, I presume it's a relatively small amount in light of your
+overall spending. And then related to that, regarding ethanol, is your focus primarily on cellulosic
+and future technologies, or would you have any interest in corn-based ethanol, especially in light of
+the significant ethanol used in California? Thank you.
+
+<A – David O'Reilly>: Arjun, a couple of points. That the investments are relatively small, we are a
+major renewables producer, but most of our investments in renewables are in geothermal. And we
+spend a number of hundreds of millions of dollars a year investing in geothermal growth in Asia,
+primarily in Indonesia and in Philippines. Our investment in biofuels in the U.S. is relatively small.
+We are focused on what we call second-generation ethanol, which is not the corn-based ethanol,
+but the next-generation, which we hope will be the result of transforming some waste material or
+cheaper to grow material into biofuels that's our area focus in our research work. So, the money
+there is relatively small.
+Now having said that, with respect to California, we are working on a marketing program for E85 in
+collaboration with ethanol manufacturers and with the state of California. We are building some
+service stations in California and using California State automobiles and trucks as our sample and
+the idea here is to test the efficacy of E85 in California because there is some concern in the state
+regulators' minds about the air pollution consequences of ethanol because it is more volatile. So we
+have an active program here, which is small, but it will lead us to a more realistic appraisal of E85.
+Having said all of that, 30% of our gasoline today around the United States has ethanol in it,
+primarily 10% ethanol and we are, as you rightly point out a big consumer of ethanol. I think we buy
+or consume about 5% of the ethanol that's produced in the United States. But our main focus is on
+testing the efficacy of E85 and second-generation ethanol, in addition to the work we're doing on
+biodiesel relatively small in the near-term.
+<Q – Arjun Narayana Murti>: That's really helpful. Thank you David.
+<A – David O'Reilly>: Thank you.
+Operator: Our next question is from Bruce Lanni of A. G. Edwards. Your question please?
+<Q – L. Bruce Lanni>: Yeah. Good morning Dave, Steve and Irene. Just a real quick question, I
+want to just get some further clarification on your production guidance because if I'm correct wasn't
+it originally somewhere between 2.7 to 2.8 million barrels a day by year-end, versus the 2.6? And in
+that context does that mean that you account for that you're saying the PSCs and downtime make
+up the difference? Could you maybe go in that a little bit deep – more deeper…
+<A – David O'Reilly>: Yeah. You're absolutely right. Our original guidance – if we go back to that
+chart on – chart number 8 was for 2.7 to 2.8. In the first half of the year we achieved 2.66 about
+40,000 barrels a day below that – the lower end of that band. 25,000 barrels a day of that is PSC
+effects because our assumption for the pricing for the year for the purpose of calculating the
+volume at that time was $55 based on the volume at the beginning of the – our assessment at the
+beginning of the year. So the difference between 55 and 70 or so explains 25,000 barrels a day and
+then we have some operational downtime primarily in the first quarter in places like Tengiz, which
+we discussed at the end the first quarter.
+In the second half of course, we're going to feel the impact of this conversion of Empresa Mixta,
+which takes 90,000 barrels a day of OSA, operating service agreement, production out of our
+portfolio and leaves us with about 30,000 barrels a day or so of equity crude in its place. The
+financial impact of that is immaterial to Chevron because we're going to a higher margin but lower volume amount of crude there. But it does affect our volumes so while the – so the volumetric effect
+here is much bigger than any of the financial effects and now we feel our second half production,
+with that 90,000 barrels a day impact will be about 2.6 million barrels a day. As our production
+ramps up – it continues to ramp up in places like Angola, which is in the process of increasing
+production and some of the other growth activities in our portfolio. So that's how we see things
+today related to the guidance that we gave you in the Analyst Meeting earlier this year.
+<Q – L. Bruce Lanni>: So Dave, am I to infer then from your second half numbers where you have
+the PSC royalty effects of 25,000 barrels a day, are you now assuming that the second half oil price
+is going to be $70 rather than $50…
+<A – David O'Reilly>: We just made a calculation that the price is what it is today and we haven't
+made any assumption about it going up or down. So, we are assuming $70; and this is calculated
+on a $70 basis. We had to calculate it on some basis. So we decided to stick with what we had
+experienced in the first-half of the year.
+<Q – Bruce Lanni>: That's perfect, thanks a lot guys.
+
+<A – David O'Reilly>: Okay? Thank you.
+<A – Stephen Crowe>: Thanks much, Bruce.
+Operator: Our next question is from Nicki Decker of Bear Stearns, your question please.
+<Q – Nicole Decker>: Good morning. My question is on the international upstream. On your
+variance analysis in the other category, you talked about three impacts; the favorable effects and
+tax items and operating costs, which included operating expense. Can you itemize those items?
+<A – Stephen Crowe>: Well, Nicki, we typically don't break out the specifics of the other in the –
+for exact quantification, but I will give you a general direction here. On Slide 6, for everyone's
+benefit, it was a $42 million favorable variance between quarters. You can determine from the
+press release, comparing this press release to last, that the foreign exchange effect is $27 million
+favorable. The tax effect is – the tax benefit effect between periods is a little more than twice that,
+and offsetting those to come down to the net 42, is our higher operating expenses in the 50 to $60
+million range and a smaller increase in exploration expense, after tax, in that segment. So, those
+are the three main components. Again, favorable in terms of tax and foreign exchange and clawing
+some of that back in terms of operating expense and exploration costs.
+<Q – Nicole Decker>: Great, that's real helpful, Steve, thank you. Maybe – are those operating
+costs, will they be ongoing? The higher costs?
+<A – Stephen Crowe>: Well, we are seeing increases in our cost structure. So, in all likelihood that
+will be the case. But, again, the amounts that I referred to were comparisons between quarters. So
+directionally, I think your presumption would be correct.
+<A – Irene Melitas>: And include such things as turnaround costs as well, and maintenance. So
+those would not be repeated from quarter-to-quarter necessarily.
+<Q – Nicole Decker>: Can you quantify that, Irene? What portion of the 50 to 60 this quarter that
+would be?
+<A – Irene Melitas>: Maybe about a third.
+<A – Stephen Crowe>: Thanks Nicki. May we have the next call please?
+Operator: Our next question is from Mark Flannery of Credit Suisse. Your question please.
+<Q – Mark Flannery>: Yeah, hi. I would like to look forward to say, 2008, specifically with the
+Escravos project. There’s some news coming out that you may be getting some delays and or
+changes in the cost structures out there. Could you just comment on what you're seeing with that
+project? And more broadly, do you guys still expect roughly 3 million barrels a day of production in
+2008.
+<A – Stephen Crowe>: Well let me address the first question on our projections. As I had
+mentioned in my earlier remarks, we're still holding to the guidance that we had given in March,
+Mark, that we will see a greater than 3% growth in our OEG production from 2005 to 2010. Even
+allowing for the impact of the chain structure in Venezuela we think that's still good guidance.
+Clearly as we get later in the year and review our plans again for the analyst meeting in the early
+part of next year we will update that guidance but, at this stage, that's still an appropriate
+assessment. David do you want to…
+
+<A – David O'Reilly>: I guess, just to be very specific, whether the 3 million in 2008 is – I don't
+think I want to be pinpointed to that. I think our 3% per year for that period of time from '05 to 2010
+is what Steve is saying and that is what we – the guidance that we gave, I think, in March. On your
+other question on Escravos. The GTL – I think you're referring to the GTL project, is that correct?
+<Q – Mark Flannery>: Yes, that's right.
+<A – David O'Reilly>: Yes that project is underway. There’s – site clearance has been done.
+There have been some delays there and there have been some concerns expressed, I have seen
+in the press by reports on the part of one of the contractors. However, we anticipate that that
+project is going to continue to progress. It is making progress. I think our project completion date
+there is 2009. I think you might have referred to a different date, I'm not quite sure, but it is
+underway and it has begun, including major equipment fabrication and site preparation. So, this is
+not a theoretical one, this is actually in full swing. And it will be completed.
+<Q – Mark Flannery>: Okay great. Thank you very much.
+<A – David O'Reilly>: Thank you.
+<A – Stephen Crowe>: Thanks Mark. May we have the next question?
+Operator: Our next question is from Mark Gilman of Benchmark. Your question please.
+<Q – Mark Gilman>: Folks, good morning. I noticed on the wires a story relating to the fact that
+you're offering your interest in the Norefco refinery for sale. I am hoping that you can either confirm
+or disaffirm that and at the same time, address the question of a broader withdrawal or divestiture
+of the European downstream, given the fact that the potential sale on Norefco would further reduce
+critical mass in a region where that might have been a question even before such sale?
+<A – David O'Reilly>: Okay. Mark, your observation is good one. Let me clear up this issue for a
+while. We are – we do not view a Europe downstream as a core part of our business. And we have
+a sale underway of Hydro – our interest in Hydro Texaco, which is the marketing operations in
+Scandinavia, which should be complete by the end of the year. We are entertaining offers for our
+interest in Norefco and our marketing operations in the Benelux countries, which – and there’s data
+room and there is activity underway currently on that front. However, Pembroke refinery is a
+different kettle of fish. The Pembroke refinery is actually integrated into our Atlantic basin strategy.
+And it's – a considerable portion of its production actually is targeted to North America. And there –
+so, it's – we view that as a part of our strategy. So, just to clear it up, we are not planning to expand
+in Europe. We are decreasing our exposure there. We think this is a good time to do that. We think
+the market is suitably positioned for us to do that. But Pembroke is an important part of our
+portfolio.
+<Q – Mark Gilman>: If I could just follow, UK marketing, Dave, where does that fit?
+<A – David O'Reilly>: Well UK marketing, we have already done quite a bit to move that to third
+parties. So we announced a deal last year with one of the retailers in the area, so we basically have
+reduced our investments substantially in UK marketing. So while we're supplying some of that
+market, it’s very regional and it helps to balance the output of the refinery so that we can swing
+appropriately towards the Atlantic basin with some base offtake that's local in that market.
+<Q – Mark Gilman>: Thanks very much.
+<A – David O'Reilly>: Thanks Mark. Next question please.
+
+Operator: Our next question is from Daniel Barcelo of Banc of America. Your question please.
+<Q – Daniel Barcelo>: Yes, good morning. Just following on the downstream theme here. Earlier
+in the year you bought a 5% stake in Reliance Petroleum, just didn’t know if you could give a little
+bit of a business and strategy update there, if you are still considering the option you have to
+increase your stake further? And then just following on what Mark’s question was, is this signaling
+any portfolio shift also away from – you answered on Europe, maybe you could comment the same
+way in terms of Latin America, building towards a stronger base in your Southeast Asia position?
+<A – David O'Reilly>: Well, let me start with the strategy. Our Asia strategy, we have been
+focused on Asia downstream and focused very specifically on it since Chevron and Texaco
+combined in 2001. And it is clearly a core area for our company. In the region, we are expanding
+and modernizing the refinery in Korea. We increased our interest in the Singapore refinery from a
+third to a half about 18 months ago. We have, also, a large and modern refinery in Thailand and our
+interest in India is just a continuation of the pursuit of that strategy. We did acquire a 5% interest in
+May in this new export refinery that is being built in Jamnagar. It is a 580,000 barrels a day refinery
+and it will come on stream late in 2008. We have 5% and our agreement will permit us to increase
+our interest to 29% and, concurrent with that supply rights and product offtake. It is in an export
+zone, it's geared to the export market and we believe it will be the first big refinery to come on in
+Asia. They will still come on in a timeframe where the margins are strong. So we like it strategically
+and we like it economically.
+And we have made good progress with Reliance, they are a good partner. We are also working
+with them on pursuing opportunities in the upstream and the gas business in India and the region,
+and as we mentioned in the press release that went out at the time, that we agreed to take that 5%.
+So, clearly that's an area of focus for us. And Latin America, we are a very strong marketer in some
+areas of Latin America. We're not in the refining business there. We're focused in places like Brazil.
+We have exited, however, some of the markets particularly in the Andean region where we didn't
+think we had a competitive advantage and didn't see the economic outlook. Recently, during the
+quarter we exited Ecuador, for example, and we have been systematically strengthening our focus
+in the Caribbean and in Central America and in Brazil in that area. So, a big focus on Asia, a big
+focus on the West Coast, the US, less focus in Latin America.
+<Q – Daniel Barcelo>: Thank you.
+<A – Stephen Crowe>: Thank you Dan. May we have the next question please?
+Operator: Our next question is from Paul Cheng of Lehman Brothers, your question please.
+<Q – Paul Cheng>: Good morning, everyone.
+<A – David O'Reilly>: Good morning, Paul.
+<Q – Paul Cheng>: Dave and Steve and Irene, I have two questions and a comment, if I could,
+one is just want to get some, a quick number, what is the environmental charge and also the actual
+under lifting impact for the quarter, as well as the 200 million of the UK tax one-time charge that you
+are going to do in next quarter. How much of them is related to the deferred tax?
+<A – Stephen Crowe>: Let me take that question, Paul. Let me start with the second one first. As I
+had mentioned we think we are going to be booking an approximate 200 million catch-up charge in
+the third quarter, roughly 170 of that pertains to the deferred tax and the balance of that refers to
+the first half of the year’s current tax.
+<A – Irene Melitas>: 140.
+<A – Stephen Crowe>: 140, excuse me.
+<Q – Paul Cheng>: 140 or 170, I'm sorry?
+<A – Stephen Crowe>: I misspoke; it's 140 million for the deferred tax. It's running approximately
+40 million a quarter for the current tax. As to your other question, as we had shown on Slide 6, the
+impact of the shift in liftings between first and second quarters was worth an approximate $240
+million. The swing in liftings between the first and second quarter was roughly 80,000 barrels a day
+and I think from your perspective, Paul, you can think of it it's an approximate equal amount of
+under lift in the second quarter compared to the amount of overlift in the first quarter. Going
+forward, at the end of June we are essentially in balance, however.
+<Q – Paul Cheng>: How about the environmental charge in the U.S R&M?
+<A – Stephen Crowe>: The incremental charge in the -<Q – Paul Cheng>: No, the environmental. I think you have indicated that the higher operating
+expenses partly is because of the provision for the environmental charges?
+<A – David O'Reilly>: We'll have to get back to you on that.
+<A – Stephen Crowe>: Let me see here, it's not jumping out at me right away.
+<A – David O'Reilly>: In the great scheme of things it's not that material, but it is measurable.
+<Q – Paul Cheng>: And if I could just one last question, then a comment. The question is that for
+Dave, are you concerned that Chevron and the oil industry as a whole may have underspent on the
+R&D effort? If we look at the spending by your company and the rest of the industry on R&D as a
+percent whether the profit or sales volume, comparing to other industry, seems to be a pretty low
+percentage. And is that a possibility that because of that underspending over time you will reduce
+your competitive edge and particularly in light of more of the national oil companies enter the scene
+of competition?
+
+<A – David O'Reilly>: I think it’s the other way around, Paul. We actually have been maintaining a
+considerable focus on R&D and given the commodity nature of the business and the volatility, I
+don't think that R&D as a percent of sales is a good measure. I think R&D as a percent of total
+capital or some other metric is probably even more appropriate and that’s something that we
+monitor. You’ll recall that we had a very in-depth presentation on our philosophy and our areas of
+focus on research that Don Paul gave at lunchtime following the Analyst Meeting in March in New
+York City.
+And we have a very unique model and we are very proud of it. We have an integrated technology
+company, it is unique, it manages the whole breadth of our business from the reservoir to the gas
+pump. It is a combination of focus on certain areas of proprietary research, which we guard very
+carefully and focus lot of our effort on, as well as leveraging research, where we don't have all of
+the expertise in one place, for example in biofuels. So, we have a good combination of proprietary
+and leverage research and it is a tremendous area of focus, and I believe that for companies like
+ours, it is a competitive advantage relative to NOCs, who in general do not have the same level of
+experience in this area. There are exceptions, of course, but in general, I think that is a competitive
+advantage.
+<Q – Paul Cheng>: Okay. Very good. Thank you.
+<A – Stephen Crowe>: May we have the next question please?
+Operator: Our next question is from Matt Warburton of UBS. Your question please. Mr. Warburton,
+your line is open.
+
+<A – David O'Reilly>: Could we have the next question please.
+Operator: We will go over to Jennifer Rowland of JP Morgan. Your question.
+<Q – Jennifer Rowland>: Thanks. I was wondering if you could comment on the integration with
+Unocal, in particular your ability to retain key personnel from Unocal and also where you are in the
+synergy capture?
+<A – David O'Reilly>: Well, let's see. We are very far along – all of a – we have completed
+basically all of the integration, including all the essential back office, like the financial systems and
+human resources systems. So, we are very pleased with the integration. We have captured 80% of
+the $325 million synergy as of mid-year and the rest of the tail has to do with some of –
+implementing these detailed back office activities that will – almost all of which is captured by the
+end of the year. So, we are essentially there.
+We are very pleased with the performance of the assets; they are at or ahead of plan. We are very
+pleased with the exploration performance: we have already had two discoveries on Unocal leases
+in the Gulf of Mexico, including Knotty Head and Big Foot, and of course we have been
+sidetracking Knotty Head and making I think good progress there. On the people front, I think we
+have done well. Has it been perfect? No. In fact, like most companies there is a tremendous
+demand for people, and it's not just a matter of demand for Unocal people, it’s demand for people
+who are former Chevron or former Texaco or former Getty or whatever. So, we have the same
+demands that I think everybody else feels.
+Having said that though, our – we have gained in terms of population of technical people this year.
+So, our net – we have had a net gain, but it is something that I think it's something that we have to
+manage very carefully and one that we're focused on because it is critical to our success as it is for
+many other companies. We look at our business as being – from the outside, it looks like it's very
+capital intensive, but like every business it all revolves around people and the effectiveness of
+people and their ability to perform and contribute. So, very, very pleased with the performance of
+Unocal. Of course on a value, basis transactions today are occurring at approximately twice the
+value per picture metric compared to what we acquired Unocal for last year.
+<A – Stephen Crowe>: Jennifer, in addition to all of the business value that Dave was alluding to,
+when you see our filing, which will be next week for the second quarter Q, well, we are closing off
+on the purchase accounting for the transaction itself and you will see some final information in the
+footnotes just for your benefit and the investment community. So goodwill will have been finalized
+and the allocations to the assets acquired and the liabilities assumed. Thanks very much, maybe
+we can take one more question.
+Operator: Our final question is from Mark Gilman of Benchmark. Your question please.
+<Q – Mark Gilman>: Dave, real quick. Can you give us an update on the Jack production test?
+<A – David O'Reilly>: Everyone asked about Jack. I really can't, I can tell you that the production
+test is complete, it's being evaluated we have a number of partners that are involved in it and until
+the technical work is complete, we just can't really disclose anything. I'm hoping that by the end of
+the year we will have something to say about Jack, but thanks for asking.
+<Q – Mark Gilman>: Thanks a lot.
+
+David O'Reilly, Chairman of the Board and Chief Executive Officer
+
+I would like to thank you all for participating in the call today. Should you have any other questions
+Irene and the team here are ready to respond and I appreciate everyone's participation. And thank
+you and I look forward to hearing you in the next call or seeing you at the next meeting. Thanks.
+Stephen Crowe, Vice President and Chief Financial Officer
+Goodbye.
+Irene Melitas, Manager, Investor Relations
+Goodbye.
+Operator: Ladies and gentlemen this concludes today's second quarter 2006 earnings conference
+call. You may now disconnect, good day.

@@ -1,0 +1,597 @@
+Operator: Good morning. My name is Matt and I will be your conference facilitator today.
+Welcome to Chevron’s Third Quarter 2007 Earnings Conference Call. At this time, all participants
+are in a listen-only mode. After the speakers’ remarks, there will be a question and answer session
+and instructions will be given at that time. [Operator Instructions]
+I will now turn the conference over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Mr. Steve Crowe. Please go ahead, sir.
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thank you, Matt. Welcome to Chevron’s third quarter earnings conference call. Today on the call,
+I’m joined by George Kirkland, Executive Vice President, Upstream and Gas; Mike Wirth, Executive
+Vice President, Global Downstream; and Jim Aleveras, General Manager, Investor Relations.
+Our focus today is on Chevron’s financial and operating results for the third quarter of 2007. We’ll
+refer to the slides that are available on the web. I remind you that today’s presentation contains
+estimates, projections, and other forward-looking statements and ask that you review the Safe
+Harbor statement on slide 2.
+
+Turning to slide 3, the company reported earnings of $3.7 billion in the third quarter, compared with
+$5 billion in the third quarter 2006. Earnings of $1.75 per diluted share were down from $2.29 per
+share reported for the same quarter last year.
+Both periods reflected about $400 million or approximately 19 cents per share of net charges
+associated with non-recurring items. The main driver for the earnings change was a decline of over
+$1 billion in downstream profits. Escalating costs for crude-oil feedstocks could not be fully
+recovered in the market. This impact was global but it was especially significant on the U.S. West
+Coast.
+Overall third quarter results were $1.7 billion lower than our record second quarter 2007, which Jim
+will discuss shortly. Return on capital employed for the trailing four quarters was 22%. During the
+quarter, we retired about $2 billion of debt reducing the debt ratio to about 7.5% at quarter end.
+Third quarter share repurchases totaled $2 billion, reflecting an accelerated buyback pace. As we
+projected in last quarter’s conference call, we completed the December 2006 buyback program
+during the third quarter. In September, we announced and initiated a new repurchase program of
+up to $15 billion over a period of up to 3 years.
+Jim will now take us through the quarterly comparisons. Jim?
+
+James Aleveras, General Manager, Investor Relations
+Thanks, Steve. My remarks compare third quarter results to those of the second quarter 2007. As
+a reminder, our earnings press release compared third quarter 2007 with the same quarter a year
+ago.
+Turning to slide 4, third quarter net income was $1.7 billion lower than the record level of the
+second quarter. Lower downstream margins were the most significant component of the change.
+Upstream realizations increased but the benefit was partly offset by lower international liftings due
+to the timing of cargoes.
+
+Additionally, the second quarter included the $680 million gain on the sale of Chevron’s investment
+in Dynegy while the third quarter reflects a smaller $265 million gain on the sale of the company’s
+Benelux fuels marketing assets. Separate from these major asset sales, there was a further $300
+million adverse effect between the sequential quarters due to net non-recurring charges. The most
+significant factor was the difference in tax items contributing to a $230 million variance between
+quarters. Additional non-recurring items along with other factors in the aggregate were responsible
+for a negative variance of about $130 million as shown on this slide.
+Except for large discrete items, it has not been our practice to identify smaller non-recurring
+charges and credits. We did so this quarter because of the large swing in these smaller items
+between the second and third quarters.
+Just to recap, the third quarter included $415 million less in gains on major asset sales and $300
+million more in smaller non-recurring net charges than did the second quarter. This amounts to an
+adverse swing of more than 700 million between sequential quarters of more than 33 cents per
+share.
+
+
+Turning to slide 5; slide 5 summarizes the results of our U.S. Upstream earnings which fell by about
+$90 million between quarters. Higher realizations benefited earnings by about $135 million
+between quarters. Higher liquids prices contributed $250 million to earnings but lower natural gas
+realizations had a $115 million offsetting impact.
+Chevron’s domestic crude-oil realizations were up about $9.80 per barrel between quarters, around
+50 cents per barrel less than the increase in average WTI spot prices. This partly reflects Gulf of
+Mexico production that is priced on a lag basis. This is a benefit when prices are falling but a
+headwind when prices are rising. Our natural gas realizations fell by a little over $1.10 per
+thousand cubic feet, which is in line with the average changes in bid week pricing at Henry Hub in
+California and in the Rockies.
+Our volumes were slightly lower due to storm related shutdowns in the Gulf, maintenance work and
+natural field declines. These were partly offset by one more producing day in the third quarter.
+Asset retirement obligations were higher by $60 million, mainly due to an adjustment to the
+abandonment provision for offshore California properties that were previously sold. The other bar
+on this slide reflects higher expiration expense, asset impairment, and the absence of gains on
+some small operations we sold in the second quarter.
+Turning to slide 6, this slide compares upstream international earnings, which fell about $120
+million between the second and third quarters. Stronger liquids realizations benefited earnings by
+almost all of the $285 million impact shown on this slide. Natural gas effects, while positive, were
+essentially negligible. Liquids realizations improved by about $5.80 per barrel in line with the rise in
+spot rent prices. Lower liftings spread across multiple countries reflected the timing of cargoes and
+reduced earnings by $240 million. We were in a net under-lifted position in the third quarter, which
+brings the year 2007 to a balanced liftings position. Tax adjustments reduced earnings by about
+$80 million between periods. The variance in the other bar includes asset impairment charges.
+Turning to slide 7, slide 7 summarizes the change in worldwide oil-equivalent production, including
+volumes produced from oil sands in Canada. Daily volumes were down by 39,000 barrels between
+quarters. Maintenance-related shutdowns in the U.K. North Sea were the largest factor in this
+change. George Kirkland will discuss production volumes in more detail in a moment.
+Turning to slide 8, our U.S. downstream results in the third quarter fell nearly $900 million from the
+prior quarter. Margins were down $680 million. Both refining and marketing margins fell, but the
+decline was particularly large for West Coast refining margins. Breaking out the $680 million, over
+90% of that amount was refining margins, and over two-thirds of that amount, in turn, was related to
+the West Coast. Crude prices rose more rapidly than product prices during a period when product
+inventories were ample.
+West Coast margins also include an unfavorable variance in final pricing adjustments for long-haul
+crude. Lower refining volumes reduced third quarter earnings by $90 million, primarily due to a fire
+at our Pascagoula, Mississippi refinery in mid-August, as well as other planned maintenance there.
+The unfavorable variance in the other bar on this chart includes employee termination benefits and
+provisions for litigation. Both the second quarter and third quarter included environmental
+remediation charges in this segment.
+Turning to slide 9, international downstream earnings, up $487 million, were $30 million lower than
+the second quarter. Realized downstream margins dropped by about $275 million, in line with the
+change in indicator margins. Asian refining margin indicators fell by one-third and indicator margins
+were sharply lower in Europe as well, as was the case in the U.S., the price of crude rose more
+rapidly than the price of refined products during the quarter. These lower margins fully offset the
+gain on the sale of our fuels marketing business in the Benelux countries. The other bar on this
+slide includes asset impairment charges, lower shipping earnings and employee termination
+benefits.
+
+Looking at slide 10, this slide shows the chemical operations, earnings in the quarter were $103
+million essentially unchanged from the prior quarter. Results for oil sands improved due to higher
+ethylene margins and reduced utility costs. Aromatics benefited from improved styrene earnings,
+reflecting higher margins and increased volumes. Aromatics also benefited from the absence of an
+asset write-down we mentioned in the second quarter. The other bar includes an environmental
+reserve provision in the third quarter.
+Slide 11 covers all other. Second quarter results included the $680 million gain on the sale of our
+interest in Dynegy, which was partly offset by $160 million of charges related to the early
+redemption of Texaco capital bonds. Similar to the second quarter, this segment includes about
+$70 million of environmental remediation expenses for legacy, Texaco and Unocal sites that have
+been closed or sold. Third quarter net charges for this segment fell at the high-end of our standard
+guidance range of 160 to $200 million as we advised in our interim update.
+That completes our brief analysis of the quarter. Back over to you, Steve.
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thanks, Jim. We wanted to use a portion of today’s teleconference to give George Kirkland and
+Mike Wirth an opportunity to update you on our upstream and downstream business developments
+respectively. We’ll start with George. He’ll turn things over to Mike, and then we’ll open it up for
+your questions. George?
+
+George L. Kirkland, Executive Vice President, Upstream and Gas
+Thank you, Steve. I’ll start on slide 13. Before I provide you with an update of our major capital
+projects I would like to review our 2007 production results. This slide compares our net OEG
+production through the first 9 months of 2007 versus the first 9 months of last year. Although, we
+are down 50,000 barrels a day this year, we can point out 90,000 barrels of losses in 2007 that are
+attributable to our contractual change in OPEC curtailments in Venezuela.
+Our production efforts this year have been focused on managing our base business declines and
+capturing gains from major capital projects that have recently come online. The low base business
+decline is a positive indicator of our base business efforts. However, there are many moving parts
+in the base business, workovers, development wells, reliability and so on, and it’s too early to say
+that our typical 4 to 5% base decline rate has changed.
+Now I’ll update you on some of our key projects. Please turn to slide 14. Let’s start in the Gulf of
+Mexico deepwater with our Tahiti project, where we have a 58% net working interest. As a
+reminder, Tahiti is designed to have a production capacity of 125,000 barrels of oil per day and 70
+million cubic feet of gas per day. We have continued to progress this project by completing
+installation of export pipelines, completing five of the six development wells, and installing a
+significant portion of the subsea production system and flow lines. The spar hull is complete and
+the topsides are near completion. The hull and topsides will be ready for offshore installation once
+replacement, mooring shackles, and components are delivered and the rescheduling of the
+installation is finalized. A metallurgical problem with the original shackles was identified in June,
+and installation activities were deferred in order to insure that the facilities would be put in a safe
+and reliable operation.
+
+Installation of the truss spar is now scheduled to begin in the first quarter of 2008. The topside
+installation, the mating with the spar, is targeted for the third quarter of 2008. First production is
+now expected by the third quarter of 2009, approximately 12 months later than originally planned,
+due to the shackle replacement and the installation rescheduling.
+Now let’s turn to slide 15. We also continue to progress our Blind Faith project, located in the
+deepwater Gulf of Mexico. In July, we purchased an additional 12.5% working interest in this
+project bringing our total interest up to a 75% share. The topsides have been lifted onto the hull
+and all three development wells have been drilled. Positive results from the development drilling
+supports the future drilling of a fourth well by 2009. Offshore installation and well completions are
+scheduled to commence in November of this year, with first production expected by the second
+quarter of 2008. Blind Faith has a production capacity of 45,000 barrels of oil per day and 45
+million cubic feet of gas per day.
+Now onto slide 16, where I will update the status of the Agbami deepwater Nigeria project. Its
+floating production, storage and offloading vessel has left the fabrication yard in South Korea, and
+is being towed to the offshore Nigeria location. This FPSO is the largest of its type in the world and
+will be moored and ready for hook-up in the first quarter of 2008. It has a processing capacity of
+250,000 barrels of oil per day and a storage capacity of 2.1 million barrels of oil.
+We have already drilled 11 producers and 7 injectors. We have two rigs working on the
+completions of these wells. We are on-track for first oil by the third quarter of 2008. We expect to
+be at full capacity within one year of startup. As a reminder, Chevron has a 68% interest in this
+project.
+Now turning to slide 17, I’ll cover the Tengiz SGI/SGP project. We anticipate that Sour Gas
+Injection and the first production will begin in the fourth quarter of 2007. As a reminder, Chevron
+has a 50% working interest in TCO and the expansion startup, which we call staged oil, will enable
+us to increase production by about 90,000 barrels a day gross. The Second Generation Plant,
+which is pictured here, should be fully operational by the second half of 2008. This will add another
+160,000 barrels of production per day.
+The labor disruption of 2006 extended the construction period. But we have made great strides in
+keeping this project moving forward. The combined SGI/SGP project has been one of the most
+complex and challenging multi-billion dollar projects that Chevron has ever led, and we are glad to
+see this project nearing its completion and startup. In the interim period between project startup
+and the Caspian pipeline expansion, alternative rail export routes ensure we can export the full
+plant output.
+
+Now let’s turn to slide 18. Production growth in the near-term is all about the start-up and ramp-up
+of these highlighted major capital projects. Before I finish this morning, I wanted to cover other key
+milestones that occurred during the third quarter. The first two bullets further illustrate that our
+large queue of opportunities are moving forward. Gorgon has passed a couple of very important
+milestones recently. We received environmental approval from the Western Australian Minister for
+the Environment in September and Federal Minister for the Environment in October. Our
+engineering efforts are focusing on the permit conditions, modularization opportunities, and
+execution planning. In Indonesia, we started up the Darajat III geothermal project in July. This
+facility adds 110 megawatts to West Java power grid. The Darajat facility now has a total capacity
+of 260 megawatts.
+The next two items are examples of how we replenish our development queue. In August, we
+announced the Malange oil discovery in Block 14 deepwater offshore Angola. This well
+encountered more than 200 net feet of oil sands. The well was tested at a rate of over 7,500
+barrels of oil per day of high-quality crude. Future drilling is planned to assess potential reserves
+and assist in the development design.
+
+In July, we reported the successful production test of the Rosebank appraisal well, located some
+100 miles northwest of the Shetland Islands. This well, in approximately 3,700 feet of water, flowtested 37 degree API light oil at restricted rates of 6,000 barrels of oil per day. The appraisal and
+evaluation program should be completed by November of this year and will allow us to determine
+the future work program and development of this discovery.
+We also recently announced our extension of the production period for Thailand Blocks 10 through
+13. By securing this production extension, we will now be able to move major investments forward
+on the Platong II project. Platong II is the planned expansion of the existing Platong assets, which
+are currently producing 250 million cubic feet a day and 40,000 barrels a day of hydrocarbon
+liquids. Platong II will add gas processing capacity and enable our oil and gas projects to be
+accelerating.
+Now, I’ll turn it over to Mike.
+
+Michael K. Wirth, Executive Vice President, Global Downstream
+Thanks George. Moving to slide 19, I would now like to update you on key downstream initiatives
+beginning with operational excellence. Improved reliability continues to be our top priority. We have
+resolved many high-risk conditions, which have caused unplanned downtime. Despite these
+improvements, we experienced significant crude unit fires this year at Richmond and Pascagoula.
+These incidents remind us that we still have work to do, and have further strengthened our resolve
+to improve reliability to enhance capabilities, processes, and equipment.
+While the fire at Pascagoula was unfortunate, our incident response was swift and effective, limiting
+the impact and preventing any injuries. We expect to complete repairs during the first quarter 2008.
+The demolition phase is proceeding safely. Critical equipment orders have been placed, and
+delivery is scheduled. And we’re taking steps to optimize conversion unit utilization while the crude
+unit is offline.
+As the left chart shows, lost utilization from unplanned downtime this year has been slightly greater
+than in 2006, due to the two fires. However, we continue to drive down the number of unplanned
+outages, as shown on the right. Incidents per quarter at our largest operated refineries have fallen
+more than 50% since 2005. And since the first quarter turnaround, crude unit utilization at
+Richmond has been consistently strong, averaging 101%. Our U.K. refinery has also operated very
+well the entire year, also averaging 100% crude utilization. And conversion unit utilization at these
+facilities has also been very strong.
+
+Turning to capital projects on slide 20; we are progressing well in terms of achieving the major
+milestones we committed to earlier this year. During the quarter, our South Korean joint venture
+refinery completed construction of its resid upgrade project ahead of schedule and on budget. We
+expect the upgrade to lower crude costs by about $1 per barrel, increase light product yield by
+33,000 barrels per day, and add 15,000 barrels per day of new lubricant base oil production. A new
+vacuum column, among the largest in the world, and a new hydrocracker, lubricants base oil plant,
+and other conversion units have begun commercial operations.
+On the West Coast, we are currently modifying our El Segundo coker, during a planned turnaround
+to enable a shift to heavier and higher sulfur crudes and to improve coker reliability. We expect to
+meet our product supply commitments during the turnaround and to have the heavy crude
+enhancements online by year end.
+We completed the Caspian Blend integration project at our U.K. refinery ahead of schedule and on
+budget. We now have the ability to feed Caspian Blend crude at rates up to 40% of total feed. This
+will provide an economic outlet for growing equity production.
+Finally, we announced sanctioning of the Continuous Catalytic Reforming project at Pascagoula.
+The new CCR will improve utilization and optimize product yields. Gasoline production at the
+refinery is expected to increase about 10% with completion anticipated by mid 2010.
+
+In summary, we are ahead of schedule or on track to complete the significant capital projects we
+committed to bringing online this year.
+Moving to slide 21, we’re also making significant progress in high-grading our portfolio. As you can
+see from the map, we have made a number of divestments in the past two years on top of ongoing
+efforts to reduce the capital intensity of our branded retail network.
+As you recall, back in March, we announced our intent to pursue divestments in Europe and Latin
+America. We have followed through and succeeded in monetizing assets and businesses we no
+longer considered strategic. In March, we sold our 31% interest in the Nerefco Refinery in the
+Netherlands and other assets there, generating $1.1 billion in after-tax proceeds.
+During the third quarter, we closed the sale of our fuels marketing business in Belgium, the
+Netherlands and Luxembourg for about $500 million in proceeds excluding the final adjustment
+expected by year end. We also reached agreements to sell our proprietary, consumer and
+commercial credit card businesses. We believe these arrangements will enhance the payment
+products we offer our customers, while enabling us to maintain the strong brand loyalty associated
+with our cards.
+More portfolio improvement opportunities are being evaluated and we’ll share progress on these in
+the future. We are working to create a more focused footprint for our marketing businesses. Fewer
+markets, but stronger positions in those markets will help us reduce costs and further improve
+returns on invested capital.
+And now, I will turn it back over to Steve.
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thanks, Mike. That concludes our prepared remarks. We’ll now take your questions, one question
+per caller, please. Matt, please open the lines for questions.
+
+Operator: Thank you, sir. [Operator Instructions]. Our first question comes from Dan Barcelo of
+Banc of America [Banc of America Securities]. Your question please?
+<Q – Daniel Barcelo>: Yes, good morning gentlemen. Thank you for the update, particularly on
+the projects. Quite useful. I wonder if you could spend a little bit on Gorgon. Having received a lot of
+the environmental approvals, could you talk a little bit about maybe the costs you’re looking at now?
+I know it may be premature as you’re still trying to cost and phase that, but any thoughts about how
+you’d phase the development, and particularly on the costs for Gorgon? Thank you.
+<A – Stephen Crowe>: George?
+<A – George Kirkland>: Dan, let me start off. I think you’ve highlighted a lot of the points that
+we’ve still got to address. In my comments, I mentioned that we need to go back and look at the
+permit conditions. We have a significant number of permit conditions that we’ve got to have
+mitigations fully vetted and understood how we would handle where we don’t get into a cost issue
+during the construction stage. So we are presently backed looking at all those conditions.
+
+And I would add one other area that we’re really spending a lot of time on is on modulization.
+Remember we’re building this on Barrow Island. We’ve got the ability to do a lot of modules and
+bring them in to minimize the actual work on the island. And that in many ways helps us, because
+of the situation at the island, the constraints we have about moving equipment in there. We need to
+have a really good plan, and modulization will really help us there.
+So that was the elements that we’re really focusing on at this point in time. I expect I’ll be able to
+talk quite a bit more about schedule and where we are at our March Analysts Meeting, and at that
+point in time I will try to really give a lot more details around the plan forward on Gorgon.
+<Q – Daniel Barcelo>: Thanks very much.
+<A>: Thank you, Dan. May we have the next question, please?
+Operator: Our next question is from Doug Leggate of Citigroup. Your question, please?
+<Q – Doug Leggate>: Thanks, good morning, gentlemen.
+<A>: Good morning, Doug.
+<Q – Doug Leggate>: Steve, the one-off items this quarter – I guess I’m thinking specifically about
+refining and marketing, you’ve given us some breakdown on the larger items, environmental
+mediation and so on. But it seems that there were quite a number of other fairly significant items,
+particularly on the U.S. downstream. Could you go into a little bit more detail if you can on just to
+quantify that?
+<A – Stephen Crowe>: Sure, I’ll ask Jim to handle that. We anticipated that might be a question,
+since we kind of foreshadowed on our October 9 interim update that there would be a fair number
+of non-recurring items that affected the results this quarter. So Jim?
+<A – James Aleveras>: Doug, your question is with respect to the U.S. downstream?
+<Q – Doug Leggate>: Well, clearly across the businesses would be useful, but that was the one
+specifically where we saw a bit of a gap.
+
+<A – James Aleveras>: Well in the U.S. downstream, again, the effects were primarily margin
+related. If we look at the non-recurring charges between the second and third quarter, there was
+not a significant difference in that particular segment, in the U.S. downstream segment.
+<Q – Doug Leggate>: Then the absolute number this quarter is what I’m trying to get, the absolute
+impact.
+<A – James Aleveras>: The absolute number in the third quarter was about $50 million negative.
+<Q – Doug Leggate>: Okay. Do you have that for the other divisions?
+<A – James Aleveras>: In terms of our segments?
+<Q – Doug Leggate>: Yes.
+<A – James Aleveras>: For the third quarter, the U.S. upstream, the non-recurring charges in
+aggregate were about $100 million negative. For the international downstream, the net nonrecurring charges were about $250 million negative. As I mentioned, for U.S. downstream it was
+about 50 million negative.
+
+For the international downstream, because of the gain on the Benelux assets, the change – or the
+impact was a favorable 165. I should point out that’s $100 million less than the gain on the Benelux
+assets. So there was the gain on the Benelux assets of plus 265 and there were net non-recurring
+charges of negative 100. In the chemical segment, the impact was negative $40 million and in the
+other – all other segment, the impact was about $100 million for a total of $400 million that we
+quoted in our earnings press release.
+<Q – Doug Leggate>: The 121 employee termination and litigation, you’re not terming that a one
+off item in the U.S.?
+<A – Stephen Crowe>: Yes, we are, Doug. And it’s not a large item, but the severances that were
+recognized in third quarter results were both in the United States as well as international. Thanks
+very much for your question. May we have the next question, please?
+Operator: The next question is from Paul Sankey of Deutsche Bank. Your question, please?
+<Q – Paul Sankey>: Hi, good morning, guys.
+<A – Stephen Crowe>: Hi, Paul.
+<Q – Paul Sankey>: I want to ask a question about India. But if I could just make a – further to
+Doug’s point, an observation, why is it that – I’ll tell you what, I’ll not phrase it as a question. You
+have in the earnings supplement a table of special items and other adjustments by quarter with
+nothing in it, but you’re identifying $400 million of specials. I just, again, I don’t want to use up my
+question on that, but I do find it slightly odd that there’s zero reported within that table and I was
+kind of wondering why that is. But if you could just...
+<A – Stephen Crowe>: We won’t count that as a question so – in the post Reg. G [Regulation G]
+world we live in, which goes back a few years now about making pro forma adjustments to GAAP
+earnings, these items were properly recognized in the third quarter. They’re event driven as in the
+case of sales or the recognition of impairments or severances and the like. And we don’t view them
+as – these happen for all large companies in varying degrees from period to period. We just felt
+there was enough of them that occurred in the quarter that we should highlight it for the analyst
+community in the interim update and in the press release. It’s really then left up to the individual
+analyst to determine whether or not those should be taken out in order to get more of a clean
+earnings from your perspective. So it’s only that, Paul.
+<Q – Paul Sankey>: Yes, I just found it strange that <A – Stephen Crowe>: Did you have a question?
+<Q – Paul Sankey>: Yes, let’s move on. In terms of India, could you just update us please, that
+you haven’t mentioned it here amongst your major initiative chat. Could you just talk a little bit
+about the status of the expansion that you’ve got going on there, firstly? Secondly, the timing and
+potential for you to expand your position? And, finally, a progress update on how you’re getting on
+with the upstream element of that whole move that you made there? Thanks.
+<A – Stephen Crowe>: Okay. Thank you, Paul. I think I’ll ask Mike to talk a little bit about the
+progress that we’re seeing on the downstream side.
+<A – Michael Wirth>: Okay, Paul. I think there were three parts, I’ll take the first two and I’ll hand
+the upstream one off to George.
+
+The refinery construction is progressing very well. Over 97% of the engineering work is done and
+the construction is well underway. I think the announced start date for that refinery is 2008, and I
+fully expect that start-up to occur next year. Relative to our investment position, as you know we
+have a 5% stake and subject to a number of other agreements being negotiated, the opportunity to
+increase that to 29%. We have not concluded those other agreements and no decisions have been
+made as to the ultimate decision relative to our equity share in that refinery. And I’ll ask George to
+comment on the upstream.
+<Q – Paul Sankey>: Could I just ask you, the timing next year of the – you mentioned ‘08
+obviously for the refinery, that’s presumably a first-half event. And secondly, the timing, if you could
+just remind us on the increase on the stake, when we’ll get an answer on that, would also be
+interesting. Sorry to interrupt. Thanks.
+<A – Michael Wirth>: Yes, I think the announced start date for the refinery is actually second half
+‘08, and the timing for our final decision on our investment position is subsequent to the refinery
+start-up.
+<Q – Paul Sankey>: Thanks.
+<A – George Kirkland>: On the upstream issue, I would say we still have interest in the KG Basin.
+But Paul, there’s really not been much progress in really developing that opportunity. So really it’s
+nothing really to report at this point in time.
+<Q – Paul Sankey>: Is there any initiatives that there might be something, George, that you could
+talk about, or are we kind of moribund here? Thanks.
+<A – George Kirkland>: Really nothing to talk about at this point in time, Paul. Just it’s, it’s just not
+ready and there’s a lot of other people besides us that are interested in that. So I really don’t have
+anything to report.
+<Q – Paul Sankey>: Thanks George. I’ll leave it there. Thank you.
+<A – George Kirkland>: Thanks.
+<A – Stephen Crowe>: May we have the next question please?
+
+Operator: Our next question is from Mark Flannery of Credit Suisse. Your question please.
+<Q – Mark Flannery>: Yeah. My question is for George, and it concerns the decline rate. You
+said that it’s too early to say whether or not the base decline of 4 to 5% is to be changed. But could
+you just expand a little on that and tell us what kind of things specifically you’re doing presumably to
+get that rate down obviously? And when do you think it would be appropriate to talk about a new
+decline rate in the upstream?
+<A – George Kirkland>: I’ll answer the last part of that question first. I want some run time on – to
+see exactly how we are influencing it. Specifically, we are – we’ve got, I think, great processes
+where we in effect do base business audits around the world and we audit from the reservoir
+through all the facilities. We look at reliability, we look at reservoir performance, we look at the
+interaction between the surface facilities and the subsurface facilities to make sure we don’t have
+any bottlenecks. We’ve been on that process, for now, about three years. It continues to turn up
+opportunities for us to optimize our production around the world.
+
+We are seeing some influence. This first nine months of this year we’ve had some great successes
+in South Texas with some development wells, which we used good seismic technology there, and
+had some good results there. We’ve got some other places where we’ve focused on our water
+floods and we’ve seen some decline rates shallow out. We’ve got a lot of history of multiple years
+that this 4 to 5% decline rate is what we’ve been typically seeing. So I’m encouraged by the first
+nine months, but I want a lot more run time, and I am confident that the processes that we’ve put in
+place is going to help us, for the long period, improve our recovery and reduce our decline rates in
+the greatest sense. But I think it’s a little bit too early, and that’s why I made those comments that
+way.
+<Q – Mark Flannery>: And George, would you characterize this as mostly EOR type stuff or, I
+mean are you spending more money on Enhanced Oil Recovery or are you – or is it a mix of
+things?
+<A – George Kirkland>: It’s a mix of things. It is not one focus. We have 4 to 5 areas that we
+really focus on and we – in some places, we get it out of just system reliability, raising the reliability,
+the run times. Some places it’s, hey, we find a facility that we can push more barrels through and
+we see we’ve got reservoir capability to match to it and not have to spend a lot of monies on
+facilities. So we’re doing all those type things like, once again, from the reservoir through the sales
+point to try to optimize the system in all our business units around the world.
+<A – Stephen Crowe>: Thanks, George. Thank you Mark for your questions. May we have the
+next question please?
+Operator: Our next question is from Mark Gilman of Benchmark. Your question please.
+<Q – Mark Gilman>: Guys, good morning. I have a question for Mike Wirth if I could, please,
+relating to Pascagoula, one specific part of it and one more general. Mike, could you give an idea
+as to the size of the crude unit that is down? That’s the specific one. More generally, I guess I was
+a little surprised to see the sanctioning of the CCR project, and I’m assuming that in having done so
+the expansion – distillation expansion at Pascagoula which had been under evaluation is now no
+longer on the table. Could you comment on the validity of that observation?
+<A – Michael Wirth>: Yes, on the – the crude unit, it’s about 160,000 barrels per day. And on the
+CCR, you know that’s an independent project. We’ve got old fixed-bed reformers there that need to
+have the catalyst regenerated. So we’ve got to pull the reformers off line for catalyst regeneration,
+and it significantly impacts our ability to get the utilization at the facility up. So this is a reliability
+project that has a very strong economic payout, and frankly, there are not many of these fixed-bed
+reformers still in operation in the industry. So it’s really upgrading the technology to the current
+state-of-the-art.
+The evaluation of other alternatives for Pascagoula continues. We – I think I’ve indicated that we
+would reach a final decision on that next year. Certainly, you’re seeing project economics
+challenged in the refining sector on the Gulf Coast as well as the rest of the world by the cost
+environment, by the questions about the margin environment, uncertainty about biofuels
+penetration and future demand, etcetera. So we’re factoring all those into our evaluation of
+alternatives, and we’ll have more to say about that next year as that work is complete.
+<Q – Mark Gilman>: Mike, if I could just follow up on that for a sec. If you’re considering an
+expansion, I don’t know how you go about properly sizing what the replacement reforming capacity
+ought to be.
+<A – Michael Wirth>: Well on the reforming, it fits into a refinery that is configured with a number
+of other facilities that has streams that create feed for the reformer. And, so what we’re doing is
+taking existing intermediate streams and we are installing facilities that essentially you can look at it
+as a de-bottleneck or a capacity creep kind of a project that enables us to more fully utilize the
+streams available within the refinery and increase the utilization.
+<A – Stephen Crowe>: Thanks for the question, Mark. May we have the next question please?
+
+Operator: Your next question is from Neil McMahon of Sanford Bernstein. Your question please.
+<Q – Neil McMahon>: Hi, just maybe this is a quick one you don’t have many answers for, but
+most of the impact on the refining in the U.S., the negative impact as you said was on the West
+Coast. Just wanted to go into maybe walking through some reasons for that, and did you have
+hedges in places there that could have caused some of those losses?
+<A – Michael Wirth>: Sure. As Jim showed earlier, when you compare the third quarter to the
+second quarter, our U.S. earnings were down nearly $900 million. More than two-thirds of that
+decline was due to industry margins, and really the balance for the U.S. was due to lower volumes,
+and that is primarily Pascagoula. So I think the quarter-to-quarter comparison is pretty
+straightforward on those two pieces.
+We have some pricing effects on our crude oil into the refining system that we see most acutely at
+times of rapid change in crude prices, and our foreign crude that we purchase that is long-haul
+crude gets provisionally priced while it’s on the water. And, so we’ll see the effect of those
+increases before we actually capture the margin for running that crude. So we do have some paper
+effects that you see in an environment like this that are exacerbated by the amount of long-haul
+crude that we run and the way that we price crude into our system.
+<Q – Neil McMahon>: So you don’t really do hedge accounting then on those long-haul crude, or
+in the West Coast?
+<A – Michael Wirth>: We mark the pricing to current period pricing, and we convert – we run our
+refineries to capture the margin of the day, so we convert the pricing to run-month pricing. And, so
+what that does result in is some open paper that is a price conversion of the feed stock to the run
+month.
+<A>: Let me just add on that point, again, as Mike said, those are part of the contractual provisions.
+They’re not hedging per se. So when a cargo is lifted it has a contractual term as to when it’ll be
+priced so many days after lifting. And in a rising market, as we’ve seen here in the third quarter,
+that works adversely against us. Thank you very much for the question and the follow-up.
+<Q – Neil McMahon>: Steve, I’ve just got a...
+<A – Stephen Crowe>: Yes? May we have the next question please? Sorry.
+Operator: Our next question is from Paul Cheng of Lehman Brothers. Your question please.
+<Q – Paul Cheng>: Thank you. Good morning gentlemen.
+<A – Stephen Crowe>: Hi Paul.
+<Q – Paul Cheng>: This is for Mike. Mike, if I look at the third quarter market condition, Gulf Coast
+3:2:1 crack spread is roughly in the 11 to $12 per barrel and that the California crack is probably
+about in the 13, $14. While that they bounced sharply from the second quarter, but they are really
+not that bad from a historical standpoint – standard standpoint. And if you look at earnings, I mean
+adjusting for the 50 million into environmental we meet Asian charge and also the 90 million loss
+related to Pascagoula, you earned 30 million. Is there a structural problem with your asset there
+that your hardware you just need to be revised sharply in order for them to be more sustainable in a
+more normal pricing environment?
+<A – Michael Wirth>: No, I don’t think there is a structural problem in the market or in the refinery.
+I think the indicator margins did decline more sharply on the West Coast than on the Gulf Coast
+and with a skew to the – our downstream where we have more than half of our U.S. refining
+capacity on the West Coast, that sharper decline will affect us to a greater degree.
+
+<Q – Paul Cheng>: No Mike, I’m talking about on an absolute level that the crack is still talking
+about in the 10 to $15, which is not really that bad.
+<A – Michael Wirth>: Let me take another shot at building on the question that Neil was asking.
+We have these non-ratable pricing effects related to the change in crude prices which are most
+significant because of the amount of long haul crude that we bring into the West Coast. And so if
+you look at 3Q ‘07 versus 3Q ‘06 you would see that the margin declines are not especially severe
+and the absolute level of margins, as you say, are not as extreme as the earnings delta might
+indicate, but if you look at 3Q ‘06, we saw crude prices drop by about $11 a barrel over the quarter.
+In 3Q ‘07 we saw crude prices increase by $11 per barrel in the quarter, and so those non-ratable
+pricing affects have significant knock-on accounting effects that get unwound subsequently as we
+actually run the crude, but in the quarter they create pronounced affects on our West Coast
+downstream performance.
+<Q – Paul Cheng>: Mike can you quantify for us?
+<A – Michael Wirth>: I don’t have the numbers in front of me to quantify that, Paul.
+<A – Stephen Crowe>: You know, Paul, you’re talking on average maybe 15 million barrels of
+long-haul crude on the water, and as Mike said in the earlier period a year ago, we saw crude
+prices from beginning to end of the quarter drop by $11 a barrel, and just the reverse effect that
+occurred here in the third quarter. That is going to be a material impact on the comparison
+between adjacent years on a variance. And it’s one of the reasons why sometimes the indicative
+margin doesn’t become realized for our company. Thanks for your question.
+<Q – Paul Cheng>: Thank you.
+Operator: Our next question is from John Herrlin of Merrill Lynch. Your question please?
+<Q – John Herrlin, Jr.>: Yeah, hi. With Thailand you said that you extended the contract. Are the
+terms still similar, or are they higher, for the country?
+
+<A – Stephen Crowe>: Do we have similar terms? It’s still that the Thai one terms. We do have
+some issues with related to how we extended it, but overall the terms are basically the same.
+<Q – John Herrlin, Jr.>: Okay. If I can then ask another quick one. You were pretty active at the
+last Central Gulf sale. Could you give us a sense on how many of the leases were Miocene versus,
+say, PLAG?
+<A – Stephen Crowe>: I think my memory of the major targeted prospects, I believe it was a 9 or
+11 of a total that we really captured major new prospects. All of them but one was the lower
+tertiary.
+<Q – John Herrlin, Jr.>: Thank you very much.
+Operator: Our next question is a follow-up from Mark Gilman of Benchmark. Your question please?
+<Q – Mark Gilman>: Yes, I’ve got one for George. George, if you could, on Block 14 in Angola,
+could you tell me whether or not there are separate PSCs for each of the fields, and the extent to
+which there’s rate-of-return thresholds built into those production-sharing contracts, pursuant to
+which profit barrels and profit percentages would step down once the threshold is reached.
+
+<A – George Kirkland>: Mark, I’m going to limit my comments a little bit, I will tell you we have
+different development areas around each field. Our development areas have typically, in block 14,
+been larger than what we have seen in the past and in some cases, they have been more or less
+brought together to allow cost recovery to be moved from one development to the other. So we
+have had larger development areas than in the past. I’m not going to speak about the contractual
+pieces beyond that.
+<A – Stephen Crowe>: Thanks Mark. We’ll take one more question, and then we’ll wrap it up.
+Operator: Our final question is from Michael Lamont of JPMorgan. Your question please?
+<Q>: Thank you, made it under the wire. Question related to upstream cost pressures, as your
+spending is shifting more towards completion and production, are you seeing any changes in the
+rate of change of cost there? I guess, I would think that completion inflation is probably not as high
+as drilling in rigs, offshore rigs in particular.
+<A – George Kirkland>: Let me take a shot at this one in a couple of ways. First off, remember
+we are operating in 25 to 30 countries around the world, we’ve got a whole portfolio of projects that
+are in anything from the early phase, engineering to just about to start up and actually a lot of them
+to start up. The ones that are late in phase, we know contractual costs very, very well. Those
+projects are not seeing and have not seen the same movement in costs as projects in their early
+phases. I would tell you whether a project is an onshore project in North America or it’s an offshore
+project or a deepwater project, all of those are in effect, change the outcome of the cost increases.
+I’ll give you a couple of examples of what we’ve seen and maybe that will help you get a little bit of
+context. We had a project in Angola, we brought online a deepwater project in Angola that we
+brought online a little over a year ago, we’re doing a very similar project that’s in the fabrication
+stage at this point, so we understand contractually what the cost is going to be for drilling, for
+building of all the facilities reinstallation, so we got the contracts really nailed down.
+There’s a five to seven year difference in the lifecycle of the two projects and when you compare
+project A to project B, we see almost 100% increase in the cost of doing the similar work. So that’s
+very typical in the deep water where you’ve seen rig rates go up. Deepwater rig rates have gone
+up two to three times over a 5 year period. Other areas we are not seeing the same, and once
+again its -- every project we look at individually because you’ve got a different mix of contracts that
+are either in place, and we have some period at a different rate than what we see in the future. So
+we look at everything on a specific project-by-project basis.
+I would tell you one of the best areas to look at, maybe to give you a view of what the cost in the
+general industry, what’s happened there in the last probably five to seven years, is to look at the
+CERA, the Cambridge Energy Research report that was published, I believe in the last year. And
+what it basically shows is, over the period from early 2000 to late ‘06, about 180 to 90% increase in
+what their – in their index. So they’ve shown a significant move in that index, and I think it’s very
+indicative of the general industry.
+<Q>: Is there anything in the component cost that is leading you to think about redirecting capital
+on the margin? Anything inflationary in the component side that would lead you to rethink project or
+redirect capital to better return?
+<A – George Kirkland>: We do that. I would tell you the one that’s probably been impacted the
+most is Shelf Gulf of Mexico where we made some decisions on changing how much capital we are
+spending on some of our delineation and development wells there. Rig rates have moved way,
+way up very quickly. And you look at the pricing side of Henry Hub gas and you see the gas price
+has not moved. As a matter of fact, gas has moved down and oil has moved up. So we would
+have a bias there at this point in time to be oilier if we have a choice. And we’ve got some projects
+because of the cost run up on the services, and the downturn on the gas price that they are not
+really projects that are viable. So they are put back on the shelf.
+
+Thanks, George. And Mike thank you for your question.
+In closing, let me say that we appreciate everyone’s participation on today’s call, and I especially
+want to thank each of the analysts on behalf of all the participants for their questions during this
+morning’s session. Matt back to you.
+Operator: Ladies and gentlemen, this concludes today’s third quarter 2007 earnings conference
+call. You may now disconnect. Good day.

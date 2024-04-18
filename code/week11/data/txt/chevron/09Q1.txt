@@ -1,0 +1,686 @@
+Operator: Good morning. My name is Sean and I will be your conference facilitator today.
+Welcome to Chevron’s First Quarter 2009 Earnings Conference Call. At this time all participants
+are in a listen-only mode. After the speaker’s remarks there will be a question and answer session
+and instructions will be given at that time. [Operator Instructions]. As a reminder this conference
+call is being recorded.
+I will now turn the conference call over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Ms. Pat Yarrington. Please go ahead.
+
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+Thanks Sean. Welcome to Chevron’s first quarter earnings conference call and webcast. Jim
+Aleveras, General Manager of Investor Relations is on the call with me. Our focus today is on
+Chevron’s financial and operating results for the first quarter of 2009, we’ll refer to the slides that
+are available on Chevron’s website.
+
+Before we get started, please be reminded that this presentation contains estimates, projections,
+and other forward-looking statements. We ask that you review the cautionary statement on slide
+two.
+Slide three provides an overview of our financial performance. The company’s first quarter
+earnings were $1.8 billion, or $0.92 per diluted share. Our first quarter 2009 earnings were down
+64% from the first quarter of 2008. First quarter 2009 earnings fell 62% compared to the fourth
+quarter of 2008, which Jim will discuss shortly.
+Return on capital employed for the trailing 12 months was 22%. The debt ratio was about 12% at
+the end of the quarter and Jim will now take us through the quarterly comparison. Jim?
+
+James Aleveras, General Manager, Investor Relations
+Thanks Pat. My remarks compare results of the first quarter 2009 with the fourth quarter 2008. As
+a reminder our earnings release compared first quarter 2009 with the same quarter a year ago.
+Turning to slide four, first quarter earnings were down $3.1 billion from the fourth quarter. Starting
+with the left side of the chart, lower crude oil and natural gas utilizations reduced the company’s
+worldwide upstream earnings. Additionally upstream results were adversely affected by a foreign
+currency variance of about $600 million and the absence of $600 million asset exchange gain
+recorded in the fourth quarter of last year. Partly offsetting was the benefit of higher upstream
+volumes in the first quarter. First quarter downstream results were also sharply lower than the
+fourth quarter, largely due to the absence of favorable fourth quarter timing effects. The first
+quarter included a $400 million benefit from asset sales. The Other bar primarily reflects lower
+corporate charges.
+Slide five summarizes the results of our U.S. upstream operations, which declined to breakeven in
+the first quarter. Lower crude oil and natural gas realizations reduced earnings by $480 million.
+Chevron’s average U.S. crude oil realizations were down about $14.60 per barrel between
+consecutive quarters, somewhat less than the nearly $16 per barrel drop in the average price of
+West Texas Intermediate. Of the $480 million total variance shown in the chart, $100 million was
+due to lower natural gas realizations, which fell about $1.10 per 1000 cubic feet between quarters.
+The absence of a $600 million gain on our fourth quarter asset exchange transaction was
+responsible for more than half of the earnings decline between the quarters. Lower operating
+expenses benefited first quarter earnings by $130 million. The Other bar reflects lower gas
+marketing earnings along with write-offs associated with exploration activities and higher DD&A
+rates.
+Turning to slide six. International upstream earnings for the first quarter were about $750 million
+lower than the fourth quarter’s results. Lower oil and gas prices reduced earnings by $465 million.
+Our unit realizations for liquids fell by about $7.40 per barrel, somewhat less than the $11 per barrel
+decrease in Brent Spot prices. Higher first quarter liftings particularly in Kazakhstan, Nigeria, and
+Republic of the Congo improved earnings by $105 million.
+Operating and exploration expenses were down $210 million from the fourth quarter. The OpEx
+reductions were spread among all major geographic areas and multiple cost categories. The FX
+and Other bar is essentially all related to foreign currency effects which were a $644 million gain in
+the fourth quarter compared to a $33 million gain in the first quarter.
+Slide seven summarizes the change in worldwide oil equivalent production including volumes
+produced from oil sands in Canada. Production rose 123,000 barrels per day, or nearly 5%
+between quarters, volumes were up 52,000 barrels per day in the United States and 71,000 barrels
+per day internationally. Lower prices led to a 46,000 barrel per day increase in our production,
+more than half of this amount reflected higher cost recovery entitlements under our Indonesian
+production sharing agreements.
+
+Restoration of production in the Gulf of Mexico after last year’s hurricanes increased OEG volumes
+by 41,000 barrels per day. At the end of the first quarter about 35,000 barrels per day remained
+offline and are expected to be restored as third-party pipelines and facilities are repaired.
+External constraints reduced production between sequential quarters. Reduced production in
+OPEC member countries was partly offset by higher natural gas sales in parts of Asia. Our
+worldwide base business decline of 13,000 barrels per day represents an annualized 2% decline
+versus our guidance for 2009 of a 7% base business decline. The 7% estimate for the full year is
+still our expectation, there is just a lag between reduced investment and reduced production.
+Ramp-up of production at our major capital projects added 65,000 barrels per day to first quarter
+volumes. Blind Faith which started up last November and Agbami, which is continuing to build to its
+250,000 barrel per day target, were the two largest components of the increase. Higher volumes
+from the Tengiz expansion were also a contributor.
+Last quarter I provided a general rule of thumb that we expected that each dollar change in crude
+prices would inversely effect production by 1,200 barrels per day. You may have noticed that the
+volumetric impact of price shown on this chart was a larger amount in the first quarter. The
+difference reflects the non-linear nature of price effects and reinforces the need for caution using
+rules of thumb as I have mentioned before. We’ll provide an update on the price/volume
+relationship next quarter.
+Turning to slide eight, U.S. downstream earnings declined $900 million in the first quarter. The
+overall impact of lower marketing and refining indicator margins was $160 million. On the West
+Coast refining margins strengthened somewhat between quarters, but the impact was more than
+offset by weaker marketing margins. Lower sales volumes reduced first quarter earnings by $80
+million. This reflected some planned maintenance at our El Segundo, California refinery along with
+lower lubricant base oil sales. The variance and timing effects between quarters was $760 million.
+On an absolute basis timing effects were a loss of about $60 million in the first quarter consistent
+with the direction projected in our April Interim update.
+
+The comparable fourth quarter timing effects were a $700 million gain. The first quarter absolute
+timing effects were much smaller due to the phasing out of provisional pricing for our major supply
+contracts, reduced use of derivatives to lock-in margins as well as the lower volatility of crude oil
+and refined product prices in the first quarter.
+Moving to operating expenses. They were a favorable variance of $225 million between quarters
+reflecting lower fuel and marketing expenses. The Other bar on this chart is a variety of
+miscellaneous items including trading losses and an adverse product mix compared to that
+assumed in the indicator margins.
+Turning to slide nine, International downstream earnings fell about $360 million from the fourth
+quarter’s results. On balance refining and marketing margins reduced earnings by $80 million
+between quarters. Margins were down in all regions except Latin America.
+Timing effects represented a $990 million variance between quarters. On an absolute basis they
+added about $850 million to fourth quarter results in this segment, while they reduced first quarter
+earnings by about $140 million. The timing effects in the first quarter were mainly associated with
+derivatives used to lock in margins on long haul crude oil and refined products. We closed the
+previously announced sales of our fuels marketing operation in Nigeria and Brazil, which added
+about $400 million to first quarter earnings.
+
+Operating expense was lower across most regions and cost categories for a favorable variance of
+$170 million. Various tax items and trading profits made up the majority of the $143 million shown
+in the Other bar. Foreign currency effects were partly offsetting.
+Slide 10, shows that earnings from chemical operations were $39 million in the first quarter
+compared with $28 million in the fourth quarter. Results for olefins fell on lower margins.
+Aromatics earnings increased due to the absence of a fourth quarter impairment charge and some
+improvement in volumes and OpEx. Chevron’s Oronite Additives subsidiary had lower earnings
+due to weak demand. The Other bar is due to a favorable swing in foreign exchange effects.
+Slide 11, covers all other. First quarter results were net charges of $294 million compared with net
+charges of $365 million in the fourth quarter. Lower expenses within corporate departments, and a
+favorable change in foreign currency effects were partly offset by an adverse swing in tax items.
+The result for all other was within our guidance range.
+Before turning the call back to Pat, I’d just like to briefly recap the first quarter. First, upstream
+earnings fell significantly due to the absence of prior period gains and lower commodity prices,
+although production volumes increased, all in line with the Interim update.
+Second, downstream results saw adverse timing effects in contrast to sizable gains in the prior
+quarter. These were partly offset by asset sales gains, also mentioned in the interim update. Pat
+will now summarize our operational and strategic progress. Pat.
+
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+Thanks, Jim. Turning to slide 12, I would like to update to you on our operational performance so
+far in 2009. We projected upstream production growth, and you saw the 65,000 barrel per day
+contribution from our major capital project ramp ups in the earlier production chart. We set an
+objective for reliable refinery operations. For our major operated and affiliate refineries first quarter
+crude unit throughput was about 94% of capacity, higher than any quarter in the last two years.
+As we described in our March Analyst Meeting, we’re driving for lower cost, across the enterprise.
+We’ve had well over a 1000 individual meetings with key suppliers at the local, regional, national
+and global levels in pursuit of lower costs. In addition to focusing on costs sourced from thirdparties, we are aggressively managing down our internal costs. We’re driving our own activities to
+be more cost effective and efficient. Some savings are already being seen. As shown on the prior
+chart, OpEx was down in the first quarter in each segment. And first quarter 2009 before tax
+operating and SG&A expenses were nearly $0.5 billion lower compared with first quarter 2008.
+We’re also managing our capital and exploratory expenditures. I mentioned our industry leading
+global procurement processes at our March meeting; we are using these processes to ensure that
+our capital projects benefit from a declining input cost environment. And we’re adjusting the pace
+of our capital investments to ensure the best returns in the current market.
+Now, a brief recap of our strategic progress in recent months, please turn to slide 13. Our major
+upstream capital projects are on track to meet our growth targets. Offshore Nigeria, our Agbami
+Project continued to ramp-up on schedule achieving 175,000 barrels per day by the end of the first
+quarter and currently at almost 200,000 barrels per day. We’re on plan for Agbami to deliver
+250,000 barrels per day peak production by the end of this year.
+In the Gulf of Mexico, Blind Faith started production in November of last year. Production ramped
+up to its full target of 70,000 OEG barrels per day in March. Also in the Gulf, Tahiti remains on
+schedule for first oil shortly. Final hookup and commissioning are essentially complete. All six
+producing wells have been completed and are expected to ramp-up to peak production of 135,000
+OEG barrels per day by the end of the year.
+
+Offshore Brazil, Frade is on schedule for first oil by the latter half of this year. The FPSO is moored
+on site with subsea installation and facility hookup underway. Production is expected to reach
+90,000 barrels per day in 2011.
+Offshore Angola, Tombua-Landana remains on schedule for first oil in the second half of this year.
+All topsides are in place and hookup and commissioning are continuing. Peak production of
+100,000 barrels per day is expected to be reached in 2011.
+In the Gulf of Mexico our Jack / St. Malo development project is progressing and is projected to
+enter front-end engineering and design soon.
+Our industry leading exploration program has continued its success with the Buckskin Discovery in
+the Gulf of Mexico Lower Tertiary trend.
+We also announced the successful completion of a 7-well exploration and appraisal program for the
+Wheatstone, Iago fields Offshore Australia. And yesterday, the Environmental Protection Agency
+of Western Australia said that our Gorgon project could meet the EPA’s objective conditioned on
+certain criteria. We welcome the decision as we work towards the final investment decision later
+this year.
+In the downstream, our portfolio rationalization continues to move forward and as Jim mentioned,
+we’ve recorded a gain of $400 million on the sale of our fuels marketing businesses in Nigeria and
+Brazil. We’re also continuing to focus on refinery reliability.
+In summary, we’re executing our plans to position Chevron for both current earnings and long-term
+growth.
+That concludes our prepared remarks, and we’ll now take your questions. I’d ask that you please
+try to limit your follow-up questions so that everyone has an opportunity to ask what’s on their
+minds. Sean, please open the lines for quarters?
+
+Operator: [Operator Instructions]. Our first question comes from Mark Gilman with Benchmark
+Company.
+<Q – Mark Gilman>: Pat and Jim, good morning to you. I wanted to talk a little bit about the timing
+on the ramp up on Frade and Tombua-Landana. Any particular reason that the plateau won’t be
+achieved until 2011 with the second half 2009 start-up? Is this a development drilling and rig
+constraint or something else?
+<A – Patricia Yarrington>: Well I think it’s really just the scheduling around when the producing
+wells are planned for startup, Mark. It’s a scheduled plan.
+<Q – Mark Gilman>: And there has been no changes in that, Pat?
+<A – Patricia Yarrington>: There has been no changes in that. We’ve been very consistent on
+those schedules for several months.
+<Q – Mark Gilman>: Okay if I can just have one other follow-up, the $100 million after tax charges
+the write-offs in U.S. upstream, could you talk just a little bit about what that is more specifically and
+I am assuming, please correct me if I’m wrong, that it’s not included in the reported exploratory
+expense in the quarter?
+
+<A – James Aleveras>: Mark, it’s a combination of things that are primarily exploratory in nature,
+but some of them run through DD&A. They have to do with write-offs and write-downs of
+exploratory wells as well as things that are related to that that we run through DD&A.
+<Q – Mark Gilman>: Jim, that’s not hugely clear. [Laughter].
+<A – James Aleveras>: Well, I can’t be a whole lot more clearer than that, Mark. What we have is
+fairly straightforward here. This is the sort of thing that we see regularly. We had increased dry
+hole cost quarter-over-quarter, we had things like an unproved property write-down, which runs
+through the DD&A rate and it’s just a number of small items.
+<Q – Mark Gilman>: Okay, we’ll take it offline. Thanks folks.
+Operator: Our next question comes from Jason Gammel from Macquarie.
+<Q – Jason Gammel>: Thank you and good morning everyone. I had a couple of questions on
+Western Australian gas. The first is with the Gorgon environmental approval process now
+essentially complete, is there anything that stands in the way of final investment decision other than
+the final partner approval, and would you expect to be able to reach the final investment decision
+this year?
+<A – Patricia Yarrington>: That’s a good question, Jason, thanks. What will happen now is that
+there will be a period of public commentary, a short – relatively short period of opportunity for public
+commentary. We then will need to respond to those issues that are raised in that. We actually
+believe that by having the Western Australia EPA announcement now and the ability to move
+through the public comment period and the response period that we are – will be able to stay
+completely on track with final investment decision before the end of the year.
+<Q – Jason Gammel>: Terrific that’s what we were hoping here. And then if I could turn to
+Wheatstone and Iago, you mentioned that the exploration appraisal program is complete. Can you
+talk about next steps, will you be moving the project into FEED [Front End Engineering and Design]
+this year marketing LNG volumes, etcetera?
+<A – Patricia Yarrington>: We do – because of the successful appraisal program, we do expect to
+be able move into FEED in the second half of 2009.
+<Q – Jason Gammel>: Great. Thank you very much.
+Operator: Our next question comes from Paul Cheng with Barclays.
+<Q – Paul Cheng>: Hi guys.
+<A – Patricia Yarrington>: Good morning.
+<Q – Paul Cheng>: Good morning. Pat and Jim when you were talking about the cost saving, can
+you give us a number that how much is year-over-year, first quarter ‘08 to first quarter ‘09 your total
+cost saving maybe and what is that as a percentage to your total controllable cost, I am more
+interested in the cost saving, if we are excluding the effect from the FX and the energy cost saving?
+<A – Patricia Yarrington>: Yeah Paul I mean I appreciate the question completely and I can
+understand why you want to have as much segregation as you can, but let me just talk broadly
+about our emphasis on driving costs lower both from an OpEx standpoint and a capital outlay
+standpoint.
+
+We’ve met, as I said with thousands of suppliers in these one on one meetings all around the
+globe, the meeting are having successes. But as you can imagine with the contract renegotiations
+it’s not – not everything starts on March 1 or April 1 or May 1, so there is a bleed-in time to when
+these new contractual and lower negotiated rates will take effect. So there is not an easy way to
+get to an absolute number for you.
+Secondly not everything is moving in a uniform manner. It really depends on the cost category that
+we’re talking about and how that cost category is linked to economic growth, commodity price
+levels, supplier concentrations, the amount of backlog that they have in their fabricating yards,
+etcetera.
+So on land rigs it’s very fluid, we’ve seen reductions of anywhere from 35 to 50% versus a year
+ago. Major service providers, we’ve seen contract renewals that are 15 to 20% lower. Obviously,
+any piece of major equipment that’s requiring steel will have significantly lower costs, you know as
+well as I do that steel prices are down 60% from their peak. And the same is true for other
+commodities as well.
+The fabrication or engineered units are really dependent upon the degree of commoditization of the
+unit. If it’s a unique piece of equipment with strong demand and there aren’t very many
+manufacturers then we’re not, we’re not seeing tremendous amount of price break at the moment.
+But, if it’s a more standard, more commodity type engineering requirement and there is slack
+capacity, then we’re seeing a high degree of cost pressure is evident and we’re able to take
+advantage of that.
+I think we mentioned at the analyst meeting that offshore, the deepwater rigs are, rig rates are
+much stickier, and that’s due to sustained offshore demand and to some extent capacity constraints
+near-term. I mentioned in our analyst meeting that we have indexed a number of our contracts and
+we also have global master agreements that allow us to really secure procurement leverage. So,
+depending upon the cost category, we’ve seen contract term reductions anywhere from 50 to 60%
+down to 5 to 10%.
+<Q – Paul Cheng>: Pat, can I have a follow-up question? In your 2009 CapEx of 22.9 billion the
+actual number is more like 20.6, because you have 2.3 billion is on the sign on bonus upfront.
+
+What’s the -- can you give us a rough idea, what’s the percentage of that spending that you target
+as already locked in on fixed price contracts or that in other words, what is the percentage that may
+be subject to the benefit as the day rate or that the raw material spot rate continue to come down?
+<A – Patricia Yarrington>: Yeah. I mean I think a majority of that spending certainly is under
+contract terms with the contracts having been let several months ago. So I think you need to think
+of a majority of that as not being spot determined. But having said that, I mean we are having
+these discussions with these key suppliers as we speak. And so we’re working very hard to secure
+lower costs.
+<Q – Paul Cheng>: Very good. Thank you.
+Operator: Our next question comes from Paul Sankey with Deutsche Bank.
+
+<Q – Paul Sankey>: Yeah, hi everyone. Good morning. I’m just looking at your cash balances,
+we back into a number of around $4.7 billion of cash from operations, if I add back the DD&A to the
+net income, and a line for the 400 million of asset sales, I end up about $1.7 billion below your
+CapEx number. It doesn’t quite jive with the way your debt moved which seemed to go up more
+than that over the course of the quarter. Is that a working capital movement or am I missing
+something completely? Thanks.
+<A – Patricia Yarrington>: Yeah. That’s a good question Paul. I mean we did have an increase
+in our net debt of about $3.5 billion here. This obviously did reflect the poor operating cash flows
+related to commodity prices. But also importantly there is the capital program amount which did
+include a significant bonus payment, which is not a ratable sort of thing. But in addition to that, we
+did have a working capital increase and that principally or there was a significant piece in there,
+there was a non-ratable item that related to a crude sale -- purchase and sale agreement that was
+started a long time ago, years and years ago where we had very favorable credit terms on the
+purchase as composed to the sale – as related to the sale and then that contract terminated in the
+first quarter. So that is something that you won’t see again repeated in subsequent quarters.
+<Q – Paul Sankey>: Okay, I think I understand. Are you expecting – can you remind me what you
+have been saying about pension contributions for the year in terms of cash?
+<A – Patricia Yarrington>: Yes. We have said in our, well, it’s not out yet, but the number we
+have used is $800 million and that’s the number that you will see in our 10-Q when it’s reported as
+the excepted contribution for 2009. We’re not in a position of having to make a U.S. contribution at
+this particular point in time, but we are estimating 800 million for both U.S. and non-U.S.
+contributions.
+<Q – Paul Sankey>: And just jumping back to working capital, the two elements you described to
+me the bonus payment and the non-ratable crude contract, would those account for the difference –
+could you just give me a working capital number? I’m sorry.
+<A – Patricia Yarrington>: Working capital was up $1 dollars.
+<Q – Paul Sankey>: Okay.
+<A – Patricia Yarrington>: In the quarter. And...
+<Q – Paul Sankey>: Yeah.
+<A – Patricia Yarrington>: ...a significant piece of that related to this crude buy-sell that I
+mentioned.
+<Q – Paul Sankey>: What – do you think you’ll move back towards the – if, say your crude stays at
+$50 and we stay at 3.50 nat gas, would you expect your finances to get back in cash balance
+towards the end of the year allowing for your expected cost savings? Or do you think this would
+still be a debt increase here for the remainder?
+<A – Patricia Yarrington>: I think it’s more likely than not that there would be a modest increase in
+the debt over the course of the year. But I will have to caution that that is highly dependent on the
+cost structure changes that we see coming forward in the last three quarters of the year. I don’t
+think you’ve seen the big -- you’ve seen the beginning of that, but we expect that to accelerate in
+the remaining three quarters.
+<Q – Paul Sankey>: Is there any reason – to look at the volumes to think that your 7% number –
+you mentioned, I believe, that the implied decline rate you had was 2% for Q1, but you expected it
+to hit 7%, I guess, as a full year number, which means you’re going to go to, by the end of the year,
+beyond 7% declines if I am thinking straight and how much variation is there around that element?
+<A – James Aleveras>: Paul, that would obviously hurt cash flows a little bit, but offsetting that is
+the ramp up of major capital projects. So, if you look at our full year production profile, you wouldn’t
+really see the decline – the base decline being as big a factor in total as you would if you just
+looked at it in isolation.
+<Q – Paul Sankey>: Yeah, I get that because you’ve given us a full year volume...
+<A – Patricia Yarrington>: Correct.
+<Q – Paul Sankey>: ...aspiration, which includes that right?
+<A – Patricia Yarrington>: Yes, that’s correct. 2.63 million barrels of oil equivalent is what we’re
+expecting for the full year.
+<Q – Paul Sankey>: So effectively the major uncertainty is regarding the cash balance, not the
+volumes, as far as you’re concerned regardless of what you said about decline rates accelerating?
+<A – James Aleveras>: The decline rates wouldn’t be a big impact on cash simply because...
+<A – Patricia Yarrington>: It’s offset.
+<A – James Aleveras>: ...it’s offset by growth in major capital projects.
+<Q – Paul Sankey>: No, what I meant is the uncertainty surrounding the cost that you’re going to
+have to pay is a greater uncertainty than the volume uncertainty?
+<A – James Aleveras>: At this point, yes.
+<Q – Paul Sankey>: Yeah I got it. If I could – and I don’t think you’re going to be happy with me
+for asking this question, but it’s a question I’m being asked a lot. Can you just go through the
+timing on the Ecuador decision? What the potential risk is there to the company and the
+shareholders? Thanks.
+<A – Patricia Yarrington>: No, sure it’s a very topical question. So, I can understand why you
+want to ask the question. First of all, let me get the fact the – the facts out as we see them here.
+We don’t think the lawsuit has any legal or factual merit. We did complete – Texaco did complete a
+$40 million remediation program and the Ecuadorian government signed off on that that the sites
+were properly remediated and they granted Texaco a full release from this liability. The evidence
+that we have suggests that the remediation was properly conducted and the remaining
+environmental claims and damage really are the responsibility of Petroecuador.
+It is possible that we could see a judgment come down any day now. I wish I could be more
+specific about the timing, but I don’t think it’s necessarily immune from political influence as to when
+that timing will occur. But it could be any day. It could also be several months from now. We will
+appeal that judgment, whatever it turns out to be and we have courses of appeal to a sort of a
+panel of judges in the Superior Court of Lago Agrio and if necessary then all the way up to the
+Supreme Court of Ecuador. So I think that you could expect that this litigation aspect of this suit
+can go on for quite some time.
+I don’t think that there is merit in the case. And we have a very strong legal as well as scientific
+data behind that. So from a shareholder perspective, I think it’s interesting to pay attention to
+certainly and be on top of it. But I don’t see that there is financial impact coming as a result of this,
+significant financial impact coming as a result of this.
+<Q – Paul Sankey>: But the judgment could be – the number seems to be $27 billion?
+<A – Patricia Yarrington>: Well that’s – that is what the court appointed, so called expert has laid
+out there, but there really is not much factual data behind the 27 billion, nor is the individual an
+expert in any sense relative to the task he’s been asked to do.
+<Q – Paul Sankey>: Yeah -I guess – okay, so I think I understand. What you are saying is you’re
+not sure, there could be a decision any day, it is likely to be a very big number and you’ll
+automatically appeal it which will then extend the process essentially for probably years?
+<A – Patricia Yarrington>: That’s exactly right and we think the large number that’s being
+bantered around is really very politically driven.
+<Q – Paul Sankey>: Okay, thank you, I’ll leave at that.
+Operator: Our next question comes from Robert Kessler with Simmons & Company.
+<Q – Robert Kessler>: Hi good morning, just a couple of questions from me on the – one on the
+downstream timing effects, I know you’ve taken steps to reduce the volatility of your downstream
+earnings, eliminating the provisionally priced foreign crude deliveries to the U.S. and whatnot. We
+still saw some timing effects in the quarter though. I’m curious if you have any rough expectation
+going forward as opposed to significant negative correlation between timing effects and movements
+in crude prices, should we just model zero benefit or detriment going forward regardless of what
+crude prices do or do you have any kind of rough indication on the order of magnitude and direction
+going forward there?
+And then just a quick question on the – any benefits in the downstream associated with the
+contango shape to the crude strip over the course of the first quarter? Thanks
+<A – James Aleveras>: Robert, let me just address those two real quickly for you here. In the
+U.S. downstream we pretty much wrung out a lot of the impacts, as we’ve talked about in prior
+quarters. So, the provisionally-priced foreign crude is going to be pretty – very, very minor, only on
+some minor contracts that aren’t necessarily ratable like our major ones. And there will be from
+time-to-time some derivative activity, only if we get outside of a typical band. So, I’d say that for
+purposes of looking forward the timing effect should be, in the U.S. downstream, fairly minor, fairly
+minor and not something that I would internally project to be significant.
+Now in the International downstream, we still use, as I’ve described in past quarters, derivatives to
+lock-in margins on long haul crude sales from the Partition Neutral Zone as well as long haul
+product sales from our Pembroke refinery, in U.K. which is an export refinery. This is where we sell
+the product on a delivered basis. It’s priced on a delivered basis, but the buyer takes title so
+effectively we’re selling it FOB. So, we do use derivatives to lock-in margins on those sales.
+So, in the International downstream you will see a modest timing effect that will be related inversely
+to product and crude prices on a going forward basis. But again, it should be -- it should be more
+modest than what we’ve seen in the past, but not as significantly reduced as in the U.S.
+<Q – Robert Kessler>: Okay, thanks.
+<A – James Aleveras>: Does that answer...?
+<Q – Robert Kessler>: It does, thanks.
+<A – James Aleveras>: Now you had a second question?
+<A – Patricia Yarrington>: Contango.
+<A – James Aleveras>: Oh that really isn’t a very big factor for us. Our trading activities,
+compared to some of our competitors, is much smaller in overall size.
+<Q – Robert Kessler>: Okay. Thank you.
+Operator: Our next question comes from Erik Mielke with Merrill Lynch.
+<Q – Erik Mielke>: Hey good morning I have a question on your production guidance for 2009.
+Would it be fair to say that that’s looking increasingly conservative given the pace of development
+and the ramp up at the various major capital projects that you have coming on in 2009?
+<A – Patricia Yarrington>: I think it is the number that we want to stand by at this particular point
+in time I mean the one thing that you’ll recall I mean I think we feel very confident about our ability
+to execute on these major capital projects and to have the profile that we outlined back in March.
+The one area that’s slightly different this first quarter than what we had expected was that we had
+expected in putting that forecast together earlier on, that there would be demand curtailment,
+OPEC on the one hand, but also market forces on the other for pipeline gas, particularly in the Asia
+Pacific region. We haven’t seen that through the first quarter from a Chevron standpoint and so
+we’ve got an uptick there, I think that really depends going forward on our ability to supply those
+markets versus some of the competition’s ability to supply some of those Asian gas markets.
+<Q – Erik Mielke>: Okay, that’s useful. Can I ask specifically on Tengiz, there was a story in one
+of the industry journals a couple of weeks back that TCO is looking at a potential boost to
+production from existing capacity, from the existing facilities this summer. Is there any credibility to
+that story? The numbers were not immaterial.
+<A – Patricia Yarrington>: Right, no, I actually saw that as well and all I can tell you is that we do
+expect to hit full capacity in the second half of the year; ramp up is continuing there.
+<Q – Erik Mielke>: Okay thanks. I’ll leave it there.
+Operator: Our next question comes from Mark Flannery with Credit Suisse.
+<Q – Mark Flannery>: Hi. Yes, I have got two questions. One on costs on slide 12 when you say
+you are targeting both operating expenses and capital expenses, can you give us an idea of what
+your target is? In other words, are you going for a 5% reduction over the full year or 10% reduction
+all other things being equal? Just give us a sense of where you think you can get to.
+<A – Patricia Yarrington>: Mark, I don’t have a target that I want to give you. I think I tried to
+explain before about how we are going after it, how it’s different by cost category, how the ramp up
+period depends on – it’s going to be very sequential over the remaining months of the year. So I
+don’t have a particular target.
+I will say that we were down 8% quarter – first quarter over first quarter on the SG&A and op
+expense line and we do expect that to accelerate. So I would expect that pattern to continue to
+improve as the year progresses but I don’t have a specific percentage target to lay out for you.
+We do have, I will say, we do have line-by-line items in our business units and in our staff groups
+about cost reduction opportunities and commitments that are being made all around – all around
+the globe. So there is huge effort in the company and huge specificity in the company about what
+those opportunities for cash conservation are and we will track them and expect them to be
+realized.
+
+<Q – Mark Flannery>: Maybe I could then shift over to the dividend. You kept the dividend flat this
+quarter. Do you intend to grow the dividend this year or how should we think about the progress of
+dividend payments in the lower part of the cycle?
+<A – Patricia Yarrington>: Right. It’s a good question Mark. We do have a strong history of
+dividend growth. We’ve been having increasing payments in each of the last 21 years. The
+dividends though are set by the Board, and I don’t in any way want to step in front of that call. But
+we do know the dividends are a priority for our shareholders. We did hold it flat in the second
+quarter here. We’ve got competitive deals and competitive pay-outs, but we think holding it flat was
+sort of consistent with and prudent in the uncertain economic environment that we’re in and the low
+commodity prices. All I can tell you is that the Board will look at this every quarter and we’re proud
+at the record that we’ve had. We understand the prioritization, and they will move it when they feel
+that it’s a prudent course of action.
+<Q – Mark Flannery>: Okay. Thank you very much.
+Operator: Our next question comes from Doug Leggate with Howard Weil.
+<Q – Doug Leggate>: Thanks, good morning Pat and Jim.
+<A – Patricia Yarrington>: Good morning.
+<A – James Aleveras>: Hello.
+<Q – Doug Leggate>: Hi guys. My question – I’m going to start off with DD&A, it’s up about 30%
+year-over-year, and I know that obviously there has been some new projects come online. But, can
+you just walk us through why such a significant move and maybe split the international upstream
+and the U.S. upstream out of that number so we can get an idea of what’s going on there? Any
+clarity on that would be helpful.
+<A – James Aleveras>: Doug, I don’t have the details in front of me. The increase in DD&A is
+partly related to accretion expense and to a number of other things that you see in the first quarter,
+when we do a DD&A rate review and we also have a situation where there are a lot of impairments
+and charges that run through the DD&A line when they are taken such that they are more or less
+discrete items and they tend to distort what people perceive as DD&A being a flat thing, which
+would be the case in an industry that didn’t have unit of production DD&A.
+I don’t see the trend being dramatically different. I look at the DD&A rates and the impact of rates,
+which have changed this year a little bit, but they’re not that dramatic. Instead what you’re seeing
+in the year-over-year comparison is more or less the impact of the discrete items going back to
+what I was talking to Mark Gilman about in response to his question, the fact that we take for
+example some unproved property write-downs those hit the DD&A line.
+So that can be a little misleading in periods when we’re taking charges of unproved properties and
+other things that tend to run through DD&A. They’re showing there, but that’s not a reflection of the
+underlying depreciation and depletion that would be ongoing.
+<Q – Doug Leggate>: So, Jim, just maybe you can spell it out for me then. What is the – if your
+DD&A this quarter was 2.87 billion, so we’re up about 600 and change over last – over Q1 last year
+and up about 300 from Q4, what would you define then as the clean underlying DD&A? In other
+words, what should our run rate be going forward, because that’s a heck of a move?
+<A – James Aleveras>: Very, very good question and one I’m a little...
+<A – Patricia Yarrington>: It also relates to higher volumes in the quarter as well though.
+<Q – Doug Leggate>: You’re right.
+<A – Patricia Yarrington>: The absolute number. The absolute number you just quoted relates to
+absolute volumes as well.
+<Q – Doug Leggate>: Okay. So, production was up 2.5%, but DD&A was up 30%?
+<A – James Aleveras>: Yeah. I would need to break out the components of that. I don’t have the
+pieces in front of me. We’ll be prepared to address that question in more detail and I think they’ll
+have a better basis of comparison on next quarter when we are comparing six months to six
+months.
+<Q – Doug Leggate>: Okay. So, Jim...
+<A – James Aleveras>: And I’ll make sure I have those pieces in front of me on the next call.
+<Q – Doug Leggate>: All right, thank you. I don’t want to labor the point, but what I’m reading
+from what you’re saying then is you would expect that DD&A absolute number to come down quite
+a bit in the second quarter. Is that a fair interpretation?
+<A – James Aleveras>: I would expect six months of 2009 to be not dramatically different from six
+months of 2008 adjusting for the factors that Pat mentioned such as volumes and so forth.
+<Q – Doug Leggate>: That’s also very clear.
+<A – James Aleveras>: And we would have to then look then at what the discrete items hitting
+DD&A were in each year both credits and debits and pull those out and I’ll be prepared to address
+that next quarter on a six-month basis.
+<Q – Doug Leggate>: Great, thank you. My follow-up if I may is: still got a decent amount of
+production shut-in in the Gulf of Mexico. Something you don’t talk about any, or at least not recently
+has been the ongoing semi-permanent shut-ins in Nigeria, can you just give us an update on what
+you expect – as your best guess anyway, the likely timing of any recovery in the Gulf or for that
+matter in Nigeria or any others that I’ve missed in my question?
+<A – James Aleveras>: Well, let me address the timing in the Gulf first that we’re running a little
+slower than what we had been projecting in terms of restoration. We’re basically right now where
+we had hoped to be at the beginning of the year and that’s really a function of things that are not
+under our control such as the recovery of third-party gathering lines, pipelines and processing
+facilities.
+What we should be looking for in Nigeria is probably something more or less similar in the future
+with the increase in Agbami being the big – the big swing. But we don’t see any significant
+production disruptions in Nigeria. Obviously there are parts of Nigeria where we have production
+that we probably aren’t going to be bringing back online in the near term, but on the other hand the
+onshore in Nigeria is not a big contributor to our earnings.
+<Q – Doug Leggate>: Got it. I understand. Forgive me, if I could just jump back very quickly to
+the DD&A question and it might be related or it might be me squeezing in a third question here, but
+the 2 billion...
+<A – James Aleveras>: We’re no longer – we’re no longer limiting questions except to a prudent
+few, but it’s no longer one per.
+<Q – Doug Leggate>: I appreciate that. Well the $2 billion concession expansion, where was that,
+was there any reserve additions associated with that, and is that maybe part of the DD&A
+explanation? And that’s it from me, thanks.
+<A – James Aleveras>: I don’t believe it would be part of the DD&A explanation, I would be unable
+to tell you where it occurred. We described in our C&E [Capital & Exploratory] press release what
+the two one-time bonuses were. This is the larger of the two hitting, but because of contractual
+commitments we can’t be more specific than that.
+<A – Patricia Yarrington>: Doug, just as a final thought; I’d ask you – I mean, I know you are
+focused on DD&A here, but I’d ask you to go back and pull up any of the slides that we showed in
+the March Analyst Meeting where we talked about our advantaged upstream cost structure, which
+takes into account the DD&A as well as production, operating costs etcetera, and you can see we
+are very competitive on that. So DD&A is one component of the cost structure, but certainly there
+is other things that go into that and from a competitive standpoint we look very good.
+<Q – Doug Leggate>: Okay. Thanks, Pat.
+Operator: Our next question comes from John Levin with Levin Capital.
+<Q – John Levin>: Could you outline the Jack / Malo field in the Gulf sort of both the economics
+and the size? There have been various estimates on it. Could you just help define that, your best
+estimates at the moment please?
+<A – Patricia Yarrington>: Well, I think we have said that we are in the process of entering FEED.
+The production capacity is expected to be between 120 and 150,000 barrels of oil equivalent per
+day. George talked in our Analyst Meeting about the need to have significantly sized opportunities
+here and that you needed reasonably large-sized reservoirs that will have a long lived production
+profile to them.
+<Q – John Levin>: Right and what economics is sort of the base line price you need to have a
+margin of safety?
+<A – Patricia Yarrington>: I think it’s really hard for us to say at this particular point in time. We
+are just entering FEED. The cost structure is very much in flux. Obviously we feel comfortable
+going forward at this stage into FEED with this project. We will have a much better idea once we
+get information from that part of our project management process done with.
+<Q – John Levin>: And when should that be?
+<A – Patricia Yarrington>: That’s all I can say.
+<Q – John Levin>: When would that be you think, in timing?
+<A – Patricia Yarrington>: I think that’s probably 12 to 18 months.
+<Q – John Levin>: Got you. Thank you.
+Operator: Our next question comes from Mark Gilman with Benchmark.
+<Q – Mark Gilman>: I wonder if I could talk or you guys could talk a little bit more about the foreign
+downstream numbers. If we add back, Jim, the 140 million in timing differences, it takes that
+number on an adjusted basis, if my math is correct, which might be a leap of faith, up to nearly
+$500 million, which I guess in my mind in light of the environment, in light of the very weak shipping
+earnings component, which I’m sure is in there, very weak Korean chemicals component which I
+know was in there. It just seems very, very strong in the context of the environment. Are there
+other drivers associated with that?
+<A – James Aleveras>: No there aren’t, Mark. I think you have to look at the impact in the
+international downstream. Obviously, we had asset sales this quarter.
+<Q – Mark Gilman>: I’m taking that out.
+<A – James Aleveras>: But, if you pull that out and look at the operations, that’s pretty much a
+base line result. There wasn’t – there wasn’t a whole lot of unusual noise there. Obviously, we
+were running our refineries very well. We moved a lot of product, but there wasn’t anything there
+that was in the first quarter that I can point to that was very unusual.
+<Q – Mark Gilman>: No LIFO or inventory effects?
+<A – James Aleveras>: Not significant.
+<A – Patricia Yarrington>: Yeah. And, continued emphasis on operating expense reductions.
+<Q – Mark Gilman>: Okay, guys, thank you.
+Operator: Our next question comes from Neil McMahon with Sanford Bernstein.
+<Q – Neil McMahon>: Hi, just a few that probably haven’t been covered yet. First of all, just
+looking at oil sands, can you give us your cash break-even for your oil sand operations? And
+obviously, with your portfolio, which has expanded pretty rapidly over the last few years there, what
+are your views specifically on the cost of developing that asset base up in Canada?
+<A – Patricia Yarrington>: Yeah. I think we should leave the cash breakeven question to the
+operator but as we’ve seen across all development opportunities here, the cost structure is moving
+down. I would also say that the light-heavy differential probably moved in terms of favor for a tar
+sands, oil sands type of opportunity here in the first quarter. That’s not good for other parts of our
+business, but I think it was appropriately positive for the oil sands activity.
+Does that address your question? I really think we need to leave it to the operator to address the
+cash breakeven. Tremendous emphasis on cost containment, cost structure improvements that
+are going on there. We’re not going to go forward. The joint venture has decided not to expand on
+the second phase of that and so the efforts to-date are really on improving the cost structure and
+the reliability of the operation that we currently have.
+<Q – Neil McMahon>: But I’m presuming like Shell and Marathon, you also made a loss in that
+business in the first quarter?
+<A – James Aleveras>: Yeah. I think it’s important to understand that we have a 20% nonoperated interest in the Athabasca Project and we aren’t going to disclose the financial results. We
+are going to see those in the international upstream segment, but you could make...
+<Q – Neil McMahon>: Okay.
+<A – James Aleveras>: ...you could make a reasonable assumption about that given the prices.
+<Q – Neil McMahon>: Just really on your view, you talked a bit about dividend maybe just
+switching to buybacks. One of your larger peers made a reduction in their buyback guidance
+yesterday. Just looking at yours going forward what could you say for the rest of this year in terms
+of buybacks and what would trigger you to go either a plus or negative on the buybacks going
+forward?
+<A – Patricia Yarrington>: Yeah. I mean we suspended our share buyback program for the first
+quarter and we’re not continuing it in the second quarter. And I think if you’ve got commodity price
+conditions, as we have currently, I think it would be unlikely that we would reinstate that share
+repurchase program for 2009. We do have a strong capital program and so that’s where our
+priority really is. We’ve already talked about the dividend that’s a priority as well. And so we look
+at the share repurchase program as being the most discretionary element of our cash use.
+<Q – Neil McMahon>: Given that decision which was made, when you’re looking forward. Do you
+have a particular – having run the financials in your business, do you have a particular oil price that
+or blended oil and gas price that it seems to make sense, where you’re generating enough cash to
+step that or to go back into the buybacks again?
+<A – Patricia Yarrington>: I don’t think I want to go down that path with you there. I think you just
+need to, on your own set of models with your own set of commodity prices and our production
+growth increases that we’ve outlined, capital program that we’ve outlined, I think, come up with your
+own estimates on that. I just need to reemphasize that the share repurchases come after the
+dividend and they come after the capital program and our capital program we’ve got a long queue
+of projects here, a lot of opportunities for organic development that are important to us and that are
+legacy building assets. And that’s really where our prioritization is.
+<Q – Neil McMahon>: But, maybe just to summarize – with yourself not in control looking forward
+at the financial situation, what is -- the philosophy hasn’t changed then in terms of what it had been
+over the last few years in terms of priority?
+<A – Patricia Yarrington>: No, in fact, the philosophy has not changed. I mean we put a high
+priority on maintaining financial strength and flexibility, maintaining our AA rating, funding our
+projects and paying a sustained and growing dividend, that’s really our priority.
+<Q – Neil McMahon>: Okay, so...
+<A – Patricia Yarrington>: And that hasn’t changed and I think you saw – going back to the
+Analyst meeting I put up a chart that talked to what we have done, how we have managed our
+balance sheet over – through thick and thin times from a commodity price cycle standpoint.
+<Q – Neil McMahon>: Okay.
+<A – Patricia Yarrington>: So I think our posture has been very consistent.
+<Q – Neil McMahon>: Maybe just a very quick last one, anything or any update on interest in Iraq?
+<A – Patricia Yarrington>: Obviously, we are interested in Iraq. It could have – could turn out to
+be a real opportunity for us, but that depends really on the terms and conditions. The Iraqis did just
+put out new kind of bid round terms, we’re in the process of evaluating those. We do believe that
+they have made some improvements, but I don’t want to comment any further than that. We know
+the bids are due and that they will be opened up at the end of June I believe it is. And so, we’ll wait
+and see what comes of that. But obviously it’s a prospective area, but it really will depend on the
+fiscal terms that are to be realized.
+<Q – Neil McMahon>: Okay, thank you.
+<A – Patricia Yarrington>: Okay, I think – I think that pretty much – we have one more question?
+Operator: Our final question comes from Paul Cheng with Barclays.
+<Q – Paul Cheng>: Hi guys, I’ll be real quick, Jim, if I look at page nine, in the international
+downstream you have the Other bar say you have 143 million of the benefit and you’re saying that
+is trading profit. I assume if I look at – and also foreign exchange, I suppose. So, if I look at that, it
+seems to suggest your trading profit is roughly about 180 million for the quarter. Is that on the
+ballpark correct?
+And secondly, on the DD&A increase sequentially from the fourth quarter, are they all in the
+upstream or that some of them is in the downstream other?
+<A – James Aleveras>: Okay, let’s take those one at a time. We’re talking international,
+downstream other and what I said there was we had tax items and trading profits made up the
+majority with foreign currency effects offsetting. So in order of size, favorable tax items relative to
+the fourth quarter were the largest in that swing. Trading profits were next and of course foreign
+currency is what you see in terms of a 84 million adverse change.
+<Q – Paul Cheng>: So the tax item has a bigger impact than the trading profit?
+<A – James Aleveras>: Yeah. I always give you the impact in order of size.
+<Q – Paul Cheng>: I see. Can you since that’s – some of your competitor like Shell and BP they
+make a huge killing in the first quarter from trading, any kind of rough number you may be able to
+share?
+<A – James Aleveras>: Again, we did not make a huge killing simply because we don’t have large
+trading activities for own book. The trading and derivatives that I talk about in conjunction with the
+downstream are used to lock in margins. We don’t use hedge accounting. So, we talk about them
+as derivatives, but they really are meant to be risk management tools. So, trading for own book
+relative to some of our competitors is very small. One of our larger competitors does virtually none.
+So, we’re pretty small in terms of trading for own book.
+<Q – Paul Cheng>: Okay.
+<A – Patricia Yarrington>: Having said that, I mean we did see the commercial opportunity and
+we did have some positives associated with the contango market. But, it’s much more modest than
+what you might have been reading on the part of others.
+<Q – Paul Cheng>: Okay, fair. How about DD&A?
+<A – James Aleveras>: DD&A was not a big factor here, I mentioned...
+<Q – Paul Cheng>: No, no, no I was saying of the DD&A increase, is it all, in the -- it’s close to 300
+million, is it all related to the upstream or is it just in downstream or chemical or corporate debt also
+here?
+<A – James Aleveras>: No, I mentioned it in the context of the U.S. upstream. The impact in the
+international downstream was not as significant in terms of quarter-over-quarter change.
+<Q – Paul Cheng>: Okay, thank you.
+<A – Patricia Yarrington>: Okay, is that...?
+<A – James Aleveras>: That’s the end of the callers.
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+So in closing, let me say that we appreciate everyone’s participation in today’s call. I certainly want
+to thank each of the analysts on behalf of all the participants for their questions during the morning
+session. We do appreciate your interest in our company and we hope you share our enthusiasm.
+Our projects are ramping up well, we’re executing well, we’re on plan. We’re operating very well.
+We are aggressively managing our spend whether that’s OpEx or CapEx, and we feel that we’ve
+got the flexibility to manage well in this environment to achieve low unit costs, grow the business
+and put up a very competitive returns. So thank you all. Sean, I’ll turn it back to you.
+Operator: Thank you ladies and gentlemen. This concludes Chevron’s first quarter 2009 earnings
+conference call. You may now disconnect.

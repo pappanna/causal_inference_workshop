@@ -1,0 +1,1249 @@
+Operator: Good morning. My name is Jonathan, and I will be your conference facilitator today. Welcome to
+Chevron's third quarter 2014 earnings conference call. [Operator Instructions] As a reminder, this conference call
+is being recorded.
+I would now like to turn the conference call over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Ms. Pat Yarrington. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+Good morning and thank you, Jonathan. Welcome to Chevron's third quarter earnings conference call and
+webcast. On the call with me today are Jeff Shellebarger, President, Chevron North America Exploration &
+Production; and Jeff Gustavson, General Manager, Investor Relations. We'll refer to the slides that are available
+on Chevron's website.
+Before we get started, please be reminded that this presentation contains estimates, projections, and other
+forward-looking statements. We ask that you review the cautionary statement shown here on slide two.
+Turning to slide three, the company's third quarter earnings were $5.6 billion or $2.95 per diluted share. On a
+year-to-date basis, earnings were $15.8 billion or $8.29 per diluted share. Included in this quarter's earnings were
+gains on asset sales of approximately $420 million, foreign exchange gains of $366 million, and a non-recurring
+economic buyout of a long-term contract. Taken together, these equate to a positive $0.34 per share. On a year-todate basis, the impact of foreign exchange movements is minimal, while asset sale gains and other non-recurring
+charges have provided a net boost to 2014 earnings of $770 million. There is a full reconciliation of these items on
+our last slide.
+Return on capital employed for the trailing 12 months was 12%, and our debt ratio at the end of September was
+14%. We repurchased $1.25 billion of our shares during the third quarter, and in the fourth quarter we expect to
+repurchase the same amount.
+Turning to slide four, cash generated from operations was $8.7 billion during the third quarter and $25 billion
+year to date. Cash capital expenditures were $8.3 billion for the quarter and $25.7 billion year to date. Free cash
+flow for the quarter was $1.5 billion and year to date $1.9 billion. At quarter end, our cash and cash equivalents
+totaled $14.5 billion, giving us a net debt position of $11 billion.
+Slide five compares current quarter earnings with the same period last year. Third quarter 2014 earnings were
+$643 million higher than third quarter 2013 results. Foreign exchange movements positively affected earnings by
+$366 million during the quarter, representing a swing of over $600 million between periods, mostly occurring in
+the upstream segment. As a reminder, foreign exchange movements for us are largely book translation effects with
+minimal cash flow impacts.
+Upstream earnings decreased by $443 million between quarters. Lower realizations and liftings and higher
+operating and DD&A expenses were partially offset by favorable foreign exchange movements and lower
+exploration expenses.
+
+Downstream results increased by about $1 billion, driven by stronger U.S. refining and marketing results, larger
+gains on asset sales, favorable foreign exchange movements, and timing effects related to revaluation of inventory
+in a lower price environment. The improvement in the other segment primarily reflects the absence of a 2013
+third quarter impairment of a power related equity affiliate.
+Turning to slide six, I will now compare results for the third quarter of 2014 with the second quarter of 2014.
+Third quarter earnings were approximately $70 million lower than second quarter results. Again, the earnings
+variance between quarters reflected a $600 million favorable movement in foreign exchange effects, most of
+which impacted the upstream segment.
+Upstream earnings decreased by $615 million, reflecting lower realizations and lower gains on asset sales,
+partially offset by a favorable foreign exchange swing between quarters and lower exploration expenses.
+Downstream earnings increased by almost $670 million, driven by stronger R&M results, higher gains on asset
+sales, and a positive swing in foreign exchange between quarters, partially offset by lower chemicals earnings. The
+decrease in the other segment largely reflects corporate tax items and higher environmental expenses.
+Jeff Gustavson will now take us through the comparisons by segment.
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations
+
+Thanks, Pat.
+Turning to slide seven, our U.S. upstream earnings for the third quarter were $125 million lower than second
+quarter's results. Lower realizations decreased earnings by $175 million, consistent with the decline in U.S. liquids
+and natural gas price indicators. Higher production volumes in San Joaquin Valley and the Permian Basin
+increased earnings by $40 million. Lower exploration expenses, primarily associated with the deepwater Gulf of
+Mexico, increased earnings by $95 million. The other bar reflects a number of unrelated items. Lower operating
+expenses were more than offset by the negative impact of the economic buyout of a long-term contractual
+obligation.
+Turning to slide eight, international upstream earnings were $490 million lower than last quarter's results. Lower
+crude oil realizations decreased earnings by $420 billion, consistent with the decline in international crude prices
+between quarters. Lower liftings, primarily related to the sale of our upstream interest in Chad, decreased
+earnings by $95 million. Gains on asset sales were $430 million lower, also driven by the sale of our interest in
+Chad and Cameroon, which occurred during the second quarter. Favorable movements in foreign currency effects
+increased earnings by $490 million. The third quarter had a gain of about $340 million compared to a loss of
+about $150 million in the second quarter. The other bar reflects a number of unrelated items, including lower
+trading results and higher DD&A, partially offset by lower exploration expenses.
+Slide nine summarizes the change in Chevron's worldwide net oil equivalent production between the third quarter
+2014 and the second quarter of 2014. Production increased by 23,000 barrels per day between quarters. Shale and
+tight resources growth contributed 18,000 barrels per day, driven primarily by production increases from the
+Midlands and Delaware basins in the Permian, where new wells were brought online.
+The net impact of lower turnaround activity during the quarter increased production by 23,000 barrels per day.
+Planned maintenance at TCO's KPL facility in Kazakhstan in addition to Australia was completed in the second
+quarter, while third quarter planned turnarounds, including TCO's SGI/SGP facility, the UK, and Thailand were
+on balance less extensive than the prior quarter. The TCO SGI/SGP turnaround continued through October.
+Asset sales reduced production by 18,000 barrels per day, principally due to the sale of producing assets in Chad.
+As a reminder, the production impact associated with this sale had already been incorporated in both our updated
+production guidance for 2014 as well as in our 2017 production target of 3.1 million barrels of oil equivalent per
+day.
+Slide 10 compares the change in Chevron's worldwide net oil equivalent production between the third quarter
+2014 and the third quarter 2013. Production was 17,000 barrels per day lower than the same period a year ago.
+Excluding production entitlement effects and the production impact associated with asset sales, production grew
+by 31,000 barrels per day between periods. Unconventional production increased in the Permian and the Vaca
+Muerta in Argentina by 40,000 barrels per day. Lower turnaround activity, mainly in Trinidad and Tobago,
+Kazakhstan, and the Gulf of Mexico, increased production by 19,000 barrels per day. Production entitlement
+effects decreased production by 28,000 barrels per day.
+The decrease in crude oil prices between periods resulted in a small increase in net production volumes, primarily
+as a function of our production sharing contracts in Indonesia. This increase was more than offset, however, by
+negative production entitlement effects in Kazakhstan as well as lower cost recovery volumes due to changes in
+absolute spending levels. The sale of producing assets, mainly in Chad, reduced production by about 20,000
+barrels per day. The base business and other bar principally reflects normal field declines with a partial offset
+from the absence of external constraints, which negatively impacted production in the third quarter of 2013. Our
+base business continues to perform well, with a base decline rate of less than 3% per year.
+Turning to slide 11, U.S. downstream results increased $292 million between quarters. Higher volumes increased
+earnings by $160 million, primarily reflecting the completion of planned turnaround activities at the El Segundo,
+California refinery, where four new coke drums were installed. These new coke drums are expected to enhance the
+future reliability of the refinery.
+Despite declining industry refining margins on both the Gulf Coast and West Coast, our realized margins were
+$30 million higher. Overall, we benefited from more optimal sourcing of intermediates and feedstocks following
+the completion of the El Segundo refinery's major turnaround in the prior quarter. In addition, we had improved
+reliability at both the Pascagoula, Mississippi and Richmond, California refineries. Pascagoula's refinery
+contributed a full quarter of premium base oil production after the successful startup of its new premium base oils
+plant in July. This benefited both volumes and margins.
+Lower operating expenses increased earnings by $110 million due to the absence of costs related to the shutdown
+and maintenance activities in the prior quarter. Higher gains on midstream asset sales, mainly the sale of a
+terminal in Beaumont, Texas, improved earnings by $115 million between periods. Lower chemicals results along
+with various smaller items decreased earnings by $123 million. Chemicals earnings were affected by various
+impairments in addition to the Port Arthur, Texas facility being offline since early third quarter.
+Turning to slide 12. International downstream earnings increased $374 million between quarters. Stronger
+margins increased earnings by $145 million. Falling crude prices contributed to improved refining margins across
+multiple refineries in addition to the completion of planned turnarounds at our Thailand and South Korea affiliate
+refineries. Asia marketing margins benefited from favorable aviation price lag effects and improved retail margins.
+Timing effects represented a $70 million positive earnings variance between quarters, largely due to the
+revaluation of inventory associated with falling crude and product prices during the third quarter. Foreign
+exchange gains were $105 million higher compared to the prior quarter. The third quarter had a gain of about $20
+million compared to a loss of about $85 million in the second quarter. The Other bar includes a number of
+unrelated items, mainly higher trading results.
+Jeff will now provide an update on our North America upstream operations.
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+Thank you, Jeff. It's a pleasure to be on the call with you all today. I'll provide a brief overview of our North
+America upstream operations, followed by more detailed reviews of two key areas for us, the Gulf of Mexico
+deepwater and our unconventional activities, particularly those in the Permian Basin. The photo on the slide 13
+shows the Jack/St. Malo facility safely moored on location in the deepwater Gulf of Mexico. We continue to make
+steady progress towards first oil later this year.
+Let's turn to slide 14. Let me start by providing a brief overview of Chevron's North America Exploration &
+Production Company. We're a diverse organization made up of six business units. We're active in the key
+hydrocarbon basins across the continent. Production has averaged 731,000 barrels of oil equivalent per day year
+to date 2014. This represents almost 30% of Chevron's total upstream volumes.
+The heart of our portfolio is our legacy base business, which has generated production value creation for decades.
+Asset includes our Gulf of Mexico shelf, Mid-Continent conventional oil and gas operations, and the San Joaquin
+Valley in California, where our industry-leading expertise in steamflood operations has helped us achieve more
+than 60% recovery at the Kern River oil field. These robust base business assets provide a low decline, high cash
+generation foundation to underpin and support our current and future growth opportunities.
+Next I'd like to highlight two of these areas in more detail, deepwater Gulf of Mexico and our shale and tight
+assets. Slide 15. Chevron has a leading position in the Gulf of Mexico. We are the largest lease holder, currently
+produce about 200,000 barrels a day in the Gulf, slightly more than half of which comes from our existing
+deepwater assets.
+In the deepwater, we are making good progress on our major capital projects. Tubular Bells first oil is imminent in
+the next few days. The remaining work on Jack/St. Malo is progressing well, and the project remains on track for a
+late fourth quarter startup. Overall hookup and commissioning is about 90% complete. Buyback gas was brought
+on board the facility last weekend. We recently completed dewatering the oil export pipeline. Both of these are
+significant milestones. Construction of the Big Foot tension leg platform is essentially complete and is ready for
+sail-away and offshore installation.
+The central Gulf of Mexico is currently experiencing a significant loop current event. These strong currents at the
+ocean's surface are naturally occurring, typically last one to three months. This loop current is particularly strong
+and we are monitoring for the conditions that will allow us to proceed with installation once the loop current
+subsides. We're taking advantage of the extra time in the construction yard to start some pre-commissioning
+activities normally done offshore. Finally, an investment decision was announced of the Stampede project earlier
+this week.
+On the exploration front, we recently announced a significant lower tertiary discovery at the Guadalupe Prospect
+in northern Keathley Canyon. We have also completed appraisal work at the Buckskin and Moccasin prospects
+and expect to move into front-end engineering and design in 2015. We've got five deepwater drillships operating
+in the Gulf, two of which are focused on exploration activities, where we plan to drill four to six impact prospects
+over the next 12 months to 18 months.
+Next let's talk about shale and tight activities, slide 16. In the Permian Basin, Chevron has been active since the
+1920s. We continue to be a leading producer in the Basin. We have an enviable acreage position. We have good
+exposure to the key sweet spots in the Basin. Our legacy position provides critical access to infrastructure. We are
+employing a disciplined, value-focused development strategy in the Permian.
+We are not in a drill-or-drop situation, and our low lease holding costs allow us to focus on the highest return
+projects in a paced manner while leveraging industry learnings. Our efforts on lowering cost while simultaneously
+increasing production rates and ultimate recoveries are helping to improve overall well and program economics.
+Finally, we've executed joint development agreements which help optimize well placement and lateral links as well
+as ensure the efficient build-out of takeaway and other infrastructure.
+Already high level of activities in the basin continued to increase and the efficiency programs to lower costs and
+increase EUR are working. We're anticipating that our 2014 unconventional production will be more than 10%
+higher than initially forecast. And our long-term unconventional production growth continues to steepen, as
+shown in the chart on the right. We'll provide an updated production forecast at our Analyst Day in March.
+Slide 17. Looking into the Midland Basin, production has increased by 15,000 barrels of oil equivalent per day or
+40% during the first nine months of the year, and we are on track to drill 10% more wells than originally planned
+for the year. As we mentioned during the second quarter call, we are transitioning towards a multi-well pad-based
+horizontal program. The Midland vertical wells have demonstrated that all of the identified benches are
+potentially productive.
+Our Bradford Ranch program on the southwestern edge of the Basin is a great example of our transition to
+horizontals. We've drilled our first two wells. We're now batch drilling the next four. The first well has been
+completed, is flowing back and will be on production next month. At its full potential, we expect up to 150 wells in
+this development with lateral links ranging from 5,000 feet to 7,500 feet. We believe that we are well positioned in
+what looks like a sweet spot in the Midland Basin horizontal play.
+Slide 18. Results in the Delaware Basin have been equally positive. Our two non-operated joint development areas
+in Culberson and Eddy counties continued to deliver excellent results. Production has increased by approximately
+20,000 barrels of oil equivalent per day or 60% during the first nine months of the year, and we are on plan to
+drill 180 wells in 2014. Our company-operated Salado Draw horizontal program in Lea County, New Mexico
+remains on track to spud its first well within the next month. While there are multiple benches in this area, we are
+targeting the upper Avalon with its initial 16-well development. With success, we envision more than 60 well
+locations at Salado Draw. Our recent well results give us continued optimism on the growth potential in the
+Delaware. Wells drilled in the third quarter have 30-day IPs that average just over 1,000 barrels of oil equivalent
+per day.
+I'd like to close by providing an update on some of our other key North America shale and tight assets. Let's turn
+to slide 19. Starting with the Duvernay in Canada, we recently announced a sell-down of 30% of our Duvernay
+position to Kuwait Foreign Petroleum Exploration Company, consistent with our risk management practices for
+early-life assets. They are a valued partner in our Wheatstone project, and we welcome them to this exciting
+development. The consideration received reflects the prospectivity and inherent value of our attractive acreage
+position, 90% of which is in the liquids-rich window. Appraisal drilling has commenced on our first two horizontal
+well pads, located in what we call the central focus area.
+
+In the Utica and Marcellus, we have prioritized our near-term efforts at the five core development areas across
+West Virginia and southwestern Pennsylvania. As we move more aggressively into the development mode, pad
+drilling, optimization of lateral lengths and completions, and the build-out of water infrastructure allow us to
+further lower costs, increase recoveries, and therefore enhance overall development economics.
+Let me turn it back over to Pat.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+Okay, thank you, Jeff. In addition to the significant amount of activity going on in our North America upstream
+business, I'd also like to touch on a few other highlights during the quarter.
+In Australia, we continue to make good progress on both the Gorgon and the Wheatstone LNG projects. For
+Gorgon, which is now 87% complete, all of the development wells have been successfully drilled, and a majority
+are through the completions phase. LNG tank number one is through construction and testing, awaiting product,
+and LNG tank number two is on plan to achieve that same status by the end of January. The five turbine
+generators are all installed, and the jetty is essentially complete. Eleven of 17 train two modules have been
+received and installed. The key focus in the months ahead remains in the mechanical, electrical, and
+instrumentation work scopes on the island.
+The Wheatstone project is now 49% complete. The project team met a major milestone back in August with the
+installation of the offshore steel gravity-based structure. The MOF, or Materials Offloading Facility, is 100%
+operational. The upstream drilling campaign, the fabrication of the platform, site preparation, and construction of
+the LNG tanks are all on schedule.
+We are making good progress bringing these projects online, both of which will be important contributors to
+production, cash flow, and earnings for decades to come. I encourage you to review the new pictures that show
+progress on both projects on our Investor page at Chevron.com.
+In Bangladesh, we achieved startup at the Bibiyana expansion project, which includes two new processing trains
+with an incremental design capacity of 300 million cubic feet of natural gas and 4,000 barrels of condensate per
+day.
+Moving to the downstream, we have completed investments at several of our U.S. refineries, including El
+Segundo, Pascagoula, and Salt Lake City. We expect these investments will lead to notable reliability and
+operational improvements going forward, some of which were evident in the third quarter's results.
+Our Chevron Phillips Chemicals joint venture also continues to make good progress on its U.S. Gulf Coast
+petrochemicals project. Construction of the 1.5 million metric ton ethane cracker and the two 500,000 metric ton
+polyethylene units is almost 25% complete and is on schedule and on budget.
+Finally, we continue to sell non-strategic assets. We're on target for achieving $10 billion in asset sale proceeds
+from 2014 through 2016, a goal we outlined at our Analyst Day meeting last March. At nine months, year-to-date
+proceeds amount to $2.6 billion, and there are several other transactions lined up to close in the fourth quarter or
+early in the new year.
+I'd like to close with a couple of thoughts about Chevron's position and outlook given recent commodity price
+declines. Our priorities haven't changed. By necessity, we take a long-term view of prices because our investments
+last for decades. We continue to believe global demand for oil and natural gas will grow while existing sources of
+supply will inevitably decline. And, as it has always done, although with some lags, we expect the industry cost
+structure will align to the revenue stream such that economic incentives will exist to invest in developing new
+energy supplies. Our strategies have remained and will remain constant. They are designed for long-term value
+creation.
+Our financial priorities haven't changed. They start with growing an attractive dividend. Next, we look to invest in
+economic projects that create value and allow us to sustain and grow the dividend for years to come. Third, we
+want to maintain a strong balance sheet, precisely for times like this. And finally, any available cash is distributed
+to our shareholders through our share repurchase program. Our program is scalable and could be adjusted in a
+period of low prices. We'll continue to make that assessment each quarter, and our future actions will obviously be
+influenced by how low prices stay and for how long.
+We remain focused on excellent execution each day and every day. Our businesses are performing well. Based on
+preliminary information, it appears our upstream and our downstream segments were number one in earnings
+per barrel for the quarter.
+Now of course, we are cognizant of near-term price realities. Major capital projects under construction and other
+non-discretionary spend represents about one-half of our current capital budget. Even at low prices, we plan to
+continue funding these projects. Key among these are; Gorgon, Wheatstone, and our two operated deepwater
+projects. Within a year, we expect to see production from three of these four projects online, and they'll turn from
+being cash consumers into to cash generators.
+After that, we prioritized and rank our remaining investments that are more discretionary in nature, only funding
+those that are most competitive in the portfolio or where deferral can be achieved without economic loss. Permian
+development, for example, remains quite attractive even at lower prices. Now this ranking and prioritization is not
+a new process for us. It's a routine process for us.
+We're also keenly focused on managing operating costs. This too is not a new area of effort for us, since oil prices
+have been drifting south for the past few years while costs have continued to rise. As we showed you last March,
+our costs are already highly competitive with our larger peers as well as a much broader set of E&P companies.
+Well before the recent price decline, several of our international and domestic business units as well as our
+corporate departments already had notable cost-reduction efforts underway.
+Finally, we plan to continue but we will be careful about managing our ongoing asset divestment and portfolio
+rationalization efforts. The valuations for some assets targeted for sale are not likely be affected by near-term
+circumstances, but the valuations for other prospective for-sale assets may be. In all cases, we will only sell if we
+can capture good value. By the end of 2014, we should be well on our way to our $10 billion asset divestment
+target. We still have confidence in achieving it between now and the end of 2016.
+We have a great deal of experience in managing through the prior price cycles in both our upstream and our
+downstream businesses, and we feel confident in our ability to allocate capital appropriately and to sustain a
+competitive cost structure, even in a lower commodity-price world.
+Now that concludes our prepared remarks. I appreciate you listening in this morning. We're ready to take some
+questions. Keep in mind that we do have a full queue, so please try to limit yourself to one question and one
+follow-up if that's absolutely necessary, and we'll do our very best to get all the questions answered. So, Jonathan,
+please open up lines for questions.
+
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] Our first question comes from the line of Doug Leggate from Bank
+of America Merrill Lynch, your question, please.
+......................................................................................................................................................................................................................................................
+
+Jason Smith
+
+Q
+
+Merrill Lynch, Pierce, Fenner & Smith, Inc.
+
+Hi, good morning. It's actually Jason Smith on for Doug. How are you?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+Fine, Jason. How are you?
+......................................................................................................................................................................................................................................................
+
+Jason Smith
+Merrill Lynch, Pierce, Fenner & Smith, Inc.
+
+Q
+
+Good. So, Pat, I think in your comments around some of the projects you look to move forward with in the future,
+one of the ones you didn't mention is the Tengiz expansion. There's obviously been some chatter around costs and
+timing there. Can you maybe just offer some color on your latest thoughts on whether this moves forward?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+Yes, obviously, this is a very attractive asset for us. It's one of the critical assets that we've got in the company,
+strong earnings, strong cash flow, and it has the potential we think to grow even further. There are two
+prospective elements of that project that I think are important to separate out. One is the wellhead pressure
+management project. It's really designed to keep existing capacity – processing capacity full. And the second is a
+project for the growth that really could add 250,000 to 300,000 barrels a day, taking full field gross production up
+to around 1 million barrels a day. So it's a very exciting project.
+We are working very aggressively with our partners and with the government, the Kazakhstan government, to
+progress this project through to final investment decision. We have not made a final investment decision at this
+point in time. We don't have a cost estimate. Our teams are working very hard to conclude the final engineering,
+understand the full suite of the economic impacts here, get complete alignment between our partners and the
+government, and proceed that forward. When we do take FID, we'll have a number that we can put forward.
+......................................................................................................................................................................................................................................................
+
+Jason Smith
+Merrill Lynch, Pierce, Fenner & Smith, Inc.
+
+Q
+
+Got it, okay. And then we appreciate all the thoughts on buybacks and dividends going forward. But in the current
+oil price environment, at least at present, it looks like cash flow is not covering CapEx, dividends, and buybacks
+for the first nine months of the year. So if we do end up in a depressed environment, can you maybe just talk
+through what changes there?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+So I think, Jason, it's really going to depend on the outlook that we've got on a whole series of parameters. Oil
+price is one, cost structure is another, length of duration of any sort of dip or price excursion, how quickly we see
+the cost structure amending to that, our capital program, balance sheet health issues, et cetera. And all of that gets
+taken into account when we look at our allocation of cash uses.
+The priority, as I've said before and we've been longstanding in saying this, is really about being able to grow our
+dividend. But in order to do that over a long period of time, we need to continue to make very strong investments
+or investments in strong projects, attractive projects. We've got a tremendous queue, and we have the opportunity
+to do that. So we're going to be driven by the economics of the portfolio that we have at hand.
+We're very cognizant of the risks in our business, the commodity price cycle risk, and we have longstanding kept a
+pristine balance sheet to weather through positions just like this. We have a lot of borrowing capacity still ahead of
+us without putting into jeopardy our AA status. And we are on the cusp of getting to a point where these major
+capital projects kick in with significant volumes and significant cash generation.
+So we feel very comfortable about the position that we're in, and we're not bothered in a temporary sense of
+having to fund our shareholder distributions off of our balance sheet. We obviously can't do that for a long period
+of time, but that is not the window that we find ourselves in.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Jason Gammel from Jefferies, your question,
+please.
+......................................................................................................................................................................................................................................................
+
+Jason D. Gammel
+Jefferies International Ltd.
+
+Q
+
+Thanks very much. My question is on the Permian. Jeff, I was hoping that you might be able to at least
+qualitatively explain why you're seeing such a significant increase in the production levels. And I guess, if you
+could, just break it up between moving to longer laterals, the intensity of proppant in your completions, or even
+just higher activity levels or maybe just something else I'm not thinking about.
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+Thanks for the question, Jason. It's really all of the above. Maybe start back with a year ago, a lot of our activity
+was focused on appraisal, and we had some lease tenure work to do up in the Delaware with the Chesapeake
+acquisition. Most of that work is done. That's helped us identify the sweet spots that we want to be in.
+As you know, the industry is innovating every single day on completions and design. So we're adopting those
+designs, applying those to our business. So lateral lengths are increasing, stages in those lateral lengths are
+increasing. Proppant amounts are increasing. All of that is driving not only our performance per well but the
+entire industry's performance per well in an upward direction. And then finally on top of that, our activity in
+general with more development programs has increased year over year and that's driving the production growth.
+......................................................................................................................................................................................................................................................
+
+Jason D. Gammel
+Jefferies International Ltd.
+
+Q
+
+Great. And I really did have a true follow up on this one. I think you said that the 30-day IP in the Delaware Basin
+was just over 1,000 barrels a day. You may have said it, but I missed it. Do you have a similar figure for the
+Midland Basin?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+
+A
+
+President, Chevron North America Exploration & Production Co.
+
+No, I don't. It's a much wider distribution over there, so we'll talk a little bit more about that at our Analyst Day
+meeting.
+......................................................................................................................................................................................................................................................
+
+Jason D. Gammel
+
+Q
+
+Jefferies International Ltd.
+
+Okay, thanks.
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+
+A
+
+President, Chevron North America Exploration & Production Co.
+
+Yes.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Ryan Todd from Deutsche Bank, your question,
+please. Ryan, you might have your phone on mute. Ryan, we're still not hearing you.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Maybe we'll try to queue him up again. Let's move on to the next caller, Jonathan.
+......................................................................................................................................................................................................................................................
+
+Operator: Certainly. Our next question comes from line of Paul Sankey from Wolfe Research. Your question,
+please?
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Wolfe Research LLC
+
+Q
+
+Hi, Pat. Can you hear me?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+I can hear you. Thanks, Paul.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Wolfe Research LLC
+
+Q
+
+Good morning. Pat, you guided at the analyst meeting to flat CapEx going forward. Today you seem to be saying
+that you may cut it. I'm not quite sure what the message is. I guess if we were to stay at current prices, we would
+anticipate lower CapEx in the future. And you seem to be saying that would be – well, I'm not even sure in what
+areas you would lower CapEx. Thanks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+So what I was trying to say is, and we're just in the middle of doing our business plans at the very moment. And
+you know our process. We go through that this time of year, se get approval of the board and then we come out
+with our capital expenditure outlook for the year. And we expect to do that; that typically would have happened in
+December, so we're right in the midst of pulling all the plans together.
+
+And obviously, we're having to have some tough discussions around what do we think the price outlook is going to
+be, what do we think the cost structure is going to be, how much of our capital program is really in this nondiscretionary, must get through the phases since these projects are already under construction versus how much is
+discretionary. And so I tried in the prepared remarks to walk you through that logic.
+Now in the discretionary category, there are areas like exploration. Exploration would be one of the first areas that
+you would look to perhaps trim back in a cash flow constrained mode. There are other areas that we would look to,
+projects that are not under construction but are in the first few phases of development. These would be projects
+where a deferral really doesn't result in an economic loss or value destruction. So those are the first couple of areas
+that we would necessarily look.
+I'd call to your attention that there have been some projects where we have already done a push back on the FID
+for various reasons. So, for example, Rosebank was one of the areas that we deferred on the final investment
+decision. We basically took a look at that again and said let's reassess the design construct, let's reassess the
+economics here. And, frankly, that's turning out quite well from a design concept standpoint as well as a reserve
+standpoint and that effort looks to be coming forward perhaps sometime in 2015.
+You're probably aware we've also had a delay in the Indonesian deepwater project because we weren't able to get
+the government approvals in the timeframe that allowed the bids that we had received and the marketing effort
+that had been done to remain effective. So we're going to have to go through that cycle again. So there have been
+some projects that have moved out of the current-year period for their own operating reasons.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+
+Q
+
+Wolfe Research LLC
+
+Great. And then the follow up would be, would we assume that your volume target for 2017 is regardless and
+viable, or would you see the potential for that to need to be cut as a result of low prices? Thanks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+So we take – Paul, I guess the other thing I tried to mention is that we take a long-term view on prices because we
+think over time that that's the direction. The world is still going to need our product, and costs are going to rise to
+get access to more challenged resources. We still are on plan for the 3.1 million barrel a day production by 2017.
+We have a vast majority of that volume is already under construction and we can see our way to those barrels.
+You'll recall perhaps that when we did put out that target back in March, we also indicated that there was about a
+50,000 barrel a day cushion that we put in for the unknown and the unknowable. And so that is an opportunity
+there should some of these things move in or out of the portfolio. So some things are going to move out, some
+things are moving in. Jeff already talked about the strength in the Permian that we've got. So all-in, our best view
+of the world right now is that 3.1 million barrel a day target is a good target for us.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Wolfe Research LLC
+
+Q
+
+Thank you, Pat.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+The other thing I would say maybe is that we do, when we're putting our plans together and we're actually taking
+our projects to investment, we obviously test our investments against a mid-price scenario but a low-price
+scenario as well as a high-price scenario. And I would just say that the low-price scenario that we use, current
+prices are within that band.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Wolfe Research LLC
+
+Q
+
+Great. And then just, if I could, the credit rating is a little important. That's an important way to think about how
+much you would borrow.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Yes, it is. Credit rating is important, but we are a long way from compromising our AA status. And we want to keep
+the AA status for exactly times like this when prices fall and we're committed on projects.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Wolfe Research LLC
+
+Q
+
+Thanks. I'll let you move on. Thank you.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Thanks, Paul.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Phil Gresh from J.P. Morgan. Your question,
+please?
+......................................................................................................................................................................................................................................................
+
+Philip M. Gresh
+J.P. Morgan Securities LLC
+
+Q
+
+Hi, Pat. Good morning.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+Good morning.
+......................................................................................................................................................................................................................................................
+
+Philip M. Gresh
+J.P. Morgan Securities LLC
+
+Q
+
+Just to follow up on Paul's question, you talked about some of the areas of flexibility. I appreciate the color there.
+Specifically for 2015, you talked about the major capital projects. You talked about the Permian still being
+attractive, et cetera, so I guess I was just wondering. Ballpark, is there a rough amount or a range you could give
+us in terms of your CapEx flexibility for next year? Is it 10%, just any preliminary thoughts you could give us?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+Phil, I don't really want to go down that pathway because, again, we're putting our budgets together right now.
+The areas that we would look to flex, exploration, it's currently [ph] been three (40:41), that would probably come
+off some. These Phase 1 through Phase 3 project developments, that will take some declines, again, if we see these
+price levels holding. Base business and Permian activity, those are obviously very economic plays at this particular
+point, but you could toggle those and you can toggle those without destroying value. It would be delaying value,
+but you wouldn't be destroying value. So those are all of the kinds of decisions that we're working through at the
+very moment, and I don't want to get ahead of our formal plan.
+......................................................................................................................................................................................................................................................
+
+Philip M. Gresh
+J.P. Morgan Securities LLC
+
+Q
+
+Understood, I appreciate the additional color. My follow-up would be if we think about the levers available
+between the CapEx, incremental asset sales, the buybacks, I guess is it fair to say with your leverage where it is
+that maybe something on the CapEx and something on the asset sales would be more of a priority at this point or
+rank order relative to trimming the buybacks?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+Again, I don't want to get ahead on that. I think all of those avenues are open to us, and it's really going to be a
+question of how we settle out on our medium to longer-term view on prices and costs, and it's also going to be a
+function of the economic queue that we've got. So we will take all those parameters in place. I'll just reemphasize
+that we have a fair amount of leverage – a lot of leverage still available to us, so that will be taken into account as
+well.
+......................................................................................................................................................................................................................................................
+
+Philip M. Gresh
+J.P. Morgan Securities LLC
+
+Q
+
+Okay, thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Paul Cheng from Barclays, your question, please.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Barclays Capital, Inc.
+
+Q
+
+Hi. Good morning, guys. Jeff, I have, if I could, two questions. One on Duvernay, can you share with us the
+rationale behind the farm-down? Is it because you think within your portfolio that this is not ranking as well, or
+that it is a financial consideration, you just need the money so that you can accelerate your growth or the
+development pace there?
+And secondly then, can you talk about, from the Atlas acquisition that you also get the Utica acreage there, relative
+to the Chevron portfolio, how do you rank those net positions? Does it even have any meaningful outlook on the
+future within your portfolio on those? Thank you.
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+Okay, two good questions, Paul. On the Duvernay in Canada, we are very excited about that. It's very attractive.
+It's less mature than the Permian, but the rocks that we've seen out there and the performance that we've seen on
+our exploration program are good. Chevron has been very clear about our position on risk management. We had
+100% interest in more than 300,000 acres up there. Typically, we look to farm that down a bit. This helps us
+manage risks. It helps us manage across our whole portfolio. So the sell-down in that particular venture was really
+a part of our normal risk management process.
+
+With respect to the Utica, southwestern Pennsylvania, these are very attractive prospects. Recall four years ago or
+three years ago, when we bought into this thing, it was primarily dry gas, and that's what was driving the business.
+Obviously, that part of our portfolio, we have a low holding cost and we pulled back from that with respect to
+investments. On the liquids-rich gas side and on the deeper Utica plays, we're very excited about those. Again,
+we're seeing the same efficiencies in the drilling and completions up there as we see everywhere else. It's
+competing for our capital, and it's important in our portfolio.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+
+Q
+
+Barclays Capital, Inc.
+
+Thanks, and I just had a quick follow-up. Do you have any rigs that are drilling in the Utica?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+Yes, we've got one rig up there.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Barclays Capital, Inc.
+
+Q
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Evan Calio from Morgan Stanley, your question,
+please.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Morgan Stanley & Co. LLC
+
+Q
+
+Good morning, everybody, and welcome, Jeff. I'll leave CapEx alone, but a modest silver lining on the lower oil
+prices, the positive PSC effect. Can you provide any sequential impact in 3Q, and maybe just talk through what the
+typical timing or lag effect may be there?
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations
+
+A
+
+I can take that one, Evan. This is Jeff Gustavson.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Morgan Stanley & Co. LLC
+
+Q
+
+Hi, Jeff.
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations
+
+A
+
+So we didn't see the full – we did see a net production increase in the quarter, but remember prices dropped late
+in the quarter. So I think you'll see more of that in the fourth quarter, assuming prices stay at the levels that
+they're at now. We redo our PSC sensitivity each and every year as part of our planning process. And right now at
+these price levels, what we're showing is about a 1,500 barrel a day impact per dollar change in Brent prices. So
+that's the sensitivity you should be using going forward.
+I would note that this quarter, and we mentioned this in the text, we did have a couple of maybe one-off effects,
+profit oil split change contractor versus government in Kazakhstan. That's with Karachaganak, so that was a little
+more of a pronounced impact. Plus there were some variable royalty effects with our TCO affiliate. But going
+forward, 1,500 barrels a day per dollar change is the sensitivity you should be using.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+
+Q
+
+Morgan Stanley & Co. LLC
+
+Great, I appreciate that, and maybe a question for the other Jeff. On the Permian, you mentioned in your
+comments that it ranks highly, so I presume it would be more insulated from any potential CapEx reductions, if
+that's correct. And you clearly you have a very large position in both basins. I didn't know if you could quantify
+how much your net acreage was prospective with respect to Wolfcamp, Bone Springs, or even lower Spraberry and
+Midland. If you had, if you could, share that with us.
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+
+A
+
+President, Chevron North America Exploration & Production Co.
+
+Yes, just to confirm really what Pat said, the Permian does rank at the high end of our investment portfolio, and it
+should be good at the current price environment. It is good at the current price environment that we see.
+With respect to quantifying the acreage position, I think that in the eye of the beholder. We have a large acreage
+position. It's across all the different benches. Every day there's a new bench that looks productive out there. What
+I can tell you is that the areas that we're focusing on development activity are the sweet spots as we and the
+industry define those things today. And they're highly prospective; they're highly sought out after. We start
+looking at the outer edges of that basin and other people are out there. They're trying new technology. They're
+testing those benches. So I think what we're trying to do is not get out ahead of our skis on that and follow a bit the
+appraisal work and the delineation of these things that are going on. But we're going to stay in highly prospective
+areas as we pace our development program.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+
+Q
+
+Morgan Stanley & Co. LLC
+
+Is that what drives your location estimates then, or is that more all-encompassing?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+The total location estimate is what we see across the basin with the current and some advancement of the
+technologies that exist. Certainly, three years ago we wouldn't have seen this kind of potential. Three years from
+now, it could be even better.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Morgan Stanley & Co. LLC
+
+Q
+
+It's trending that way. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Ed Westlake from Credit Suisse, your question,
+please.
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Good morning. Can you hear me?
+......................................................................................................................................................................................................................................................
+
+A
+
+Chief Financial Officer & Vice President
+
+Hi, Ed, yes.
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Q
+
+Credit Suisse Securities (USA) LLC (Broker)
+
+Great. So I guess some of the discussion around CapEx and the drop in oil prices comes from the slide at the
+Analyst Day this year, where obviously you demonstrated that cash flow was going to come on from the major
+projects, from the work that Mike [Wirth] – his work that he's been doing in the downstream, and then obviously
+the shale contribution. But CapEx was going to stay relatively high to drive growth I guess beyond and into 2020.
+And the shade I see is $37 billion to $40 billion, which is I guess more similar to this year. So I'm trying to get a
+sense of what projects you were including in that 2017 timeframe. You mentioned Kitimat, IDD [Indonesia
+Deepwater Development ], Tengiz. How much of a contribution was there in that year, if you can share that with
+us, so we can get a sense of where the adjusted CapEx might be?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+I'm not sure that I can completely understand the question. You're looking at 2017?
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Q
+
+Credit Suisse Securities (USA) LLC (Broker)
+
+I'm looking at how much of Kitimat and IDD and Tengiz you were assuming in that 2017 outlook that you gave us
+so that we can – if they do delay, not at Tengiz, but Kitimat and IDD perhaps, how much you would save.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+I think for all of those, you would be talking about modest contributions in the 2017 time period, so I don't think
+it's an impactful element in terms of hitting that target.
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Q
+
+Credit Suisse Securities (USA) LLC (Broker)
+
+Right, on the CapEx side?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+No, I was talking on the production side, I'm sorry. So you're talking of the CapEx side?
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Yes.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+We didn't give a 2017 target. We did show you that slide that had cash from operations growing and C&E being
+more contained relative to cash from operations. We still stand by that overall profile. It is our distinct intent to
+widen out our free cash flow over time once we get into the cash generation phase of these critical projects. We've
+been in this very unusual capital-intensive phase with Gorgon and Wheatstone and these large projects right on
+the heels of one another, and we're coming off of that. LNG spending this year is going to probably be the peak
+LNG spending, $10 billion to $11 billion. It will trail off in 2015. It will trail off again in 2016, and we don't have
+that kind of sequential large projects queued up beyond that time period. So we'll come out with a revised target
+on future year C&E as best we can in March at the Analyst Day meeting.
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Okay, and then one for Jeff. The 20% CAGR if I calculated that right in the Permian is obviously quite impressive
+for any independent or major. What are the constraints? The resource is clearly there. What are the constraints on
+perhaps even going faster perhaps as you get out into the second half of the decade in the Permian?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+Okay, I think the basin itself, if you look back the last three years, it's certainly capable of demonstrating that
+growth potential. I think we're up 0.5 million barrels. We're almost 3 million barrels a day as an industry in that
+basin.
+The constraints are what everybody talks about. It's just basic stuff like the labor force out there. That's been
+challenged. It's a boom time out there. Water is an area of concern for some people. We work hard on that in
+terms of moving from fresh water to brackish, non-potable drinking water, securing those supplies and the
+infrastructure around that. Sand has been an issue, but I think the service companies and others are starting to
+address that supply chain issue.
+I think the real uncertainty for me is just how high that activity could go and what would be the knock-on effects
+of that. But you've got to look at there are a lot of companies in there, and in the current price environment,
+maybe some of that stabilizes out. I don't see the activity levels that we see being at risk from takeaway capacity or
+really the contractor's ability to deliver, and that's one thing that we take into consideration when we look at our
+pace of investment.
+......................................................................................................................................................................................................................................................
+
+Edward George Westlake
+Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Asit Sen from Cowen & Company, your question,
+please.
+......................................................................................................................................................................................................................................................
+
+Asit K. Sen
+Cowen & Co. LLC
+
+Q
+
+Thanks, good morning, two quick ones here. First, could you update us on Kitimat potential timing of FID? It
+looks like at least one competing project is getting delayed. And secondly, could you update us on any labor
+productivity items on the West Coast of Australia in light of the recent union agreement on Curtis Island? In other
+words, are things getting better?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+I can give a quick update on Kitimat. I'll let Pat talk about Australia. So Apache has announced their intent to fully
+exit the project. We're still committed to this project. We think that the low-cost potentially prolific reserves up in
+the Liard and Horn River are going to make an attractive LNG project in time. We've been very clear that we will
+not take FID of this project until we have gas contracts signed and know that we've got a value-adding economic
+project.
+With respect to FID, we haven't given a date on that and we continue to do the FEED work on the plant, the plant
+site. We continue to work with the government of British Columbia. We're encouraged by the recent news that's
+come out of there with respect to how they want to treat LNG and taxes. But our primary focus up there is really
+the appraisal and the delineation work that we've got going on in the Liard Basin.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Okay. And with regard to the union contract issue in Australia, at this point in time we know that there has been a
+downstream agreement reached in principle with certain construction unions and that it still needs to be put to a
+vote by the union membership. So we have agreement at the leadership level, but we still need a vote at the union
+member level. Frankly, there's more dialogue in the press about union-related challenges for us on this project
+than there have been reality on the ground. So the project continues to make good progress here.
+And I guess one of the exciting things that I would just mention, we didn't put it in the formal remarks, but we
+have secured, I guess I would call it a floatel. I'm not sure what the right hoteling accommodation nomenclature
+is. But we've got the capacity over the next several weeks to bring over time about 1,200 additional workers to the
+island to work on the MEI work that's underway that needs to be done in the next year. So that's a good boost, we
+think, in productivity for that.
+......................................................................................................................................................................................................................................................
+
+Asit K. Sen
+
+Q
+
+Cowen & Co. LLC
+
+Thanks a lot.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Iain Reid from BMO. Your question, please?
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+BMO Capital Markets Ltd.
+
+Q
+
+Hi there. Pat, I wondered if you could give me an update on the Wheatstone budget. It's I think about 49%
+through now in terms of spends. Is it time now that we get a complete update in terms of how much that project is
+going to cost?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+At this point, yes, you're right. We're about 49% complete. It is a typical process for us to go through and do a midproject update. I don't have a specific calendar date for that, but it would be a reasonable thing that we would do
+any time between 40% and 60% of when the project is done. So I would say that's coming, but I don't have a
+specific date as to when that will be completed.
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+BMO Capital Markets Ltd.
+
+Q
+Okay. And maybe as a follow up on another big international asset, Angola LNG. Can you give us the cost to repair
+and some schedule for restartup of that project?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Sure. I can talk a little bit about the schedule side of things, but there's not a cost estimate that I have available to
+give to you. Let me just make sure. We are just a 36% partner in a consortium here. We are not a controlling
+entity. We work through the partnership there. But in terms of the progress on the repair work, we've continued to
+make good progress there. We do at this point anticipate an initial restart somewhere around the middle of 2015.
+And after initial performance testing, as is typical, that plant will go down for a couple of month period of time
+while we clean out and remove the strainers, clean out the filters, et cetera. Then it will be brought back online.
+And we anticipate restarting and working towards sustained production levels late in 2015.
+......................................................................................................................................................................................................................................................
+
+Operator: Did that answer your question?
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+
+Q
+
+BMO Capital Markets Ltd.
+
+Yeah, it did. Thank you.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+Okay, thank you. All right, I guess we'll take the next caller.
+......................................................................................................................................................................................................................................................
+
+Operator: Our next question comes from the line of Allen Good from Morningstar. Your question, please?
+......................................................................................................................................................................................................................................................
+
+Allen Good
+Morningstar Research
+
+Q
+
+Good morning, everyone. A couple on the Permian. First of all, when you look around and you benchmark
+yourself against maybe some of your smaller peers there on operating cost and other efficiency metrics, how do
+you see yourself stacking up?
+And then secondly, on the new projections for growth, does that imply a commensurate step-up in spending as
+well, or have you been able to achieve some capital efficiency improvements from your initial projections that
+suggest that spending won't quite increase as much as the production is?
+......................................................................................................................................................................................................................................................
+
+Jeff Shellebarger
+President, Chevron North America Exploration & Production Co.
+
+A
+
+Yes, good questions. We benchmark ourselves all the time. We benchmark ourselves with respect to cost,
+efficiency or finding and development costs, et cetera, et cetera. A year and a half ago, we were probably down at
+the lower end of our competition. Part of that was because we were new in the Basin and part of that was because
+we were focused on the appraisal and some of the other work to really understand what's going on in the Basin in
+these new areas.
+We've made a concentrated effort in that area over the last 14 months to 16 months. We've made significant
+improvements in our execution efficiency, our cost efficiency. And today I would say we're probably in the mid to
+upper part of the second quartile. Our performance targets here are to be the top of the heap there, and we're
+making very, very good progress on getting there.
+With respect to how we're improving and what's going on there, it's really a host of things. Certainly, we are seeing
+capital efficiency in what we're doing, so we're being able to drill more wells with the same amount of money.
+We're seeing efficiencies in our completions. But I think even more important to that, moving to horizontal wells,
+moving to longer lateral lengths, moving to more stages, our acreage position allows us to do that and we're going
+to see more of an impact on that in our production forecasts than probably anything else.
+......................................................................................................................................................................................................................................................
+
+Allen Good
+Morningstar Research
+
+Q
+
+Okay, great. Thanks. And if I could, just one quick follow-up. Was the Duvernay sell-down, was that included in
+the original $10 billion estimate of asset sales? And then is there any potential upside for that figure over the next
+couple years?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President
+
+So we wouldn't really talk to what's included or excluded in our overall target. Obviously, it's a significant
+component there. And in terms of future, I think your second question was is our future efforts in that regard? I
+think that's...
+......................................................................................................................................................................................................................................................
+
+Allen Good
+Morningstar Research
+
+Q
+
+Is there upside to that $10 billion figure now that you've gone through it a little bit and progressed through, do
+you see upside from your initial estimate?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+So I think that's going to be a function of what the market is going to allow. We have certain assets, as we've tried
+to describe, that are either early in life or late in life. We know what those assets are, and we will, as I said, only go
+for the sales when we can get good value. So it will be a function of what the market will afford at that point in
+time, but we are on track for the $10 billion. We can see our way to that almost at this point in time, certainly this
+year, 2014, or maybe there will be some slippage into first quarter 2015 of some of the transactions that I have line
+of sight on but I feel very good about where we sit at this point in time.
+......................................................................................................................................................................................................................................................
+
+Allen Good
+Morningstar Research
+
+Q
+
+Great, thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our final question comes from the line of Pavel Molchanov from Raymond James, your
+question, please.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Raymond James & Associates, Inc.
+
+Q
+
+Thanks for taking the question, two quick ones on LNG. First in relation to Kitimat, with the tax announcement
+from the BC government earlier this month, is that still a hurdle, or are you pretty satisfied with how that went?
+
+A
+
+That's just one element of our investment decision. I think that what we're satisfied with is that the British
+Columbia government is very attentive to the realities of the industry. They've listened to what we've said. They've
+listened to what the buyers have said, and I think they've made some very good moves in terms of what reality is
+out there and what it takes to make these projects economic. We've got to work a whole lot of other issues between
+now and FID, and I think they'll remain, our view is that they'll continue to remain flexible in those discussions.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Raymond James & Associates, Inc.
+
+Q
+
+Okay. And then you mentioned you want to sign offtakes for Kitimat before FID, but you also have some
+remaining capacity at Gorgon, which as I understand is still not covered by offtake. Are you prioritizing one versus
+the other if a particular customer is open to either option?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+A
+
+I think a fundamental driver there is that the volumes would be available under different timeframes. Gorgon
+production starts a year from now and ramps up with three trains over the subsequent years. Kitimat was going to
+be in a much longer-term horizon there.
+Just speaking to the Gorgon unallocated volumes or uncontracted volumes at this point in time, yes, we are sitting
+at about 65%. We did have notionally some of that volume earmarked as a backstop behind IDD from a customer
+arrangement standpoint. Now that the Indonesian deepwater is no longer going forward on that same
+development time plan, we are available to take some of those volumes that we had earmarked there and market
+them, and that's exactly what we're doing now.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Raymond James & Associates, Inc.
+
+Q
+
+Okay, that's useful, appreciate it.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President
+
+Okay, so I think that ends our queue at this particular point in time. So I'd like to thank everybody on the call for
+your interest in Chevron and your participation with questions. We wish you a good day. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Ladies and gentlemen, this concludes Chevron's third quarter 2014 earnings conference call. You may
+now disconnect.

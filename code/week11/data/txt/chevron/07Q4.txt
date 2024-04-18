@@ -1,0 +1,538 @@
+Operator: Good morning. My name is Matt, and I will be your conference facilitator today. Welcome
+to Chevron’s Fourth Quarter 2007 Earnings Conference Call. [Operator Instructions] I will now turn
+the conference call over to the Chairman and Chief Executive Officer of Chevron Corporation, Mr.
+Dave O’Reilly. Please go ahead, sir.
+
+David J. O’Reilly, Chairman and Chief Executive Officer
+Thank you, Matt, and welcome to Chevron’s fourth quarter earnings conference call and webcast.
+I’m joined today by Steve Crowe, our Chief Financial Officer, and Jim Aleveras, General Manager,
+Investor Relations. Our focus today is on Chevron’s financial and operating results for the fourth
+quarter and we’ll refer to slides that are available on the web.
+Turning to Slide 2 before we start, please be reminded that this presentation contains estimates,
+projections, and other forward-looking statements. I ask you to review the cautionary statement on
+this slide.
+
+I’ll begin with Slide 3, which provides an overview of our financial performance. The company’s
+fourth quarter earnings were $4.9 billion, or $2.32 per diluted share. Full year results of $18.7 billion
+mark a fourth consecutive year of record earnings. Our fourth quarter earnings were 29% higher
+than the fourth quarter of 2006, reflecting higher crude prices, which more than offset weaker
+downstream results. Fourth quarter earnings rose 31% compared to the third quarter of 2007,
+which Steve will discuss in detail shortly.
+Return on capital employed for the year was 23%, and our debt ratio at year end was 8.6%. Stock
+buybacks during the quarter were $2 billion and $7 billion for the year in total. Total shareholder
+return for the year was over 30%.
+Turning to Slide 4, our total capital spending for 2007 was $20 billion. Upstream spending
+accounted for 15.5 billion or 78% of the total. Our cash C&E, which excludes our share of equity
+share of affiliate outlets, totaled 17.7 billion for the year. Our announced capital program for 2008 of
+22.9 billion represents an increase of 2.9 billion over 2007 expenditures. About $2 billion of the
+increase is earmarked for upstream, reflecting the capital-intensive phase of some of our long-term
+growth projects. The change in downstream spending is due to a number of investments to
+upgrade our refining network.
+Steve will now take us through the quarterly comparisons. Steve?
+
+Stephen J. Crowe, Vice President and Chief Financial Officer
+Thanks, Dave. My remarks compare results of the fourth quarter 2007 to the third quarter. As a
+reminder, our earnings release compared fourth quarter 2007 to the same quarter a year ago.
+Turning to Slide 5, fourth quarter net income was almost $1.2 billion higher than the third quarter.
+Starting with the left side of the chart, significantly higher oil prices and slightly higher natural gas
+prices benefited the company’s upstream results worldwide. Higher international liftings were also a
+factor. Downstream results fell from the prior quarter. The third quarter included a $265 million gain
+on the sale of our fuels marketing assets in Belgium, Luxembourg, and the Netherlands. The
+variance in the residual Other bar is the net of everything else.
+Slide 6 summarizes the results of our U.S. upstream earnings, which improved by about $240
+million between quarters. Higher realizations, primarily for liquids, benefited earnings by $400
+million. Chevron’s U.S. crude oil realizations were up roughly $13 per barrel. While the average
+quarterly price of WTI increased more than $15 per barrel between quarters, much of our Gulf of
+Mexico crude oil production is priced on a lagged basis and rose about $11 per barrel. Production
+volumes fell 1.5% between quarters, largely due to operational downtime and field declines in the
+Gulf of Mexico.
+The $90 million DD&A benefit primarily reflects the absence of the third quarter’s provision for asset
+retirement obligations. Exploration and operating expense increased about $165 million between
+quarters. Exploration expense was up about $90 million, mostly on higher well write-offs. Operating
+expense was $75 million higher due to higher production taxes and maintenance costs. Other
+primarily reflects lower gas marketing margins.
+
+Turing to Slide 7, international upstream earnings for the fourth quarter were almost $1.2 billion
+higher than the third quarter’s results. Higher oil and gas prices increased earnings by about $700
+million. Unit realizations for liquids rose by $13 per barrel, in line with the percentage change in
+Brent spot prices. Higher liftings during the quarter, particularly in Azerbaijan, Kazakhstan,
+Australia, and Nigeria, improved earnings by $280 million. Tax items benefited earnings by 210
+million between quarters. This mainly reflects the absence of adverse tax adjustments last quarter,
+along with net favorable adjustments spread across a number of countries in the current period.
+The variance in Other reflects the absence of asset impairment charges recorded in the third
+quarter, which were offset by higher operating expenses.
+Slide 8 summarizes the change in worldwide oil equivalent production, including volumes produced
+from oil sands in Canada. Production rose by 22,000 barrels per day between quarters. During the
+fourth quarter, U.S. production decreased 11,000 barrels per day compared to the prior period,
+mainly due to operational downtime and field declines in the Gulf of Mexico. Outside the U.S., oil
+and gas production increased 33,000 barrels per day between quarters. The increase reflected the
+absence of third quarter shutdowns in the UK and Azerbaijan. The Tengiz expansion project in
+Kazakhstan came on-stream late in the fourth quarter, and was gradually ramping up. Partially
+offsetting was a drop in Canadian volumes due to the November fire at the Athabasca upgrader
+and lower Hibernia production.
+Turning to Slide 9, we’ll now briefly discuss our 2008 production outlook. As a reminder, during our
+fourth quarter 2006 conference call a year ago, we estimated that total 2007 production would be
+about 2.6 million barrels a day. That estimate assumed an oil price of about $60 per barrel. Despite
+the impact of higher crude oil prices on net production, we were able to exceed our estimate by
+19,000 barrels a day. The increased volumes came from major capital projects, fewer storm-related
+shut-ins, and lower base business decline rates.
+As we look to 2008 production in a $70-per-barrel price environment, we are estimating a
+production increase of a little more than 1%. If prices were to remain at the current $90 level,
+production would be on the order of 50 to 60,000 a day lower. As noted in the slide, the 2008
+production reflects an overall base business decline rate of 4.5%, which is consistent with our
+historical experience. We anticipate that the startup of major capital projects in 2008 and the rampup of volumes from projects begun in earlier years will add about 150,000 barrels a day. These
+projects include the Tengiz expansion in Kazakhstan, Agbami in Nigeria, and Blind Faith in the Gulf
+of Mexico. We also anticipate continued production growth from our Bibiyana field in Bangladesh.
+Looking beyond 2008 production, we reaffirm our objective to growth production volumes from
+2005 to 2010 by an annual rate of 3%.
+Before moving on to the downstream I’d like to briefly address our reserves replacement for the
+2007. At the end of February, we’ll file our Form 10-K with SEC, which will have considerable detail
+on our oil and gas reserves. We haven’t yet completed all of our governance reviews, but I can tell
+you today that we anticipate the 2007 reserves replacement ratio on an oil equivalent basis will be
+in the 10 to 15% range. This low replacement rate was affected by three primary factors. First, SEC
+rules require that reserves be calculated using year-end prices. The price of WTI increased $35 per
+barrel from the end of 2006 to the end of 2007. This large rise in commodity prices reduced our
+reported reserves under production-sharing contracts and variable royalty arrangements that are
+common in international operations. We estimate the impact of higher prices reduced our
+replacement ratio by about 30%.
+Second, sales and acquisitions during the year reduced the replacement ratio by about 10%. And
+third, although we made a great deal of progress on our major development projects, the timing and
+circumstances were such that we were unable to book large reserves additions for these projects or
+for contract extensions in 2007. The timing of reserve recognition for these types of events vary
+significantly from year to year. Given the number of major projects and development, we anticipate
+a meaningful impact on reserve additions in the years ahead. Besides the information that will be
+presented on reserves in the 10-K, George Kirkland will discuss this topic and our outlook in more
+depth at meeting with security analysts and its webcast on March 11. He’ll discuss not only
+reserves, but also the success we’ve had in adding resources last year.
+
+Moving to downstream on Slide 10, U.S. downstream operations posted a loss for the second
+consecutive quarter. Refining and marketing indicator margins on the West Coast improved slightly
+in the fourth quarter, while there was small declines on the Gulf Coast. On balance this effect was a
+favorable $35 million between quarters. Higher volumes on light product refinery production
+benefited the fourth quarter earnings by $50 million compared to the prior quarter. In our
+conference call last quarter, we mentioned the adverse impact of timing effects such as
+provisionally priced foreign crude, as crude prices increased $11.00 per barrel during the third
+quarter. Over the fourth quarter, the average price of WTI increased by $15.00 per barrel, adding to
+the adverse impact of these timing effects as shown on the chart.
+The Other variance reflects higher operating expenses partly stemming from shutdowns at the
+Pascagoula and El Segundo refineries. Also included in this amount are the costs for provisions for
+litigation offset by a gain on the sale of our proprietary credit card businesses. While this slide
+accounts for the change in earnings between quarters, the fact remains that our U.S. downstream
+business operations lost money in the fourth quarter. On an absolute basis, two major factors
+caused this. First, our Pascagoula refinery’s crude unit was down, and our El Segundo refinery was
+undergoing a coker upgrade to process heavier crudes. This raised our feedstock costs, so our
+actual margins were less than the indicator margins. It also increased our operating expenses. The
+second factor was the sharp rise in crude oil prices. This caused us to incur losses on provisionally
+priced crudes and to have derivative losses under mark-to-market accounting along with inventory
+effects in the period. These combined effects amounted to roughly $400 million in the fourth
+quarter.
+Turning to Slide 11, international downstream earnings fell $228 million from the third quarter’s
+results. Refining indicator margins were generally higher, while marketing margins were mixed
+across our international geographic areas. On balance, higher overall fourth quarter margins offset
+a small adverse volume effect to produce the $40-million favorable variance shown on the chart.
+Most of the timing effects, which reduced earnings by $80 million, were associated with inventory
+accounting. The third quarter included a $265-million gain on the sale of our Benelux fuels
+marketing operations. The $77-million benefit shown in the Other bar includes favorable variances
+in foreign exchange, as well as other items that were mostly offsetting.
+Slide 12 shows earnings from chemical operations were $69 million in the fourth quarter, compared
+with $103 million in the third quarter. Results for olefins declined during the quarter, primarily due to
+lower ethylene and polyethylene sales volumes and margins. The decline in aromatics was also
+largely due to lower volumes and margins. Included in the Other bar are tax benefits and the
+absence of the third quarter environmental provision, partly offset by lower additive earnings.
+
+Slide 13 covers All Other. Fourth quarter results were net charges of $237 million compared to net
+charges of $193 million in the third quarter. The absence of third quarter environmental provisions
+was largely offset by a decrease in net interest income. The Other bar includes the impact of tax
+benefits offset by higher year-end corporate expenses. Fourth quarter net charges for this segment
+fell above our standard guidance range of 160 to $200 million, as we had indicated in our interim
+update.
+That concludes our brief analysis of the quarter. So, Dave, back to you.
+
+David J. O’Reilly, Chairman and Chief Executive Officer
+
+Okay, thank you, Steve. And before I get to your questions, let’s have a brief recap of our strategic
+progress in recent months. So please turn to Slide 14. With our partners we made the final
+investment decision to construct a 5.2-million-metric-ton LNG plan in Angola, in which Chevron
+holds a 36% interest. We signed a 30-year production sharing contract with China National
+Petroleum Corporation to assume operatorship, and hold a 49% interest in the development of the
+Shandong Bay natural gas area in central China. As Steve mentioned, we initiated production from
+the first phase of expansion at our 50%-owned Tengiz field. And although this phase did not add
+significantly to fourth quarter production, earlier this week we announced the milestone of
+increasing daily crude oil production capacity by 90,000 barrels to about 400,000 barrels per day.
+The addition of full facilities in the second half of 2008 is expected to further increase daily crude
+production capacity to 540,000 barrels per day.
+We signed an agreement to increase daily sales of natural gas in Thailand by 500 million cubic feet
+to 1.2 billion cubic feet by 2012 from company-operated offshore blocks 10 through 13. And in late
+October we had received ten-year extensions for these concessions to the year 2022. Our 50%owned Yosu refinery in South Korea completed its major upgrade to process heavier crudes into
+light products. And in December we completed the second phase of modifications at our refinery in
+El Segundo, California, also enabling the processing of heavier crude oils into light products.
+In summary, 2007 was a very successful year for Chevron and our shareholders. We achieved
+record earnings, invested in our excellent queue of capital projects, increased our annual dividend
+payment for the 20th consecutive year, and repurchased $7 billion of shares. And our total
+shareholder return was the best among our peer group. As we enter 2008 we look forward to the
+completion of several major growth projects and further progress on our strategic goals.
+So that concludes my prepared remarks and Steve’s as well, and we’ll now take your questions.
+One question and one follow-up per caller, please. And, Matt, please open the lines for questions.
+Thank you.
+
+Operator: Thank you, sir. [Operator Instructions] Our first question comes from Paul Cheng of
+Lehman Brothers. Your question please?
+<Q – Paul Cheng>: Hi. Good morning, guys.
+<A – David O’Reilly>: Good morning Paul.
+<Q – Paul Cheng>: Maybe this is either for Steve or Dave. You talked about briefly on the reserve
+replacement. You think that you have not been able to book any reserve from a major project. Just
+do you sense from the Angola LNG and you have a contract extension in Thailand gulf. You also
+started with the Tengiz. So none of those that has been able to allow you to book any reserve in
+2007?
+<A – Stephen Crowe>: Thank you, Paul. That’s a good question and a fair question to ask. For the
+Angola LNG, we’re very confident in the resource base as the plant owners have the rights to
+virtually all the associated gas in offshore Angola. However, before booking reserves from
+properties owned by others, we’re securing third-party certifications. We anticipate those reserve
+ads in 2008 and in future years as the offshore Angola properties are developed. With respect to
+Thailand, we’re also very confident of the billion barrel probable reserve base. We’ll move into the
+P1 reserves as we delineate the field and the projects mature. But at this point, at the time of
+signing the concessions, we don’t meet the requirements for P1 per the SEC definitions. Do you
+have a follow up question, Paul?
+
+<Q – Paul Cheng>: How about the Tengiz, that the solid gas reinjection, do you assume that that
+would improve the recoverable rate?
+<A – David O’Reilly>: I think when you see our 10-K you’ll find that we have a lot more detail,
+Paul. I’ve increased recoveries where they’re appropriate. But I think getting back to the year, I’d
+like to emphasize the point that the reserves are there; the resources are there. But because of the
+fact that we have to go through a certification process, because of the complexity of the Angola
+situation as well as technical reasons – We book reserves in Thailand on an incremental basis
+because these are multiple small fields and small compartmentalized resources that you must
+actually develop a plan to drill and have the drill bit involved before you book a reserve. So we’re
+confident that the resources are there, but it’s a matter of timing for booking these reserves.
+<Q – Paul Cheng>: Thank you.
+<A – Stephen Crowe>: Paul, I’d also mention that in about five weeks when we have our analyst
+meeting in webcast in New York, George Kirkland, our EVP of Upstream will take more about the
+reserves booking, but he’ll also talk a good deal about the success we’ve had with the drill bit and
+the resource adds that we’ve had in 2007. So you and others will be able to get a lot more detail on
+this subject at that point. Thanks very much for your question though, Paul.
+<Q – Paul Cheng>: Thank you.
+Operator: Our next question is from Arjun Murti of Goldman Sachs. Your question please?
+<Q – Arjun Murti>: Thank you. I had another question on the reserves. I think we certainly
+appreciate that Chevron does have a sizable resource base, what we call 3P reserves. And in any
+one year there can be volatility and one of these gets booked to crude reserves. We understand the
+SEC pricing effects, and we appreciate those disclosures; we appreciate the asset sales. But I
+guess it’s now sort of four years we’re kind of decently below 100%. And Chevron, especially both
+as a merged company or legacy, had such a long track record of exceeding 100% that something’s
+meaningfully changed here in the last four years despite you all actually having very good
+exploration success and signing a number of contracts. Is it just that in the old days the legacy
+assets, North Sea, U.S., and so forth, Indonesia, you were more predictably able to book the
+reserves in proved year-in, year-out and were in a transition to these new reserves where the
+timing’s more extended? Or has something else changed that’s just causing now so many years of
+sub-100% even if we make some of the pricing adjustments and the asset fail adjustments?
+
+<A – David O’Reilly>: Well, Arjun, this is Dave. I’ll take that question. First of all, well your
+observation’s a good one but I think if you go back say to the 90s, back over the last 20 years or so,
+the configuration of our portfolio has changed quite a bit. In those days we were adding multiple,
+multiple small amounts of reserves over multiple, multiple small fields when we had thousands of
+fields and thousands of developments. Our portfolio has deliberately shifted, of course, over the last
+ten years or more, and now we are looking at significantly bigger projects that are much more
+lumpy. So you will see choppiness here in the reserves bookings. Now having said that, even over
+the transition period of the last ten years, our reserve replacement has been in excess of 100%. But
+you’re right; in the last few years it has been much more choppy. So expect you’re going to see
+years when we are significantly above 100% on a one-year basis as things come together, but
+you’re also going to find years when we’re below it.
+And of course all of that has been exacerbated by the pricing effects that you’ve talked about. I
+think if we look over the last few years alone 6 or 700 million barrels of oil have just disappeared,
+actually as a result of a fairly good thing and that is higher prices, higher earnings, and higher cash
+flow. So you are going to see a more choppy period ahead – some years when we’re below, some
+years when we’re substantially above. And it’s a matter of timing, but we are adding the resources.
+And the examples that we cited in our response to Paul Cheng’s question, I think are very good
+examples of projects that are complicated, particularly in the case of Angola that required thirdparty certification because we don’t actually in the case of Angola own all of those reserves. But we
+are entitled to them and we are entitled to book them, as they are certified and following SEC rules.
+So thank you for the question.
+<Q – Arjun Murti>: Thank you.
+<A – Stephen Crowe>: Arjun, did you have any follow-up you’d like?
+<Q – Arjun Murti>: No, that’s a very full answer. I appreciate it.
+<A – David O’Reilly>: You’re very welcome. Thanks very much for your question.
+Operator: Our next question is from Robert Kessler of Simmons & Company. Your question
+please?
+<Q – Robert Kessler>: Good morning, gentlemen I wanted to see if we could look a little bit more
+closely at your 2008 updated production outlook. If I go back to what you were expecting in the
+March 2007 analyst meeting, I want to say the number was closer to 2.8 million barrels a day, so
+roughly 150,000 barrels a day higher than what you’ve got in your slide today. And I know a lot’s
+changed since then. Prices have certainly increased; Tahiti has slipped. But I wanted to see if you
+could provide some sort of reconciliation between those two figures.
+<A – Stephen Crowe>: Thank you Robert. In our analyst meeting back in March of last year, you
+could interpolate from the bar chart that our anticipated production for 2008 would be on the order
+of 2.8. And as we had mentioned today, at a $70-price environment, we’re guiding you folks that it’s
+2.65. So your math, Robert, is about right. It looks to be about 150,000 barrels a day difference. We
+would describe, oh, in the neighborhood of 95 to 100,000 barrels of that to major capital project
+delays. And it’s as you pointed out. It’s Tahiti slipping out of 2008, and it’s a little slower ramp-up
+particularly for our TCO expansion this year.
+
+The other big component that’s on the order of about 40,000 barrels a day, or thereabouts, would
+be attributable to higher prices that we’re basing our production profile on this year versus the
+information that we showed at the analyst meeting. So that accounts for the lion’s share. But I
+would tell you that as we go forward, we still expect that between 2005 and 2010 our standing
+guidance of increasing our production by an annual rate of 3% still holds. So this timeframe will
+have that production more backend-loaded, but we’re very confident that over the next couple of
+years, we’re going to be able to increase production and achieve that production growth rate. I
+hope that helps you, Robert. Do you have a follow-up on that?
+<Q – Robert Kessler>: That helps. Thank you very much.
+<A – Stephen Crowe>: You’re very welcome.
+Operator: Our next question’s from Doug Leggate of Citigroup. Your question please?
+<Q – Doug Leggate>: Thanks. Good morning, gentlemen.
+<A – Stephen Crowe>: Good morning Doug.
+
+<Q – Doug Leggate>: If I could just get some clarity on that last answer, Steve, if you don’t mind
+because the implication of the original target was about a 400,000-barrel-per-day increase over the
+five-year period. The price tag has obviously moved up. So just to be clear, is this your consistency
+without guidance even though we’ve had a substantially higher move in the oil price?
+<A – Stephen Crowe>: That is correct. The guidance that we’re giving still pings off now a sort of a
+$70 price debt. You’ll recall though, Doug, back at the time that we first gave the guidance, we said
+our production profile from ‘05 to ‘10 would be in excess of 3%. So we think we still have some
+ability to accommodate the higher prices.
+<A – David O’Reilly>: But I think, Doug, just following up with Steve’s point, if prices were to go to
+90 or 100 and stay there, then we’d have to re-evaluate I think at least at the margin some of those
+assumptions. But our assumption here is we’re just using $70 at the moment. And the reason we
+picked 70 on this chart that you’re seeing is that it was about 70 in 2007. So we’re trying to take out
+the impact of prices in this analysis.
+<A – Stephen Crowe>: Doug, I also mentioned – when I was talking about our outlook for 2008, I
+kind of gave you some manner by which you could adjust when I commented that if prices for 2008
+were to be, say, in the $90-per-barrel level that the production would be on the order of 50 to
+60,000 barrels a day lower. So I have to tell you, though, that the price effect associated with our
+various contracts overseas is, it varies with the price range in which those changes occur. So it’s
+not totally, totally linear. So the guidance that I gave you was moving, say, from a $70-per-barrel
+environment to that of, say, a $90-per-barrel environment.
+<Q – Doug Leggate>: Great.
+<A – Stephen Crowe>: Doug, did you have another question?
+<Q – Doug Leggate>: If I could risk just a short follow-up, it’s on the decline rate guidance or I
+think you kind of declared that for everyone to see. The projects you have, however, coming on are
+arguably quite long life. How would you expect or would you expect that decline rate to moderate
+as these new barrels come on-stream?
+<A – David O’Reilly>: Yes, we would, Doug. Now we actually did better than 4.5% during 2007.
+And, well, we’re not confident enough yet in the certainty in what we’re accomplishing to forecast
+that that’s a permanent shift. But you are correct. As you move forward with longer-life projects, we
+expect that that will make a transition at some point in the future. And that’s something we’ll
+address when we feel confident that we can forecast something that’s better than 4.5. So at the
+moment, we’re sticking we our 4.5% guidance. Thank you.
+<Q – Doug Leggate>: Thank you very much.
+<A – Stephen Crowe>: Next question please.
+Operator: Our next question is from Mark Gilman of Benchmark. Your question please?
+<Q – Mark Gilman>: Dave, Steve, and Jim, good morning.
+<A – David O’Reilly>: Good morning, Mark.
+
+<Q – Mark Gilman>: I wanted to see if I could just try and get a better understanding of the
+economic structure of the Angola LNG project. I mean, I think I hear what you’re saying – that
+because you have, quote/ unquote, rights to the gas it allows you to book the reserves. But it’s my
+understanding that you’re still buying the gas from Sonangol, and therefore this is not a typical
+integrated West African LNG project. Could you shed any light on this issue at all?
+<A – David O’Reilly>: Well, let me just put it this way. The plant owners are entitled to this gas
+under Angolan legislation. So this is legislated, but it’s not all coming from one field; there are
+multiple fields involved. So there is legislation in place. All of it has been fully vetted through the
+government. So there are the rights of this gas, and under SEC rules, we will be able to book those
+gases. But because not all of them fall into our gas fields, if you will, or our gas production, these
+have to be certified. And that’s what’s under way right now. So other than that, that’s about as far
+as I can go in answering your question, Mark.
+<Q – Mark Gilman>: But, Dave, aren’t you buying the gas from Sonangol even in those fields
+where you have a working interest, and an applicable production-sharing contract?
+<A – David O’Reilly>: It’s not a purchase arrangement; it’s a dedication to the plant arrangement.
+And that’s about as far as I can go.
+<Q – Mark Gilman>: Thank you very much.
+<A – David O’Reilly>: All right, thanks Mark.
+Operator: Next question is from William Ferer of W.H. Reaves. Your question please?
+<Q – William Ferer>: Yes, good morning, gentlemen.
+<A – David O’Reilly>: Good Morning Bill.
+<Q – William Ferer>: A couple of questions for Steve. Excuse me, a question and a follow-up on
+the general issue of accounting. You mentioned that the U.S. downstream, if I got this correctly,
+was burdened by $400 million in the fourth quarter roughly of inventory and derivative effects. Is
+that related to, say, foreign oil pricing effects or is this different? And would that go away in the first
+quarter for example? Or how permanent might that be? And my follow up is also an accounting
+question. Without getting into the nuance of timing of reserve ads, does the formality of what you
+will have to report at year-end influence your book DD&A as we go forward?
+<A – Stephen Crowe>: Thank you Bill...
+<Q – William Ferer>: Thank you.
+<A – Stephen Crowe>: Let me start off with the comments regarding the U.S. downstream. As I
+had mentioned in an absolute sense, we estimate that the fourth quarter U.S. downstream results
+were adversely affected by about $400 million in the quarter and there were kind of two main areas
+that account for this. Firstly is the downtime at our refineries. Order of magnitude, that’s about $250
+million impact. That reflects both planned downtime, as was the case in our El Segundo Refinery
+when we had the coker down, as well as unplanned downtime that we had at Pascagoula as a
+result of the crude unit fire that occurred back in August.
+The components of those are both sort of a lost opportunity profit in the margin because we had to
+acquire more expensive feedstock such as light sweet crudes to input to the refineries. It also
+reflects that we had higher operating expense while those refineries were down. Roughly speaking,
+that impact of the refineries being down was about split equally between planned downtime and
+unplanned downtime.
+Now the balance of that $400 million, or roughly 150, we would ascribe to say call timing
+differences really driven by the rapid escalation in the price of crude oil from the beginning to the
+end of the fourth quarter. And as you pointed out, Bill, that affects both our contractual
+arrangements for the purchase of provisionally priced foreign crudes, but also some of our
+derivatives that we have, which are mark-to-market at the end of each period, whereas the
+physicals associated with that would be recognized in a different period. The inventory impacts for
+the fourth quarter in the U.S. weren’t all that great. There was a bigger impact overseas.
+
+So I hope that gives you and the other analysts a fix on trying to adjust or normalize, if you will, our
+fourth quarter U.S. results, which are attributable, one, to the rapid rise in crude prices and, two, to
+the downtime that we had in our refineries.
+Now the second question I think you had was with respect to the impact on our DD&A rates as a
+result of reserve additions. And of course that gets into the calculation for determining the DD&A
+rates. So it depends on where the reserve additions occur and where the decrements might occur,
+but it certainly influences the rate. The other item, Bill, that I’d mentioned to you is that as we go
+forward we’ll be providing information in our 10-K that will address changes in our abandonment as
+well, and that will have impact prospectively on our DD&A rates going forward. So I don’t want to go
+into a full accounting lesson on all of that, but your question is a good one, and it will impact future
+years. Thanks very much for your question and your follow-up.
+Operator: Our next question is from Neil McMahon of Sanford Bernstein. Your question, please?
+<Q – Neil McMahon>: Thanks. I’ve got an umbrella question on Nigeria; maybe that’s the best way
+to put it. First of all, just after Shell’s comments about what’s happening on the Delta, obviously
+you’ve got a big position there as well, and you’ve been affected by the outages. They suggested
+that potentially Olokola LNG will be significantly delayed. I just wanted to get an update from
+yourselves and also your Escravos GTL plant, and then how things are going there? Thanks.
+<A – David O’Reilly>: Okay, well, first of all, our total performance in the Delta has not been that
+significantly affected on a current basis. I think my recollection is that the impacts of disturbances
+there in the swamp areas onshore is less than 20,000 barrels a day net to Chevron. And we’ve
+made some significant progress over the last few years in steadily improving our situation there
+from two or three years ago.
+Secondly, I think it’s too early to predict the schedule for Olokola. We have a new administration;
+there’s a new government. There is a restructuring going on in the petroleum sector to separate
+NMPC, a negative commercial entity, and put the regulatory function back in the government with a
+number of distinct compartments – kind of an upstream sector of the government regulatory sector
+and a downstream sector. And then there is a whole new look being given to the gas business.
+So in light of all the changes in the government – I think it’s unrealistic for us – and the policies
+around how this whole area is going to be managed, I think it would be unrealistic. And I haven’t
+heard what Shell had said, but I think anyone associated with something that’s brand new there
+would take the same position – that we’ve got to reassess the timing of this and wait till we
+understand how these policies and regulations are going to impact the business before we would
+move forward. And I think we’re in that zone right now. Hopefully, some clarity will come to this as
+we move through 2008.
+Now having said that, our main focus in 2008 will be bringing the Agbami on-stream. And Agbami,
+the FPSO is now onsite; it’s been hooked up. We’re continuing to complete wells, and we expect
+that some time in the middle of the year or so that Agbami will be coming on-stream. So that’s a
+kind of a long-winded answer to your question, Neil, but it’s probably I think a realistic assessment
+of the situation there.
+
+<Q – Neil McMahon>: Maybe just a follow-up on that. I’m just wondering if your comments are the
+same for the DTL plant. And just also on Agbami, I’m surprised that when yourself and Steve
+mentioned about reserve of placement rate, you didn’t have a bit more to add on Agbami. Have you
+effectively booked all of the Agbami volumes already? Because one presumes it’s going to be on in
+the next few months.
+<A – David O’Reilly>: No, first of all, absolutely not. But let me remind you that we’ve booked an
+initial quality, but the regulations there are very specific. You have to book the most conservative
+end of the range on a project like that, until you actually have demonstrated oil flowing and
+production. And that of course you can’t do until you start it up. And so there will be more bookings
+in Agbami; it’s an enormous resource base. But we’ve only booked the initial quantities there so far.
+Now on EGTL, it’s under construction. It is still progressing, and we’ll give you an update on the
+timing for that in the March meeting. But it’s still actively under construction. Thank you.
+<A – Stephen Crowe>: Thank you, Neil.
+Operator: Our next question is from Eric Wilke of Merrill Lynch. Your question please?
+<Q – Eric Wilke>: Good morning. Thank you for taking my question. My question relates to TCO.
+Well, it’s good to see that you’re making progress on the expansion. You mentioned the second
+phase of the expansion. Can you give us some guidance on the ramp-up profile, perhaps the
+average contribution to second half or the anticipated exit rate for 2008?
+<A – David O’Reilly>: Eric, I’d like to hold that back until March. We are making progress month
+by month there. The SGI plant, the first phase of that is up and running, and it’s been ramping up.
+So we’ll have a much better handle on this as we come out of the winter months. Winter months
+are difficult months from a construction perspective. The temperatures there have been 30-below in
+recent weeks. So if you’ll hang onto that question until March, we’ll have I think a better handle on
+where we think we’ll be on the second phase of expansion there.
+<Q – Eric Wilke>: Okay. Can I ask on the second expansion, though, on the evacuation route,
+have you made progress on CPC expansion?
+<A – David O’Reilly>: Absolutely. Let me just first of all talk – We had restructured the CPC
+arrangements to put the pipeline on a much more financially sound footing. And we’re now in the
+phase of dealing with negotiating the terms for expansion of the pipeline. However, we’re not
+depending on that expansion to move oil out of Tengiz. Many of you will recall that we had a long
+history of being able to move oil from Tengiz before there ever was a CPC pipeline, from 1993 until
+about the year 2000.
+So we have multiple options for movement of Tengiz oil. We have a very skilled and accomplished
+group that are capable of doing that by a number of different routes. And while we obviously desire
+to expand CPC and believe it will be expanded, we are confident in our ability to continue to move
+the crude, even the additional crude from Tengiz ,even without the CPC expansion being in place.
+Thank you.
+<A – Stephen Crowe>: Thank you, Eric. Can we have the next caller or question, please?
+Operator: Our next question is from Mark Gilman of Benchmark. Your question please?
+<Q – Mark Gilman>: Hey, David, Steve, I’m wondering if I could possibly get a little bit better
+handle on the base U.S. cap spending ‘08 versus ‘07. If we take out of each year the major project
+elements, in other words, Tahiti and Blind Faith, what would that comparison look like?
+
+<A – David O’Reilly>: I think it would be rather flat, Mark, and in round numbers. It’s a subtlety that
+isn’t right at my fingertips right now, but I think it would be rather flat. And it reflects the fact that we
+have a big resource base. We are continuing to see a lot of progress in other areas, which tend to
+skate under the radar screen – for example, San Joaquin Valley where we are continuing to make
+great gains and expanding our production there, or at least moderating the decline; the
+Midcontinent area where we are beginning. Of course we’ve got plans to grow in the Piceance and
+expect to have production starting there around end of the year. So I think as to the specific
+numbers, let me call on Steve to kind of give you a little bit of a highlight.
+<A – Stephen Crowe>: Well, Mark, I think Dave’s response is right on, but let me give you kind of
+directionally on some of the big projects. If I take a look at, say, 2007 and compare it to 2008, the
+spending for Blind Faith will actually be lower in ‘08 than it was in ‘07. A little bit more money will be
+spent for say the Great White/Silvertip/Tobago area. In the case of Tahiti, our spending in ‘08 will
+be somewhat less than it was in ‘07. But as Dave pointed out in the Piceance area, we see
+spending ramping up there in ‘08 versus ‘07. And while I haven’t racked up all the pieces, I think the
+underlying comment that Dave made was right. If you pulled out the big projects that are sort of
+identifiable in both years, the underlying spending is probably fairly flat.
+<Q – Mark Gilman>: So, Steve, if we allow for inflation, it’s actually down a little bit.
+<A – David O’Reilly>: Well, we’re not seeing as much inflation there as – I mean, the inflation in
+things like deepwater and that type of thing, but land rigs and some of the other things we’re doing,
+on shore, we’re not seeing quite the same rate of inflation. So I don’t think you can draw that
+conclusion that easily. We’ll try to put more depth behind that in our March meeting, Mark, and see
+if we can’t get a better handle on it for you, okay?
+<Q – Mark Gilman>: Okay, one more quasi-related follow-up, if I could. Without regard to the
+timing of the ramp-up on the Tengiz expansion, are you in a position yet to be able to assess
+reservoir response to the injections? I noticed, Dave, when you characterized the project in your
+summary comment that instead of using the range of potential increase in production, you really
+focused on numbers at the high end with your 40,000-a-day comment.
+<A – Dave O’Reilly>: Well, I think, no, the high end of the range, Mark, has to do with our belief in
+the capacity of the plant and the facilities. The reservoir response, I think we’re already
+demonstrating because you remember, we’ve had an experience now with sweet gas injection
+dating over a year before we ever got to injecting sour gas, which we’ve been doing now for
+numbers of months. So we’ve already demonstrated that the reservoir is performing, and we’re
+confident that that part of it is well underway. And with time, and with further expansion of facilities,
+we would probably be able to add further to our reserves. But the 540 is a reflection of our belief
+that that capacity is now demonstrably within reach. I think that’s probably the best way to put it.
+<Q – Mark Gilman>: Okay, Dave, thanks a lot.
+<A – David O’Reilly>: Thank you.
+<A – Stephen Crowe>: Thanks, Mark.
+Operator: Our next question is from Jason Gammel of McCrary. Your question please?
+<Q>: Good morning, gentlemen, I wanted to inquire about what you’re seeing for refined product
+demand right now in the United States and maybe particularly in California in light of the weak
+refining margin conditions that we’ve been seeing recently?
+<A – David O’Reilly>: Jason, let me take that. If I look back on the year, I think we’re seeing yearover-year gasoline demand actually ‘06 to ‘07 is slightly up and distillate demand up by about 1.5%.
+Now having said that, there has been a downward year-over-year trend, quarter by quarter during
+the 2007. In the first quarter we had year-over-year gains. In the second quarter they were
+somewhat less. In the third quarter – and I’m talking about nationwide we’re seeing – we were
+seeing flat. And in the fourth quarter nationwide there was a decline in demand I think in the order
+of 0.5% to 1% with the comparable period the year before.
+
+And the West Coast PADD V is no exception to that. We’re seeing those same trends occur in the
+West as we’re seeing throughout the nation. So, there is no question there’s been a softening
+industry-wide throughout ‘07. And I think as we start ‘08, it’s early days yet, but we’re probably
+experiencing similar softness as we saw in the fourth quarter.
+<Q>: Well, thanks, Dave, and then maybe as a follow-up, would you mind commenting on what
+you’re seeing in the Asian markets that you’re currently marketing in?
+<A – David O’Reilly>: The Asian markets are still doing very well. I was in 14 developing countries
+during the second half of ‘07, and I couldn’t find any one of them that was growing at less than 7%
+GDP. So the markets overall there have been performing well. They may become off a little bit at
+these higher prices, but many of them have subsidized oil and gas prices, and you’re not seeing the
+sort of demand impacts there that we have seen in the rest.
+If I take a macro-view now and bring you right back up to kind of 40,000 feet, if you look over the
+last few years, I think you’ll see that aggregate demand in OECD has been relatively flat. And the
+global growth that we’re seeing has been driven essentially by the developing world. Developing
+Asia is a big, big engine here, and the Middle East itself, where a lot of the oil and gas demand is
+heavily subsidized. And there doesn’t seem to be any real significant slowdown occurring there. So
+that’s it in nutshell. Thank you.
+<A – Stephen Crowe>: Thank you, Jason.
+Operator: Our next question’s from Eric Wilke of Merrill Lynch. Your question please?
+<Q – Eric Wilke>: Thank you and mine is just a quick follow-up on the fourth quarter U.S.
+expiration expense. You mentioned that these were mainly well write-offs, if you could give a bit
+more color on that, that’d be great.
+<A – David O’Reilly>: There were a few in the Gulf of Mexico, and I don’t have all of the specifics
+at hand. But they were generally in the Gulf of Mexico, and I just don’t have all that at my fingertips,
+but...<A – Stephen Crowe>: Eric, you can after the call give Jim a call, and he’ll give you a little color
+commentary on that to the extent that we can talk about them.
+<Q – Eric Wilke>: Okay, thanks.
+<A – Stephen Crowe>: Thanks very much.
+
+David J. O’Reilly, Chairman and Chief Executive Officer
+Okay, well I think it’s coming up to the top of the hour so I think it’s a good time for us to wrap up. I
+want to thank you all for participating in the call today. And I look forward to seeing many of you at
+our March security analyst meeting in New York. So thank you all again and thank you, Matt, for
+hosting the call.
+
+Operator: Ladies and gentlemen, this concludes today’s Fourth Quarter 2007 Earnings Conference
+Call. You may now disconnect. Good day.

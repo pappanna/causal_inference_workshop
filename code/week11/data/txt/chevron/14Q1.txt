@@ -1,0 +1,1285 @@
+Operator: Good morning. My name is Jonathan [ph] and I will be your conference facilitator today. Welcome to
+Chevron's first quarter 2014 earnings conference call.
+At this time, all participants are in a listen-only mode. After the speakers' remarks, there will be a question-andanswer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference
+call is being recorded.
+I would now like to turn the conference call over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Ms. Pat Yarrington. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Okay. Thank you, Jonathan [ph] .
+Welcome to Chevron's first quarter earnings conference call and webcast. On the call with me today is Jeff
+Gustavson, General Manager for Investor Relations. We'll refer to the slides that are available on Chevron's
+website.
+
+Before we get started, please be reminded that this presentation contains estimates, projections and other
+forward-looking statements. We ask that you review the cautionary statement on slide 2.
+Slide 3 provides an overview of our financial performance. The company's first quarter earnings were $4.5 billion
+or $2.36 per diluted share. Results are consistent with our earlier guidance where we highlighted specific negative
+impacts associated with foreign exchange and selected asset impairments and related charges, which totaled
+approximately $500 million for the quarter or $0.26 per share. Return on capital employed for the trailing 12
+months was 12%. Our debt ratio the end of March was approximately 13%.
+Turning to slide 4, cash generated from operations was $8.4 billion during the first quarter. Cash capital
+expenditures were $8.5 billion. At quarter end, our cash balances totaled $16.2 billion, giving us a net debt
+position of $6.9 billion.
+On slide 5, this week Chevron's Board of Directors declared a $1.07 per share quarterly common dividend payable
+in mid-June. This represents an 8% annualized payout increase. Since 2004, we have grown the dividend by a
+compound annual rate in excess of 10%, which leads the competitor group.
+In the first quarter, we repurchased $1.25 billion of our shares. In the second quarter, we expect to repurchase the
+same amount. We are committed to competitive, consistent and growing shareholder distributions. This
+demonstrates the importance we place on balancing long-term investor return objectives achieved through
+reinvestment in the business, with near-term return objectives achieved through distributions. It also reflects the
+strength of our balance sheet, our strong portfolio, and our confidence in the cash generation potential of our
+growth projects.
+Turning to the next slide, we've incorporated two new slides into the presentation this quarter, which provide
+year-on-year comparisons consistent with our earnings press release. The first, shown on slide 6, compares
+current quarter earnings with the same period last year.
+First quarter 2014 earnings were $4.5 billion, approximately $1.7 billion lower than first quarter 2013 results.
+Adverse foreign exchange movements accounted for $325 million, or 20% of the overall decline. You'll recall that
+foreign exchange movements for us are largely book translation effects with very little cash flow impacts.
+Upstream earnings were down $1.6 billion. In addition to unfavorable foreign exchange impacts of about $225
+million, the deterioration reflected lower crude oil production and liquids realizations, and higher tax effects,
+DD&A and exploration expenses. Downstream results were essentially flat. And the other segment reflected the
+impairment of a mining asset, which resulted in an approximate $265 million absolute impact during the quarter
+and was offset, to a large degree, by lower corporate expenses.
+Turning to slide 7, I'll now compare results for the first quarter 2014 with the fourth quarter of 2013. First quarter
+earnings were $418 million lower than fourth quarter results. Upstream earnings were down $545 million, with
+adverse foreign exchange movements accounting for two-thirds of this decline. The timing of lifting was the
+second significant contributor to upstream's quarter-on-quarter deterioration.
+Downstream results increased by $320 million, with nearly equal improvements noted in the U.S. and the
+international segments. The current quarter had favorable impacts from lower operating expenses, stronger
+chemical results and positive foreign exchange movements, all of which more than offset the adverse volume
+effects of a heavier turnaround schedule. The variance in the other bar largely reflects the impairment of a mining
+asset partially offset by lower corporate expenses.
+
+Jeff will now take us through the comparisons by segment. Jeff?
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Pat.
+Turning to slide 8, our U.S. upstream earnings for the first quarter were $109 million higher than fourth quarter's
+results. Higher realizations increased earnings by $130 million mainly due to the rise in U.S. natural gas prices.
+Overall liquids realizations also rose, in large part reflecting crude pricing strength on the West Coast. Lower
+production volumes primarily in the Gulf of Mexico reduced earnings by $50 million. The other bar reflects a
+number of unrelated items, including the absence of year-end LIFO losses and lower exploration expenses,
+partially offset by higher DD&A.
+Turning to slide 9, international upstream earnings were $654 million lower than last quarter's results.
+Realizations decreased earnings by $50 million consistent with the decline in Brent prices between quarters. The
+timing of liftings across multiple countries decreased earnings by $235 million. Year-to-date, we are
+approximately 4% underlifted, which, as you know, should reverse in the coming quarters.
+Lower exploration expenses increased earnings by $190 million, mainly driven by fewer exploration well writeoffs and overall lower geological and geophysical expenses across multiple locations. An unfavorable swing in
+foreign currency effects decreased earnings by $355 million. The first quarter had a loss of about $55 million,
+compared to a gain of $300 million in the fourth quarter of last year.
+The tax and other bar reflects unfavorable tax effects, many of which were non-income related.
+This quarter's results include several non-operational items, namely impairments, which negatively impacted
+upstream segment earnings by about $150 million. Adjusting for these effects, our unit earnings for the quarter
+would have been approximately $20 per barrel. The reconciliation of non-U.S. GAAP earnings can be found in the
+appendix of this slide presentation. The upstream segment was also negatively impacted by FX effects and the
+timing of liftings, both of which are normally transitory in nature.
+Slide 10 summarizes the change in Chevron's worldwide net oil equivalent production between the first quarter
+2014 and the fourth quarter 2013. Production increased by 12,000 barrels per day between quarters. Major capital
+projects contributed 21,000 barrels per day, related to higher volumes at Angola LNG and the ramp up associated
+with the Papa Terra field offshore Brazil. Shale and tight resources growth contributed 12,000 barrels per day,
+driven by production increases from the Midland and Delaware basins in the Permian as well as continued
+production ramp-up from the Vaca Muerta Shale in Argentina. The base business and other bar includes the
+impact of normal field declines and weather-related disruptions, primarily due to extremely low temperatures in
+Kazakhstan, partially offset by lower production downtime related to several assets.
+Slide 11 is the second of two new slides incorporated into the presentation this quarter and compares the change
+in Chevron's worldwide net oil equivalent production between the first quarter 2014 and the first quarter last year.
+Production was 57,000 barrels per day lower than the same period a year ago. Growing volumes from our shale
+and tight resources in the Permian and the Marcellus regions in the U.S. and the Vaca Muerta shale in Argentina
+increased first quarter production by 37,000 barrels per day. Major capital projects contributed 23,000 barrels
+per day, driven primarily by production growth from Angola LNG and Papa Terra in Brazil. Production was
+impacted by external constraints related to the very cold temperatures in Kazakhstan as well as lower demand in
+Thailand due to a lightning strike, which damaged a customer's gas processing plant in the third quarter of 2013.
+The base business and other bar includes normal field declines along with other unrelated impacts. Our base
+decline rate averaged less than 3% between quarters.
+Turning to slide 12. U.S. downstream results increased $157 million between quarters. Planned turnarounds at
+our Richmond, California and Pascagoula, Mississippi refineries lowered volumes and decreased earnings by $85
+million compared to last quarter. More than offsetting these volume effects were benefits from lower OpEx worth,
+$95 million, and stronger chemicals results, worth $80 million. Stronger U.S. chemicals results reflected higher
+margins for benzene, olefins and polyolefins from our Chevron-Phillips chemical joint venture. The other bar
+reflects a number of unrelated items, primarily higher gains on midstream asset sales partially offset by modestly
+lower realized margins particularly on the West Coast, reflecting weak seasonal demand.
+Moving to slide 13. International downstream earnings increased $163 million between quarters. Reduced
+volumes from turnarounds at our Thailand and South Africa refineries decreased earnings by $75 million during
+the quarter. Stronger Asia R&M margins improved earnings by $70 million. Increased demands drove refining
+crack spreads higher particularly for low gas and fuel oil. In addition, favorable price lag effects improved
+marketing margins. Lower operating expenses increased earnings by $85 million, about half of which is related to
+fuel costs.
+Reduced foreign exchange losses contributed about $70 million to earnings. The first quarter had a loss of $28
+million compared to a loss of $96 million in the fourth quarter. The other bar includes a number of unrelated
+items including higher chemicals results partially offset by the absence of positive year end LIFO inventory effects
+recorded in the fourth quarter.
+With that, I'd now like to turn it back to Pat.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Okay, Jeff, thanks.
+Turning to slide 14, we hosted our security analyst meeting in early March where we provided a comprehensive
+update on the company's performance, projects and future growth prospects. At that time, full information was
+not available for some of the competitor comparisons. It is available now, and the segment return on capital
+employed updates are shown here.
+Our upstream return on capital employed for 2013 was just over 17%. We have led the direct peer group for three
+years. In addition, our returns in 2013 were nearly twice the average returns of the larger E&P group, and 3%
+higher than the very best company in that group. This speaks to the strength of our portfolio and is especially
+impressive considering our current levels of reinvestment, which we expect will generate peer leading volume
+growth going forward. Our downstream return on capital employed trended lower in 2013 consistent with the rest
+of the industry. We delivered a 10% return and held a number two rank in the peer group, our same position for
+the last four years.
+Turning to slide 15, an updated information on 2013 upstream cash margins. During 2013, with the $38 per barrel
+cash margin we were the best in the peer group by over $10 per barrel. We continued to post the highest
+realizations in the peer group. Our oil weighted portfolio is providing us with a lasting relative advantage. We're
+also competitive on operating costs and have made sound investment decisions, both of which support our strong
+cash margin positions.
+
+Over the past four years, the movement in our cash margin relative to the competition has been remarkable as
+shown on the chart on the left. While we've gained $15 per barrel in cash margins, our peers have gained only $8
+on average. Importantly, we expect to maintain or even increase our cash margins going forward.
+At our Analyst Meeting we used a Brent price of $110 per barrel as the basis for our forward cash flow and
+production projections. We have received a number of questions around the selection of the $110 per barrel price
+and I want to be clear that this is not an internal price forecast but is simply the actual average Brent price over
+the 2011 to 2013 time period. Using prior year's actual pricing is the same methodology we have applied for
+several years now in our analyst presentations.
+At this historical three-year average Brent price of $110 per barrel our cash margin is expected to increase to over
+$40 per barrel later this decade. This is a critical part of our value proposition as the combination of strong
+volume growth and an accretive cash margin is expected to drive significant growth in our cash flow from
+operations over the next several years.
+Turning to slide 16, I'd like to provide a brief progress update on some of our major capital projects and other
+growth opportunities. These are laid out across three growth themes, deepwater, primarily in the U.S. Gulf of
+Mexico; LNG, in particular our two large Australian projects; and shale and tight resource areas, most notably the
+Permian Basin in the U.S. and the Vaca Muerta shale in Argentina.
+Starting with the deepwater, as noted last month, the Jack/St. Malo platform was moored in its final location
+earlier this year. We continued installation and commissioning activities including final testing of flow lines and
+export lines. The project is on budget and is on track for late start-up in the fourth quarter of this year.
+For Tubular Bells, which is operated by Hess, hookup and commissioning is nearly 40% complete and start-up is
+expected before year-end. We also made significant progress at Big Foot during March. The oil export pipeline has
+been installed and we are preparing to lift the drilling module to the topsides later this month. We expect start-up
+to occur mid-2015.
+Moving on to our LNG projects, we continued to make excellent progress at Gorgon, which is now through April,
+80% complete. The final two gas turbine generators have been installed and additional progress has been made on
+the LNG tank, jetty and other related infrastructure on the island. All major 2014-milestones are on track and we
+expect plant start-ups and first gas in mid-2015.
+For Wheatstone, we are now at 33% complete. Progress continues to be made at the plant site, on the Wheatstone
+platform and with the offshore development drilling campaign. Wheatstone remains on track to start-up in late
+2016.
+Gorgon and Wheatstone are critical contributors to our future growth plans and we are pleased with the steady
+progress being made on both of these projects. As in prior quarters, we have posted updated photos of both
+projects on our investor website. I encourage you to take a look.
+We also continued to make progress on our shale and tight resource developments, which nicely complement our
+large major capital projects. We have an active drilling and development program in the Permian Basin and we
+have drilled over 120 wells so far this year. We continue to focus on capital and execution efficiency as well as the
+identification of sweet spots throughout our extensive acreage position in both the Midland and Delaware sub
+basins. We are also making steady progress in the Vaca Muerta shale in Argentina, progressing this year's
+development program. And we recently signed additional agreements for incremental exploration acreage in the
+play.
+On slide 17, I'd also like to touch on additional progress made elsewhere. We reached final investment decisions
+[FID] and received approval from the U.K. government to proceed with the development of the Alder Field in the
+Central North Sea. We achieved first production in the Chirag Oil Project in Azerbaijan and acquired new
+exploration acreage in Myanmar.
+In the downstream we achieved mechanical completion of our new base oil facility in our Pascagoula, Mississippi
+refinery. Once fully ramped up this increases our capacity in premium base oils by over 70% making Chevron the
+largest premium base oil producer in the world.
+In addition, Chevron Phillips Chemical's 1-hexene project as well as Oronite's Singapore expansion project
+recently achieved mechanical completion. Lastly, CPChem started construction on its new Gulf Coast
+petrochemicals project, which capitalizes on advanced feedstocks sourced from shale gas in North America. This
+project is expected to start up in 2017.
+Now that concludes our prepared remarks. I appreciate you listening in this morning and your interest in the
+company. We're now ready to take some questions. Please keep in mind that we do have a full queue, so try to
+limit yourself to one question and to one follow up if necessary. We'll do our best to get all of your questions
+answered.
+Jonathan [ph] , I'd ask that you open up the lines for questions.
+......................................................................................................................................................................................................................................................
+
+QUESTION AND ANSWER SECTION
+Operator: [Operator Instructions] Our first question comes from the line of Evan Calio from Morgan Stanley.
+Your question, please.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Hey. Good morning.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Hi, Evan.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Hi. Pat, thanks for the comments on the impairment as it clearly affects a clean comparison of your quarterly
+upstream profitability. Maybe I missed it. I know your interim update identified $400 million to $500 million of
+upstream impairments. In your reconciliation I see $150 million and I thought I heard you mention $265 million.
+Can you just talk me through those numbers once again please?
+......................................................................................................................................................................................................................................................
+A
+
+Sure. The interim update did talk about a total of $400 million to $500 million in additional negative charges and
+that included foreign exchange and impairments but we did reference strongly in that total, the mining
+component. That mining component is $265 million.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Okay.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+And then in the appendix slide that you'll see, there's also $150 million worth of upstream related impairments in
+the international segment.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Oh, I see. I got you, in the total. Thanks. And I guess my second question, just on net debt increased was it $3.2
+billion in the quarter, small working capital increase. I mean I know you intend to bridge to 2015 and beyond
+when productive capital begins to drop and cash flow from new projects commences. Yet, where do you see the
+debt limit? Is it that AA level at the mid-20s? And then what type of commodity price cushion do you forecast in
+crossing that bridge and maintaining current shareholder distributions? Thanks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. Evan, I think you referenced there several questions there and you had a couple of really important words in
+there. One you talked about bridging. That is an important concept for us. While our free cash flow is essentially
+neutral in this particular quarter and you're right, so net debt did increase and that's related to distributions to
+shareholders, we're very comfortable with that pattern. It's a pattern that we've had for the last few quarters. It's a
+pattern that we could see continuing on here in 2014 and then when we get into 2015 and begin to see these
+volumes pick up and the cash flows pick up, then we get into a different state.
+We do want to maintain a AA credit rating. We have a lot of room between where our debt level is today at 13%
+and what would be necessary to even call that into jeopardy. And by a lot I mean several billion dollars' worth of
+additional borrowing capacity. We do test our own plan against a low price environment. And I can tell you that
+against the low price environment, even continuing on with the capital program that we have, we are very
+comfortable with the distributions that we're making, even in a low price environment and maintaining the AA.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Can you tell us or share what low price means?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+No. I don't want to go that far. I don't want to go that far. So we do look at the overall capital position and financial
+position of the firm. We test it against oil prices. And we feel comfortable, Evan, with where we are. The other
+thing I would mention is that we do have, you'll recall from the March presentations, we are anticipating asset sale
+proceeds of $10 billion over the next three years.
+......................................................................................................................................................................................................................................................
+
+Evan Calio
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+That's great. Right. I appreciate it. Thanks for taking my questions.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Ed Westlake from Credit Suisse. Your question
+please.
+......................................................................................................................................................................................................................................................
+
+Ed G. Westlake
+Analyst, Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Good morning. And thanks for the extra disclosures in the presentation. Just a question on cash flow. I think after
+working capital you said $8 billion, it's been running higher than that. Volumes flattish in the macro environment,
+and you shouted out underlifts and some extra tax. But were there any other things that may have contributed to a
+slightly lower cash flow this quarter?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Nothing of any substantial nature. It was not, I mean with the underlifting circumstance, it was not a particularly
+strong U.S. downstream quarter. So I think there are some operational factors that really lead to the $8 billion of
+cash generation.
+......................................................................................................................................................................................................................................................
+
+Ed G. Westlake
+Analyst, Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Good.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+$8.4 million.
+......................................................................................................................................................................................................................................................
+
+Ed G. Westlake
+Analyst, Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Good. Thanks very much. And then Gorgon, you've said 80% complete. You've obviously just had the analyst day
+and said mid-2015. Other people, perhaps even partners, are saying perhaps more later in the year, sort of 2016. I
+don't want to get into a debate, he said, she said, but what's the critical path that you think in terms of getting
+Gorgon up mid-2015? What are the risks that you're now worried about as you get further into the final stages
+here?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+I think we have 20 of the 21 critical process modules for Train 1 and the infrastructure, the common facilities
+infrastructure, on the island. The remaining train is due shortly, will arrive shortly. So it really becomes a process
+of the hookup and commissioning. And I think that is, you know, we've just come through kind of a weather
+period. So we're moving into good weather. And so I think weather continues to be a risk. And I think labor
+productivity continues to be a risk. But both of those, I mean those are aspects of this project that we have been
+managing now for four and a half, five years. And so those are clearly on everybody's mind, Ed, in terms of
+managing through this. And I want to reiterate that the project's on track. We're aiming for and targeting that
+mid-2015 startup.
+......................................................................................................................................................................................................................................................
+
+Ed G. Westlake
+Analyst, Credit Suisse Securities (USA) LLC (Broker)
+
+Q
+
+Thanks very much.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Paul Sankey from Wolfe Research. Your question
+please.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+Hi. Good morning, Jeff and Pat.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Hey.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+If I could kind of a big one and a small one. The big one is you have an interesting number, Pat, which is
+unproductive capital. Could you update us on that number and talk a little bit about how you calculate the number
+so that we can perhaps use it to compare with other companies? And then the follow-up is on Vaca Muerta. I'll ask
+you that in due course. Thanks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. Well, basically we just look at – it really is just assets under construction. I mean, definitionally it's assets in
+our work in progress account as a percentage of our total capital employed. And the information that we provided
+back in March suggested that we were at a pretty high level predominantly because of the LNG projects that we
+have underway as well as the couple of Gulf of Mexico deepwater projects. And we indicated that we saw that
+stepping down significantly over the next three-year period of time. And I also said verbally, that we saw a pretty
+important stair step going from 2013 to 2014 then again to 2015 and 2016. We didn't give actual numbers. I don't
+really want to do that, but that pattern that was on our slide back in March is still one that we hold to. So as we see
+these projects come online, they move out of that WIP account, that work in progress account, into a producing
+asset account.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+My recollection was that there was an actual number of unproductive capital. I guess you could update us on
+capital employed, or at least the last available number.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Well, year-end capital employed was about $171 billion.
+
+Q
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Okay.
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+And – right. So the information that we gave on the slide was a three-year average there.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+Okay, and what was the unproductive number?
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+So, Paul, the three-year average, 2011 to 2013 was in the low 40% range.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Right.
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Moving down to the mid 30%.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+30% range.
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+For 2014 to 2016, but that's the average 2014 through 2016. As Pat said, it steps down in each of those years. Our
+historic average here is maybe the high 20s.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+Yeah, that's right. So it was percentages, as I recall now.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+It was percentages. And we used the averages. You should – I think it's fair to say that 2011 was the lowest of the
+three years. 2012 was the middle of the three years, and 2013 was the highest of the three years. But the three-year
+average there was at low-40s. And then what we're saying is, 2014, 2015 and 2016 will reverse that pattern.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Yeah, understood. Okay. That's helpful on that calculation. And then Vaca Muerta, can you do a little bit more to
+strip-out Argentina? You've kind of bundled it with Permian.
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Okay.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+And the extent to which that's acquisition growth as opposed to organic growth? Thank you.
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Yeah, well, so I think that in terms of the Vaca Muerta play itself, we're continuing to make progress there. Our
+plan is to drill about 140 wells this year. We've got about 17, 18 or 19 rigs drilling at this particular point in time,
+and production there on a gross basis is about 17,000 barrels a day. We're encouraged by the well results, both on
+costs and productivity. But there's still – it's early days there. There's still a long way to go, but we're encouraged
+so far.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Okay. I think I'll take it offline on the breakout in terms of volumes year-over-year. It's just, I was saying that on
+the variance you've bundled Vaca with Permian.
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Oh, I see. I misunderstood the question.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+No, no. Thanks for the answer, absolutely. That was just the follow up, really.
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+So year-over-year, Paul, we hadn't booked production in the first quarter of last year. We just, we started booking
+production in the fourth quarter, so there is a contribution fourth quarter to first quarter. But over quarters, it is
+acquisition-related. But if you want to talk more specifically about it, just talk to me offline.
+......................................................................................................................................................................................................................................................
+
+Paul I. Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+Sure. Thanks, Jeff. Okay. Thank you.
+......................................................................................................................................................................................................................................................
+Operator: Thank you. Our next question comes from the line of Doug Leggate from Bank of America Merrill
+Lynch. Your question please.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, Bank of America Merrill Lynch
+
+Q
+
+Thanks. Good morning, Jeff and Pat. I've got also the one big and one small one if that's okay. On the impairments
+part, is that the reason for the high DD&A number, and if so, can you give us an idea what the run rate should be?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+It certainly is a contributor to the high DD&A rates. Absolutely, that's a factor. And in terms of general DD&A, I
+think that it's fair to say that overall corporate DD&A is going to go forward, move up. Our expectation would be
+that it would move up in 2014 relative to 2013. And we see upstream DD&A per barrel rising for the next couple of
+years, but then flattening out over time. The pattern on both the absolute and the per barrel is something that you
+would absolutely expect because of recent investments and our future investments. It obviously is also impacted
+by reserve add timing and the mix of our projects, et cetera.
+Our PPC, our pre-productive capital, as we talked about, is going to come down. I think the thing you've got to
+keep in mind here too is, that for this investment that is evidencing itself and will evidence itself in our DD&A
+rate. We are giving the investment audience the largest growth rate of the peer group, a 20% growth rate in
+volumes between now and 2017. So significant investment will generate a significant volume growth.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, Bank of America Merrill Lynch
+
+Q
+
+All right. Thanks, Pat. I'll take the specifics on DD&A offline with Jeff if that's okay. But I – my follow-up is really
+your last point because, I think the growth in the cash margins are actually fairly well understood. What –
+certainly we've observed over the years is that, that really gets paid by the market when it's accompanied by strong
+debt-adjusted growth if you like, so the balance sheet's not expanding at the same time. So I'm just kind of
+curious, when you look at your – you say you're delivering the best 20% growth. How do you think about the
+tradeoff that's a $10 billion annual run rate on the balance sheet? I'll leave it there. Thanks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+So – I mean, I guess I think that if you've got the project queue, a strong project queue and you've got a balance
+sheet that allows you to invest for that, and we do have a balance sheet – in fact you could really argue that for
+years we were underlevered relative to what might be optimal. So if you've got the strong project queue and if
+you've got the balance sheet to support it and the projects are value-accreting for the organization, for the firm,
+then I think that's exactly the kind of investment profile you ought to be undertaking.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, Bank of America Merrill Lynch
+
+Q
+
+All right. I appreciate your answers. Thanks, Pat.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Thanks.
+......................................................................................................................................................................................................................................................
+Operator: Thank you. Our next question comes from the line of Paul Cheng from Barclays. Your question, please.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Hey, guys. Good morning.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Hey, Paul.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Pat, don't know what the – if you want to answer that, I think a lot of people is asking that for CPC, your joint
+venture, strategically is there any particular reason you need to own it – that so that you can have synergy with
+your other operations? If not, if you look at it as a financial investment, does it make sense for you to own a
+minority interest and put it up as a publicly-traded entity together with your partner Phillips 66 and put it into the
+market so that you can recognize a much higher value, given where you've now been trading at a higher multiple
+than, say, both your partner and yourself?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Yeah, so I understand the question there. And I'll just start back with, when we put the two companies together we
+had two, I guess I would say, sort of middling-performing chemical companies. We put them together and it's
+been a wonderful marriage. The partners are very much aligned on how to run this business, where do you extract
+value from this business. And so it's a joint venture that has worked very well and has been very successful so
+we're very pleased, so there's no catalyst that's out there necessarily to say that we need to be doing something
+different.
+It is a part of the portfolio that has growth opportunities available to it. It's – and we appreciate that with this
+change in the U.S. gas production and advantaged feed stock opportunities here. I think CPChem calls on the
+technical expertise of both of its parent companies, and we're able to and happy to assist them in that capacity. We
+think it fits nicely in our portfolio. It has – the chemical business is highly, highly cyclical, more so than our
+portfolio. And so it's, we're able to withstand the adjustments that are there, that we think that's an advantage as
+well.
+So we don't really see that there's huge – there's a huge catalyst for us to do something different. And it's not
+always clear that the P/E multiples in these petrochemical commodity companies are always trading at multiples
+better than ours.
+So we like the joint venture, we think it's well-run, we're happy to assist in its growth projects and providing
+expertise and technical capability where we can. We're very satisfied with it, and I dare say that our joint venture
+partner would be feeling much the same.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Okay. Very good. Second question. Can you give us a quick update whether Angola LNG right now is running at
+50% capacity? And also in the Permian with the 25 rigs, do you have a number that – how many of them is
+currently running in the unconventional?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. Let me start...
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+And whether they are in pad drilling already? Thank you.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. Let me start with Angola and then we might need to – you might need to help me again on the second
+question.
+So on Angola, we did have recently a technical issue pop up. We had a piping failure, which did result in an
+unplanned interruption to production. There was no fire. There were no injuries. It was a pretty localized damage.
+It was associated with the flare system. We are doing a root cause investigation. And in fact that root cause
+analysis should be completed within a few days here is my understanding.
+So the plant is currently shut down and we'll need to take look at that root cause analysis to understand what the
+go forward operating plan looks like. That failure occurred sort of mid-April, early April and it therefore was not
+an impact in the first quarter results.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Permian, the 25 rigs, how many of them is in unconventional drilling and of which, how many of them is in the
+pad drilling already?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. So all of the 25 rigs in the Permian right now are in the unconventional. We have only one rig drilling in the
+conventional. And I think you're asking about pad drilling?
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+That's correct.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+I don't have information on that specific at this point, Paul.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Barclays Capital, Inc.
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Iain Reid from Bank of Montreal. Your question,
+please?
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+Analyst, BMO Capital Markets Ltd.
+
+Q
+
+Yeah, hi, guys. Thanks very much. Pat, sorry about this but can I get back to the impairments and assets
+divestments you put in the reconciliation at the back? I didn't understand some of the stuff you were talking about
+earlier. You've got $150 million of E&P impairments it looks like in the first quarter and also $100 million gain on
+dispositions then you've also got this mining write down as well. Can you just put those together for me again?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Sure. So let's start with the biggest element, which is the mining element. We have a molybdenum mine in New
+Mexico and the impairment charges that we talked about there and other related charges that I talked to at the
+very beginning, the $265 million relates to that, that asset from a segmented reporting basis is in our other
+segment.
+In upstream, we noted $150 million of impairments. It's in the international sector for us. So these are assets
+where we feel there is better opportunity in other portfolios, basically.
+And then the third element that was noted there was a asset sale gain. This was in our midstream, "midstream
+sector". It's really pipeline related and that showed up in the downstream external segment.
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+Analyst, BMO Capital Markets Ltd.
+
+Q
+
+Okay. Thanks very much. And the second thing was, is it possible to update us on when we're likely to see the
+Tengiz future growth FID?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Our target is for this year, our target is to have that towards the end of the year. I don't really have any additional
+information at this point. We were successful in getting the MOU assigned back in the latter part of last year,
+which really is the stage setting document to get all the partners aligned on the go-forward process. And so we're
+in the process now of going through and working the cost estimates, et cetera, et cetera. So all I can say is towards
+the end of this year.
+......................................................................................................................................................................................................................................................
+
+Iain S. Reid
+Analyst, BMO Capital Markets Ltd.
+
+Q
+
+And we should expect the kind of overall CapEx for this – gross CapEx for this project along the lines of some of
+your major things you're doing in Australia? Is that correct or is that kind of ballpark right sort of number?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+I'm sorry. So TCO is Kazakhstan, right? I guess one last thing there on TCO, the FID is not kind of critical path.
+What was the question on Australia? I didn't quite understand.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Iain S. Reid
+Analyst, BMO Capital Markets Ltd.
+
+Sorry. I just want to get an overall ballpark idea of what the overall cost estimate of the future growth project is
+going to be. Is it in the same ballpark as what you're doing in Australia?
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+I see, Iain. We don't have an updated – we don't have a cost estimate. We won't have a cost estimate until we go to
+FID. So that will be later and attached to the FID timing.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Iain S. Reid
+Analyst, BMO Capital Markets Ltd.
+
+Thanks, Pat.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Faisel Khan from Citigroup. Your question,
+please?
+......................................................................................................................................................................................................................................................
+
+Q
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+Thanks. Good morning. First question on Jack/St. Malo, you said it was moored in location. I just want to
+understand a little bit, how much sort of wiggle room do you guys have from now until the start up to get that
+project going? Meaning if there is an active hurricane season, have you built in that sort of weather into the startup at the end of the year for that project?
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Well, it's my understanding that when we're putting these facilities out in the Gulf of Mexico, we do as much
+weatherproofing as we possibly can. Obviously, when you're investing at the size of these facilities, that's an
+important consideration. So clearly, having it moored is an important step. And so our expectation is that we
+would be able to handle any weather complications that might arise.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+Okay. Fair enough.
+......................................................................................................................................................................................................................................................
+
+A
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+I'd just add, Faisel, if there are hurricanes, you have to demobilize the folks that are working on it. That could slow
+things down a little bit. But we don't – it's hard to estimate what's going to happen there.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+I guess I'm trying to understand if you guys have sort of incorporated that into your guidance of the start-up.
+A
+
+In a general sense, from a planning standpoint we always do factor in Gulf of Mexico weather activities to a
+degree, right? But each year is a different degree, if you know what I mean.
+......................................................................................................................................................................................................................................................
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+Q
+
+Sure.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+So there's obviously a base load that we include in our plans, yes.
+......................................................................................................................................................................................................................................................
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+Q
+
+Okay. That's fair. I understand. And then just on the underlift you guys talked about the sequential quarter-overquarter change of $235 million. Is that also fair to say that that's the absolute number, too?
+......................................................................................................................................................................................................................................................
+
+Jeff Gustavson
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+I'll give you the absolute for the quarter is about $100 million, about half of that. So the rest of that is swing
+between the two quarters, Faisel.
+......................................................................................................................................................................................................................................................
+
+Faisel H. Khan
+Analyst, Citigroup Global Markets Inc. (Broker)
+
+Q
+
+All right, Jeff. Thanks. I appreciate the detail.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Pavel Molchanov from Raymond James your
+question, please.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Analyst, Raymond James & Associates, Inc.
+
+Q
+
+Thanks for taking the question. You're obviously talking a lot more proactively about the Permian. Presumably
+you'd like to get more value for that asset. Have you considered any kind of financial engineering solution that
+might unlock that value more so than simply as one piece of your U.S. portfolio?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Well, we think we actually, Pavel, are sitting kind of in the catbird seat in terms of the acreage position that we've
+got, the long standing acreage position we've got, the royalty advantage that we have there.
+We have done joint ventures of a kind with, for example, Cimarex, where we have partnered with similarly
+situated partners. And those kinds of things you could see us continuing to do on a go-forward basis if you get
+commonality of infrastructure and location and you can get efficiencies of drilling where your fracking can really
+go from our property to their property. So we will continue to look for those opportunities for synergies.
+
+
+We've got a very active program scheduled for this year, over 500 wells and 25 rigs. We've done 120 drilling so far.
+So the activity level is at or perhaps even a little bit better than planned at this point. So we'll continue to look for
+opportunities like that but we're proceeding ahead on our own as well.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Analyst, Raymond James & Associates, Inc.
+
+Q
+
+Okay. And just quickly, can I get an update on the exploration program in Liberia? I haven't heard about that in a
+while.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Yeah, we're not in the position to say anything more at this point.
+......................................................................................................................................................................................................................................................
+
+Pavel S. Molchanov
+Analyst, Raymond James & Associates, Inc.
+
+Q
+
+Okay. Fair enough. Thanks.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Guy Baber from Simmons & Company. Your
+question, please.
+......................................................................................................................................................................................................................................................
+
+Guy A. Baber
+Analyst, Simmons & Co. International
+
+Q
+
+Thank you all for taking my question. My first one was on the 2014 production guidance. Understanding it's still
+very early in the year, I just wanted to get a sense of how confident you guys are in the guidance right now? Is this
+considering some of the weather influence that you battled in 1Q, the unplanned downtime at Angola LNG and
+then 2Q and 3Q typically being heavier maintenance quarters? I just wanted to better understand how you guys
+are feeling about that internally and any cushion you might have built into the guidance.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Okay. That's a good question. I guess I would just start by saying the year is young. We've only had three months
+in here. There have been some positives. Jeff mentioned a figure about base business decline being at the 3%, or a
+little bit less than 3% level, so that's very good positive.
+One thing we haven't mentioned that's of a positive nature is at Frade. We now have 10 producing wells on, and
+we continue to make progress to bring on additional wells there.
+We've talked about the Permian ramp-up and the Vaca Muerta ramp-ups that are occurring. So those are all
+working in our favor. Clearly weather has been a negative for us in the first quarter. On an absolute basis we'd
+estimate that, that was worth 20,000 barrels a day or so, absolutely negative in the quarter. I mentioned the
+ALNG operational issues that we have there. So we put those all together, you've got some pluses, you've got some
+minuses. In the back end of the year we've got Tubular Bells and Jack/St. Malo both of which are scheduled to
+come online. So our production ramp-ups are kind of backend loaded, and both of those projects are on track.
+So the best I can say is, and that's – I'll go back and say, we build in weather contingencies in our Gulf of Mexico
+plan in particular, for a base load amount. I'll just go back and say, the year is young. We've got positives and
+negatives out there. We feel that the guidance that we gave, the 2,610, is the best guidance that we have at this
+particular point in time. And as we do every year in the second quarter, we'll update you with how things look at
+that point in time.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Guy A. Baber
+Analyst, Simmons & Co. International
+
+Okay, great. Thanks for that. That was very helpful. Then my follow-up was on one of your three primary growth
+beams, the deepwater. And I'm more focused on your next generation of projects looking beyond the near term
+start-ups that you have lined up. As we start thinking about potential reserve additions, and then longer term
+growth potential. But you all have a number of potential FIDs this year that you have an interest in. I think,
+Stampede and then your Indonesia development at Bonga, and then you're also re-evaluating Rosebank.
+So understanding that every project is unique, I was just hoping you could provide some more commentary on
+just how conducive the overall environment right now is to pushing forward deepwater FIDs, just in light of your
+view of the cost environment and the evolution of project economics, and what you might see as the opportunity
+for cost savings. Just given what generally appears to be a more disciplined approach to screening these projects
+for you all and with some of your peers.
+......................................................................................................................................................................................................................................................
+
+A
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Okay. Well, I think I would say, if I step back and look at deepwater, I think for Chevron's portfolio, you
+mentioned a number of projects, but I think the most strategic basin continues to be the U.S. Gulf of Mexico. And
+we've got a number of wells drilling now and will have additional wells drilling over the next 12 to 18 months, a
+significant number of them. Six wells in the next 12 to 18 months. So that continues to be an area of strategic
+focus. And we think we're competitive there on facility structure as well as drilling costs, completion costs. So
+that's an important area for us.
+If I look at IDD, IDD is a – it's a complex project. It's multiple fields, and right now we're in the position of waiting
+for government approvals.
+And then on Rosebank, we did – with the operator, kind of put that – as the operator, put that into a recycle
+mode. Because the costs that had come through were really – didn't make it compete for capital within our
+portfolio. So that's somewhat in a recycle mode.
+So I think the overall impression that you have about the industry, stepping back and taking a look at the cost runup in some of these – for some of these resource plays relative to the value capture, I think some of that is being
+re-assessed, as you indicate. Rosebank is a good example of that.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Guy A. Baber
+Analyst, Simmons & Co. International
+
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Roger Read from Wells Fargo.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+Good morning.
+
+A
+
+Good morning.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+I guess to come back to the Permian a little bit. If I understood correctly, you're not, or have not to this point,
+drilled any horizontal wells in the Midland Basin? Was that accurate?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+We are looking to spud the first one later on this year.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+Okay. So thinking about how production from the horizontal wells has typically been a little more, let's say, higher
+IP rates and leave it at that. We should think about the shale and tight production accelerating, I don't know, call
+it Q4 or certainly into 2015. Would that be consistent with how you're looking at things?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+So I think it would be fair to say that, if you go forward and you look at quarter after quarter after quarter
+improvement, we would be looking to see improvements kind of quarter after quarter. Our real focus has been on
+getting capital efficiency maximized and getting a strong execution efficiency as well, so it's really been on
+optimizing the value creation. And so we've been spending time to understand where the best areas are and what
+the most efficient rig, pad and overall development plan is.
+Frankly, a lot of the other producers there have been allowing us to de-risk this play by the work that they have
+done. And that's in a sense advantageous to us. And we think we can get over time the same kind of synergies and
+efficiencies that the smaller operators have.
+And one of the slides that we had put out in the Security Analyst Meeting gave a good indication of what we see as
+year-on-year net production increases in the Permian Basin. And it's a pretty significant growth rate. We also
+talked to essentially a doubling of our rig count over the next several years from where it is currently.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+Right. Well, it's I guess we now have a couple quarters here where you're breaking out shale and tight from
+everything else so we can start to get a feel for what that quarter-over-quarter and year-over-year performance is.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Exactly.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+So just want to make sure I was understanding the way it should progress here.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+And where we'll go for quarter on quarter improvement going forward.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+Good. I guess my follow-up question, the Angola LNG obviously going to be offline in terms of volume
+contribution in the second quarter for some significant period of time. But if you think about – and I know
+sometimes you don't want to get too granular but the impact on it from a cash flow standpoint, I mean was this
+operation, given the troubles it's had so far, actually contributing much? Or should we think about it as mostly a
+production impact but not a problem for cash flows as we look in the next couple of quarters?
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Yeah, I think you will see – it will be more noticeable clearly in the production side than the cash flow side clearly.
+And I don't have, as I mentioned, we need to have the root cause analysis done before we have an indication of
+when – what that repair and maintenance – repair activity will look like and how long that will take and then
+when we might get back to producing mode.
+......................................................................................................................................................................................................................................................
+
+Roger D. Read
+Analyst, Wells Fargo Securities LLC
+
+Q
+
+Okay. I'll leave it at that. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. This does conclude the question-and-answer session of today's program. I'd like to hand
+the program back to Pat Yarrington for any further remarks.
+......................................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+All right. Thank you, Jonathan [ph] . I guess we got through everybody's questions so I appreciate your time and
+interest today. I especially want to thank all the analysts who, on behalf of all the participants, for the questions
+that they asked in this morning's session. So, Jonathan [ph] , I'll turn it back to you and thanks, everybody. Have a
+good day.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you, and thank you, ladies and gentlemen. This does conclude Chevron's first quarter 2014
+earnings conference call. You may now disconnect. Good day.

@@ -1,0 +1,1279 @@
+Operator: Good morning. My name is Audra, and I will be your conference facilitator today. Welcome to
+Chevron's Fourth Quarter 2020 Earnings Conference Call. At this time, all participants are in a listen-only mode.
+After the speakers' remarks, there will be a question-and-answer session and instructions will be given at that
+time. [Operator Instructions] As a reminder, this conference call is being recorded.
+I will now turn the conference call over to the General Manager of Investor Relations of Chevron Corporation, Mr.
+Wayne Borduin. Please go ahead, sir.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+Thank you, Audra. Welcome to Chevron's fourth quarter 2020 earnings call and webcast. Our Chairman and
+CEO, Mike Wirth, and CFO, Pierre Breber, are on the call with me. Also listening in today is Roderick Green, the
+incoming General Manager of Investor Relations, who will assume the position effective April 1. Roderick and I
+will be transitioning together over the next couple months.
+It has been my sincere pleasure working with each of you over the last three years. Thank you for your excellent
+questions, transparent feedback and investment in Chevron.
+Before we get started, please be reminded that this presentation contains estimates, projections and other
+forward-looking statements. Please review the cautionary statement on slide 2.
+Now, I'll turn it over to Mike.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+All right. Thanks, Wayne. 2020 was an unprecedented year; a global pandemic resulting in a devastating loss of
+life, a historic collapse in the global economy, and extremely volatile oil markets. We began the year in a strong
+position, and we took swift action to adapt to the new realities as they emerged.
+During last year's first quarter call, we shared our plan to manage through the crisis, grounded in our values and
+keeping our strategic and financial priorities intact. Looking back, I'm pleased to say that we delivered on each of
+these five commitments which I'll cover on the next slides.
+First and foremost, we focused on the safety of our employees and our operations. Despite the difficult personal
+challenges faced by everyone in our workforce and the additional health safeguards at our operating facilities,
+2020 was our second safest year ever in terms of fatalities and our best ever on serious injuries, motor vehicle
+crashes and loss of containment.
+It was also the year with the greatest and most rapid change in market conditions. Our upstream team had to
+quickly and safely demobilize dozens of rigs and reduce other production activities. Our refining personnel had to
+figure out how to make as little jet fuel as possible, even though just weeks before jet was the fastest-growing
+refined product.
+
+Despite all this, our upstream delivered more than 3 million barrels per day for only the second time in the
+company's history, and our refineries maintained world-class availability to deliver the energy required for
+essential workers in a recovering economy.
+I'm so proud of our employees, how they carried out their responsibilities with excellence and helped each other
+and, during this extraordinary year, rose to overcome the unprecedented challenges.
+Turning to capital and cost management. During last year's Investor Day, we told you our capital program was
+flexible. And just weeks after we said that, we proved it. 2020 capital was down 35% from 2019 and organic
+capital excluding incremental C&E from Noble in the fourth quarter was under $13 billion, well below our revised
+guidance of $14 billion.
+We also exceeded our guidance for operating cost savings. Excluding special items, OpEx was down by over $1
+billion this year with decreases due to reduced activity levels and lower transportation, fuel and incentive
+compensation costs. This demonstrates our ongoing cost and capital discipline, something you can count on and
+a key to winning in this industry.
+Moving to the next slide, we entered and exited the 2020 crisis with an industry-leading balance sheet, while also
+completing a major acquisition. Early in 2020, we increased our dividend over 8%. We also bought back shares.
+When the crisis hit and cash from operations decreased, we took action to halt the buyback and protect our
+balance sheet. We completed asset sales, received good value, and finished our three-year high grading program
+in the middle of our guidance range.
+Being prepared with a strong balance sheet, consistent with an ongoing asset sales program and adaptive on
+share repurchases enabled us to increase our annual dividend payout for the 33rd consecutive year. And the
+actions we took to preserve long-term value, which I'll cover on the next slide, should give our shareholders
+confidence that we intend to sustain and grow the dividend in the future.
+Turning to slide 7, while we reduced short-cycle capital that would bring on near-term production, we maintained
+capital for projects that we expect to deliver production and attractive cash flow for years like our expansion
+project in Kazakhstan. And in the Permian Basin and other short-cycle basins, we preserve the capability to build
+investment backup when the conditions are right. In addition, we were the first to announce and complete a major
+acquisition, showing the way with a low-premium equity deal at an opportune time.
+And as a result, our total investment over 2020 and 2021 will likely be in line with our pre-crisis guidance. But we'll
+get there in a much different way with much lower organic capital that would have added more barrels to already
+oversupplied markets offset by an acquisition for low-cost barrels already producing. That also translated to
+reserve replacement, with additions from the Noble acquisition mitigating reserve demotions from reduced capital
+investments and price effects as disclosed in last year's 10-Qs.
+Committed employees, capital and cost discipline, decisive actions that balance the short and long term that was
+our playbook to manage through this crisis. And while we're not out of it yet, we look to the future with optimism.
+We believe we're better positioned than others, confident in our ability to succeed in any environment.
+Turning to slide 8, I'm also proud that we maintained our commitment to ESG, a commitment we've long held and
+one that doesn't ebb and flow with market cycles. We increased actions to advance a lower carbon future, abating
+emissions in our operations, starting up our first renewable natural gas plants, and investing in low-carbon
+technologies like our recent announcement with carbon utilization startup, Blue Planet.
+
+We completed our largest company restructuring in 20 years and integration of Noble employees in a transparent
+and equitable manner. And we maintained positive relationships with our suppliers and supportive relationships
+with communities where we operate.
+Lastly, we continued strong governance, which starts with our exceptional Board of Directors during an
+unprecedented year to meet the interests of all our shareholders.
+With that, I'll turn it over to Pierre.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+Thanks, Mike. We reported a net loss of $700 million in the fourth quarter. Adjusted earnings were about
+breakeven. A reconciliation of non-GAAP measures can be found in the appendix of this presentation.
+Excluding working capital changes, cash flow from operations was almost $4 billion for the quarter. Our Brent oil
+cash breakeven price, excluding working capital, was under $50 for the second quarter in a row. C&E was $3.2
+billion including about $200 million for legacy Noble assets.
+Full year financial results were significantly lower due to weak market conditions as reflected by an adjusted
+ROCE near zero. We remain committed to improving returns on capital and will share more about our plans to do
+so at our Investor Day in March.
+Total shareholder distributions, including first quarter buybacks, were $11.4 billion. And we ended the year with a
+net debt ratio in the low 20s after the assumption of Noble debt and a step-up to market value.
+Turning to slide 10; adjusted fourth quarter earnings were down about $200 million compared to third quarter.
+Adjusted upstream earnings increased primarily due to higher volumes from Noble Energy and higher commodity
+prices. Adjusted downstream earnings decreased due to negative timing effects, including an end of year
+inventory valuation adjustment of more than $100 million, higher operating expenses, primarily due to turnarounds
+and higher RIN credit prices. The other segment decreased primarily due to higher pension charges related to
+lump sum elections.
+Turning to our full year earnings; adjusted earnings decreased by over $12 billion compared to the prior year.
+Adjusted upstream earnings decreased primarily on lower prices. An under-lift and the mix effect of higher US and
+lower international liftings also lowered earnings.
+Adjusted downstream earnings decreased primarily due to lower volumes and margins, unfavorable timing effects
+and higher RIN and other credit prices. The other segment loss increased primarily due to higher pension
+expense.
+Slide 12 shows our production outlook for 2021 assuming a $50 Brent price. We expect production to be up 3%
+higher than last year, excluding the impact of any asset sales that may close in 2021.
+Our projected growth is driven by a full year production from the Noble Energy assets and lower expected
+curtailments, partially offset by higher base declines in part due to lower capital last year, price effects, an
+accounting change in Venezuela, 2020 asset sales, and upcoming contract expirations.
+
+Note that our Rokan concession in Indonesia expires in August of this year. And while our contract in Thailand
+does not expire until March of next year, production is decreasing due to the short time to earn a return on new
+investments.
+Now, looking ahead. In the first quarter, we expect turnarounds and downtime to reduce production by 60,000
+barrels of oil equivalent per day, primarily in Australia. Gorgon Train 1 repairs are nearing completion and we
+expect the facility to be back online in March. After Train 1 is back online, Train 3 will be taken out of service for
+the propane vessel inspections, any repairs and the planned turnaround.
+At Wheatstone, production is modestly below capacity while we repair an inlet separator. We do not expect
+production impacts in the second quarter. The impact from ongoing OPEC+ curtailments is estimated to be
+40,000 barrels of oil equivalent per day primarily in Kazakhstan.
+At TCO, our project workforce reached 20,000 by year-end before we paused due to a virus resurgence. Next
+month, we expect to resume remobilization for the spring campaign and are targeting a project workforce of
+26,000 by the end of the first quarter.
+In Indonesia, we expect cost-recovery barrels to decrease 75,000 barrels per day from last quarter. One-time prefunding for drilling and ARO commitments in the fourth quarter contributed to the working capital build. We expect
+these receivables to reverse by the third quarter. And downstream turnaround activity in the first quarter is
+expected to have an estimated after-tax earnings impact of $100 million to $200 million. Other financial guidance
+items are shown on the slide.
+With that, back to Mike for his closing comments.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+All right. Thanks, Pierre. 2020 was a year like no other. And while there are uncertainties and challenges ahead,
+we are optimistic about the future. We are stronger with Noble, which has geographic diversity and plays to our
+strengths. We're starting the year with an industry-leading balance sheet again.
+We're executing a disciplined investment program that grows enterprise value with greater capital efficiency. We
+remain committed to our number one financial priority, sustaining and growing the dividend, and we're advancing
+a lower carbon future with actions that are good for the environment and good for shareholders.
+We hope that you'll join us on March 9 to discuss these topics and more during our 2021 Chevron Investor Day.
+With that, I'll turn it back to Wayne.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Mike. That concludes our prepared remarks. We're now ready to take your questions. Keep in mind that
+we do have a full queue, so please try to limit yourself to one question and one follow up. We'll do our best to get
+all of your questions answered.
+Audra, please open the lines.
+
+QUESTION AND ANSWER SECTION
+Operator: Thank you. [Operator Instructions] We'll go first to Devin McDermott at Morgan Stanley.
+......................................................................................................................................................................................................................................................
+
+Devin J. McDermott
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Hey. Good morning. Thanks for taking my question. The first one I had here was just on the capital allocation
+strategy as we think about the next few years. And you put the release out back in December cutting the capital
+budget over the next several years to $14 billion to $16 billion and, as part of that, noted that as Tengiz spend in
+Kazakhstan rolls off you would increase spending in the Permian and Gulf of Mexico. And I was wondering if you
+could comment on the role of those US assets in your portfolio in light of the current policy and regulatory
+backdrop, particularly the Gulf of Mexico, how you're thinking about that US concentrated investment strategy in
+light of and current policies.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah, thanks. Thanks, Devin. Look, there's a couple of things here that I think are important to recognize. Number
+one, not only have we transitioned over the last few years into what I would describe as a structurally lower
+ongoing capital program, but, number two, it contains a much greater degree of flexibility. We mentioned we
+pulled spending down 35% really over nine months last year because we could flex that downward.
+And so we have a great degree of flexibility. We've got a high degree of capital efficiency in our portfolio. And
+even at these further reduced levels of spending, as Pierre mentioned, production will be somewhere between flat
+and up 3%. So we've got a capital program that we like, and as the TCO project comes down, we've got room to
+make choices. When we issued the press release, certainly, the Permian and the Gulf of Mexico would've been
+some of the first places to draw that capital back.
+As we look at some of the announcements of this week and developments that seem to be unfolding here in the
+US, it's early days to understand exactly how these will play out. The executive order was sweeping and broad,
+but it also lacked some specificity. And I think, certainly, as you listen to some of the members of the new
+administration comment as they introduced this and answered some questions, I think they're looking to flesh out
+the details here in the coming weeks and months. And we certainly hope to be engaged in those conversations.
+Onshore in the Permian, we're weighted towards Texas more so than New Mexico. We're weighted toward private
+land more so than federal land. So we've got a fair degree of flexibility there, and that remains a highly attractive
+place for us to step capital up as we have the capacity to do so and the market conditions support it. So, I think
+that the Permian equation looks pretty similar to what it did at the time we made those statements.
+Deepwater Gulf of Mexico, I think we just have to see how this unfolds. And certainly, we like the projects that
+we're advancing here, and there's been, I think, general signaling that existing leases are secure. And we would
+presume the permitting that would go with those leases is also likely to proceed, but there are questions about
+this that I think we're just going to have to work our way through. So the risks are probably greater in the Gulf of
+Mexico. That was probably the lower part of the capital step up that we might've envisioned at any rate. So I think
+we'll be able to manage our way through it.
+
+But stay tuned. We'll keep talking to you about this as we go forward. And of course, we got options outside of the
+US as well, and I think that's important to just bear in mind. If conditions in the US become so onerous that it
+really dis-incentivizes investment, we've got other places where we can take those dollars.
+......................................................................................................................................................................................................................................................
+
+Devin J. McDermott
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Got it. That makes a lot of sense. And then my second question is just on TCO and Kazakhstan. I was wondering
+if you could give us just an update on progress there and how things are progressing versus your expectations?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah. So, quickly, I'll reiterate that last year we completed all module fabrication and all the transportation to get
+the modules through the Russian inland waterway systems through the Caspian, unloaded into site. That's a
+really important milestone because those were risks that could have extended things had we not accomplished
+that.
+Progress overall in the project is about 81% at this point. Construction's about 60% complete, and as Pierre said,
+we've re-mobilized 20,000 workers to the project. We've plateaued at that number now because Tengiz is
+experiencing some of the same wintertime uptick in coronavirus cases as you are seeing around the world. And
+so, we're holding at 20,000 right now. We've had to quarantine certain portions of the workforce there for certain
+periods of time. We plan to restart further mobilization in February, and as Pierre said, targeting 26,000 by the
+end of the first quarter.
+We'll need to get some progress under our belt here to really see data on productivity. There's a lot of work that
+hasn't been done over the last going on a year now as this has been impacting us, and so we're working on
+optimizing schedules and work plans and understanding what the full impact of that is. It's hard to quantify that
+until we really are back at work. And certainly, in the wintertime, things tend to slow down. Summertime, they'll
+pick up. And so we need to see our ability to sustain the workforce there to get work done productively and begin
+to chew into this backlog that has built up. And we'll keep you advised as to what that looks like.
+Jay will be with us at the Investor Day in six weeks, and he'll be able to give you more detail at that point in time. I
+don't believe, by that point in time, we will have enough activity that we've seen where we'll be able to give you a
+highly reliable specific update on cost and schedule. But we will be working on that and we will get it to you when
+we've got enough data to give you something that we think is really useful.
+......................................................................................................................................................................................................................................................
+
+Devin J. McDermott
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Great. Thank you so much.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+You bet.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll move next to Phil Gresh at JPMorgan.
+......................................................................................................................................................................................................................................................
+
+Q
+
+Hey. Good morning.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Morning, Phil.
+......................................................................................................................................................................................................................................................
+
+Phil Gresh
+Analyst, JPMorgan Securities LLC
+
+Q
+
+First question, the 2021 production guidance, the high-end growth of 3%, is slightly below where consensus is
+here. And you gave some color there on Gorgon and Wheatstone for the first quarter which was very helpful. So, I
+guess is it fair to assume that the extent of the downtime at Gorgon and Wheatstone that's in your guidance is just
+kind of what's in the first quarter? And just maybe any color on what you're factoring in for the Permian as well for
+2021? Thank you.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah. First thing I'll say, Phil, and I know everybody looks at production, but it's an outcome. And we're running
+the company to deliver financial results and we let the production be what it is. Pierre gave you a guide for first
+quarter on Gorgon and Wheatstone. Wheatstone for the rest of the year should be back up to full capacity until a
+turnaround that begins late third quarter and runs into fourth, which we'd already planned and announced.
+And then of course at Gorgon, as Pierre mentioned, Train 3 will have inspection of these propane exchangers and
+a planned turnaround here in the second quarter of this year. So we will be lighter on Australia production [ph]
+then with (23:20) everything up and running for a full year, but a big part of that is planned turnaround activity and
+then there's an increment related to these repairs.
+In the Permian, there's two pieces to think about. Overall Permian production will be up because we've added
+production from Noble. I think we've previously guided to kind of a 6% to 7% decline on the Chevron legacy
+production. That actually today looks like it will be a little less steep, maybe more like a 5% decline on Chevron
+legacy production in 2021 versus 2020. And that's with flat activity levels running five rigs and one or two
+completion crews over the course of the year.
+And a little bit of this will be dependent upon what NOJV partners do. We ended the year last year with about 1.4
+net rigs in the Permian on the NOJV; 7 gross, our share about 1.4. In January, it's up a little bit to about 2.5 net
+rigs, 10 gross. So there's a little bit of perhaps upside depending upon what non-operated JV partners do. But
+those are the key pieces there on both Australia and the Permian for production.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+A
+
+Yeah. And Phil, I'll just add that Venezuela year-on-year is down, right? We changed our accounting midyear last
+year to where we're no longer booking production and reserves associated with those operations. We do continue
+to have curtailments this year, which is also factored in. Australia year-on-year is not a big variance. It's flat to
+modestly down. Again, we operated a big portion of 2020 with the train down at Gorgon. So that's not a big driver
+of the year-on-year change.
+......................................................................................................................................................................................................................................................
+
+
+Q
+
+Okay, great. That's very helpful. Thank you. My follow up would just be just on capital allocation. The balance
+sheet, obviously, still looks very strong. Pierre, you said your dividend coverage was below $50 Brent, I think, for
+a second straight quarter, and that's despite downstream still being soft. So, with oil here in the 50s, I think some
+people are maybe a little surprised you didn't increase your dividend the other day, recognizing we're still in the
+midst of a pandemic. But just any thoughts you could share around capital allocation if oil does indeed stay here
+in the 50s.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah, well, a couple things maybe in response to that, Phil. Thanks for recognizing we are still in the middle of a
+pandemic. Demand is still off in total. The global economy is functioning at below its capacity, and I think there's
+uncertainty out there. And certainly, oil prices today are supported in part by a unilateral move by Saudi Arabia to
+take 1 million barrels a day off the market. And so, while we see inventories coming down and things trending
+back towards balance, that process is still underway. And so we want to be mindful of the uncertainties in the
+commodity price environment, and there could be some downside risk.
+So, all that said, maybe two other points. One, while for the last three years we announced a dividend increase in
+the first quarter, if you go further back over the last decade, it was never a first quarter increase. It actually was in
+other quarters. And so we don't necessarily have a pattern or a kind of a preference for when the dividend
+increase would occur. It's really based on our assessment of both short-term and long-term conditions,
+affordability, et cetera, and it's a board decision, and the board reviews that every quarter.
+So I hope our words but more our actions over recent years have demonstrated to you and to our shareholders
+that the dividend is our number one priority. We have not changed that. Others have. Others have made moves
+and reshuffled priorities and reset dividends and all the rest. We have not. And we were guided through this by
+those financial priorities, and we're very mindful of what our investors look for, why they hold our stock, and that's
+certainly something that will be part of our discussions as we go forward.
+Last comment to your hypothesis; if we stay in a $55 Brent world for all of this year, we're in a very strong position
+from a cash flow standpoint. Our breakeven is in the 40s, and so we'd be free cash flow positive and that certainly
+is supportive of a dividend increase.
+......................................................................................................................................................................................................................................................
+
+Phil Gresh
+Analyst, JPMorgan Securities LLC
+
+Q
+
+Understood. Thanks a lot.
+......................................................................................................................................................................................................................................................
+
+Operator: Next, we'll move to Jeanine Wai at Barclays.
+......................................................................................................................................................................................................................................................
+
+Jeanine Wai
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Hi. Good morning, everyone. Thanks for taking my questions.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+You bet.
+......................................................................................................................................................................................................................................................
+
+Jeanine Wai
+Analyst, Barclays Capital, Inc.
+
+Q
+
+And I also like to congratulate Wayne, and thanks for putting up with all of us for so many years. Thanks. My first
+question is, again, on shareholder returns. Chevron's prior $19 billion to $22 billion medium-term CapEx range, I
+believe that was based on $60 Brent and it left room for about $5 billion a year of buybacks. So can you talk about
+how your updated 2022 to 2025 CapEx guidance, how – if we should think that that range still also leaves room
+for ratable annual buybacks?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Well, it'd be a function, Jeanine, primarily of commodity price, right? So we've outlined that budget premised on a
+lower price than $60 because we've been through this pandemic and we expect only a gradual recovery in the
+global economy which would support gradual recovery in commodity prices.
+So we've prepared ourselves for a difficult set of market conditions, which is certainly what we saw last year, if –
+and as I just mentioned to Phil, we can hold production flat to grow at these capital levels. And so we're in a
+position to consider dividend increases and share buybacks if we see an economic recovery and commodity price
+environment that supports that.
+The fundamental premise that we outlined at $60 continues to be our premise, which is disciplined capital
+spending, a commitment to the dividend, and a return of surplus capital above and beyond that to shareholders,
+premised upon a strong balance sheet and the other things that we always talk about within our priorities.
+So we'll lay out a little more detail on this in March for you so that you can understand what this would look like
+under different price scenarios and how we might allocate capital or the flexibility we'd have for capital
+distributions under different price scenarios. So stay tuned for more discussion in March.
+......................................................................................................................................................................................................................................................
+
+Jeanine Wai
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Okay. I'll stay tuned for that. My second question is on the energy transition. I guess how does the current
+extremely low cost of capital for energy transition projects, energy transition companies, how does that impact
+your view on the speed of the transition and the potential to create lots of capacity that's potentially uneconomic,
+but nonetheless, it still erodes oil and gas demand? So I guess your views on that and how can Chevron compete
+in that type of environment? Thank you.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah. So, certainly, this is a space that's getting a lot of love from investors right now. And you see it in EV startups, you see it in solar start-ups, you see it in a lot of different technologies. And look. We're supportive of all of
+the above. We want to see advancements in growth in renewables. We fully expect a lower carbon energy system
+in the future.
+I think you put your finger on one thing that needs to be watched is things that are supported by low interest rates,
+lots of investor enthusiasm and government policy may work in the short term. The question is when the tide
+starts flowing in other direction and when a day comes that interest rates are up, maybe investor perceptions shift
+a little bit and maybe government policy shifts a little bit. Have we invested in things that can sustain in that
+environment? And I think that's – we hope that they can, and we want to see the diversification in the energy mix
+to meet growing demand around the world and lower carbon.
+The last thing I'd say is I'm not this necessarily erodes energy demand as fast as some might believe or oil and
+gas demand as fast as some might believe. A lot of it is going into power. That displaces coal. It, in some cases,
+creates capacity that is intermittent and can't be used all the time and actually requires natural gas to create grid
+stability and supply reliability. And so there's not necessarily a one-for-one displacement on all of these
+investments. And that requires thoughtful study of the whole energy system to really understand how it's evolving
+and how this capacity plays against all the other different sources of energy.
+......................................................................................................................................................................................................................................................
+
+Jeanine Wai
+
+Q
+
+Analyst, Barclays Capital, Inc.
+
+Okay. Thank you.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+
+A
+
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Jeanine.
+......................................................................................................................................................................................................................................................
+
+Operator: And our next question comes from Neil Mehta at Goldman Sachs.
+......................................................................................................................................................................................................................................................
+
+Neil Mehta
+Analyst, Goldman Sachs & Co. LLC
+
+Q
+
+Good morning. Thanks for taking some time this morning. And let me congratulate Wayne as well and appreciate
+the time and friendship over the years.
+Let me kick it off here on downstream. When we think about our model, upstream did okay, downstream was a
+clear miss relative to our projections. And it's not surprising just given how tough demand was in the fourth
+quarter. We are seeing cracks move in the right direction with line of sight to OPEC barrels coming back into the
+market. Do you guys envision a downstream ahead? And how do you think about your refining configuration to
+capture that?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+
+A
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+Yeah. So you're right. Downstream conditions have still been tough. Demand is off. It's off differentially across
+different parts of the product barrel, which continues to stress the refining system. And then the amount that it's off
+varies quite a bit regionally, right? So, in China, things are back to normal by and large. Other parts of Asia, pretty
+darn close; Europe/North America, not so much. So it's a gradually healing system, but it's different in different
+parts of the world. And refining markets are regional. And they're interconnected globally, but fundamentally they
+start out regionally.
+So we're looking for improvement over the course of this year, but I wouldn't call it a full recovery. I think it's,
+again, it's a gradual process, and we're certainly heavy on the West Coast and heavy in Asia. And so, in Asia,
+things are, as I said, a little bit better, but on the West Coast they are still recovering. So I think downstream in
+2021 I would expect to be better than it was in 2020, but we're not anticipating pre-pandemic downstream
+earnings and performance this year.
+......................................................................................................................................................................................................................................................
+Pierre R. Breber
+
+A
+
+Vice President & Chief Financial Officer, Chevron Corp.
+
+Hey, Neil, if I could just give a little more on the fourth quarter. I made a reference to this year-end inventory
+adjustment. I'll just explain that. It was more than $100 million. So, during the course of the year, you're costing
+inventory at average cost of the commodities. At year-end, you see if you've built or drove relative to prior year
+layers. And so the good news is we drew.
+We took our inventory levels down, so good management of working capital. But we drew into prior year layers
+that were higher costed. And so that's only something we do at year-end in the fourth quarter. You're not doing it
+during the year because you don't know if you're going to go into prior year layers in the intervening quarter. So,
+you don't want to be always doing this calculation.
+But our practice is at year-end. We revalue that so you have – think of it as inventory that had been valued at $42
+during the course of the year. When we go into prior year layers, we're picking it up at $60 or $70. And there's no
+cash impact, but there is a one-time kind of P&L effect. We don't call it a special item because it happens every
+year. It just happened this year through good inventory management we actually drew down into prior year layers
+which were higher costed.
+......................................................................................................................................................................................................................................................
+
+Neil Mehta
+Analyst, Goldman Sachs & Co. LLC
+
+Q
+
+Thanks, Pierre. That makes a ton of sense. And the follow up is you guys acquired Noble towards the bottom of
+the cycle. Mike, you built a reputation as being a good dealmaker and being willing to walk away when the bid/ask
+goes the wrong way. Just do you still see it as a buyer's market out there? And do you still see attractive
+opportunities, whether it's US E&P or elsewhere in the portfolio?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+
+A
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+Yeah. So it's still a tough market, and you would say that, in general, I would say both companies and asset
+valuations are down from where they've historically been. So there's opportunity in circumstances like that, and
+we've got the capacity to consider doing things. We may have passed the bottom. Hopefully, we have from the
+standpoint of commodity and other cycles here. And we're alert to opportunities.
+It may be that as companies come back in terms of their equity valuation, there are still a lot of people that are
+carrying a fair amount of debt and have indicated the desire to sell assets in order to repair their own balance
+sheets. So we could see a market where there are more asset sellers than there are buyers which could offer
+some opportunities at an asset level. And so, we'll be aware and alert to those things.
+The nice thing is we're not in a position where we have to do anything. We strengthened ourselves significantly
+with a very good deal last year. We've got plenty of inventory to work on for many, many years to come, and
+anything we would do would have to, A, fit strategically into a strong portfolio and, B, would have to compete for
+capital in a strong portfolio. And so we'll continue to hold the bar very high and only consider things that would
+really make a lot of sense.
+......................................................................................................................................................................................................................................................
+
+Neil Mehta
+Analyst, Goldman Sachs & Co. LLC
+
+Q
+
+Makes sense. Thanks, guys.
+......................................................................................................................................................................................................................................................
+A
+
+Thanks, Neil.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll go next to Paul Cheng at Scotiabank.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Scotia Capital (USA), Inc.
+
+Q
+
+Hey, guys. Good morning. First, just want to say thank you to Wayne over the last three years for all the help and
+insights, and wish you the best in your next role. Two questions, Mike and Pierre. One, want to go back into the
+federal leases exposure. Can you share with us, in the Permian over the 2019 and 2020, what percent of your
+activity is actually in the federal division?
+I understand that federal division might be only about 10%, 15% of your overall Permian land position. But want to
+see that on a P2P level how that look like. Also that how many permit that you have already in hand in the
+Permian and whether you have all the needed permit for your program in the Gulf of Mexico this year. Also that if
+you can just give us the production number in the fourth quarter in Permian, DJ and [ph] Duvernay (39:27).
+The second question is on the ESG and the carbon new product or service. We understand you are not interested
+going into the renewable power like solar and wind, but is there any other new product or service related to ESG
+and carbon you think you have the technology that you can build it into a new business? And not just as a
+concept, but as a new business. Thank you.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+A
+
+Hey, Paul. It's Pierre. I'll start with your first question. I think we'll take some of it offline with Wayne and the IR
+team in terms of production from the various basins. Our federal acreage, as you said, in the Permian is less than
+10%. It went down little bit through the Noble acquisition. We're not going to disclose the activity for the last year
+and how much was the mix. I think you can find publicly available data and you can chase that down.
+In terms of the Gulf of Mexico, I think it's well-known that permits tend to – you have a lower inventory of permits,
+so if we have a bigger inventory of permits in the Permian basin, we and other operators do, that's not the case in
+the Gulf of Mexico. So those permits tend to be a lower inventory.
+I will just point out that we have one floating rig on a long-term contract in the Gulf of Mexico that expires at the
+end of the year. So we'll, again, take your other detailed questions offline. And then, Mike, do you want to answer
+the energy transition?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah, I was thinking about the first question. And so energy transition, if I caught it, Paul, what technologies are
+we interested in. I think we've indicated carbon capture and storage for sure. We've recently made an investment
+in another carbon storage technology start-up, and you can expect to continue to hear more from us on that front.
+
+And then, of course, hydrogen should be in our wheelhouse. We manufacture hydrogen today. We've sold
+hydrogen before at retail, and we should have the toolkit to take what is technically feasible today but not
+economically practical and look for ways to drive costs down and scale up hydrogen over time.
+And so, I can't promise you we're going to get that to a point where it's fully competitive with the alternatives
+today, but that's an area that few companies have the capability to do all the things required, and we're one of the
+types of companies that should be able to work on that. So those will be two areas you can expect to see us
+active in.
+......................................................................................................................................................................................................................................................
+
+Paul Y. Cheng
+Analyst, Scotia Capital (USA), Inc.
+
+Q
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Paul.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll go next to Doug Terreson at Evercore ISI.
+......................................................................................................................................................................................................................................................
+
+Doug Terreson
+Analyst, Evercore ISI
+
+Q
+
+Good morning, everybody.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Good morning, Doug.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Good morning.
+......................................................................................................................................................................................................................................................
+
+Doug Terreson
+Analyst, Evercore ISI
+
+Q
+
+Mike, Chevron's equity has handily outperformed S&P Energy since you became CEO a few years ago as focus
+or decisiveness, as I think you like to call it, on higher returns on capital and lower debt and lower dividend
+breakevens have been a winning formula with energy investors. Simultaneously, the pace of change in the
+industry seems to be quickening not only as it relates to policy which you talked about a minute ago and likely
+future energy mix, but also that which is expected from investments in the sector.
+So my question is a couple-fold. Number one, how do you guys think about how to navigate this evolving
+environment which is somewhat different? Two, are technical and strategic dexterity likely to be needed maybe
+more than in the past? And then finally, what might be the implications for financial strategy in this new
+environment or is it too early to know?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah, well, hey, Doug, first of all, I want to congratulate you. Everybody's been throwing bouquets to Wayne. I
+know this is the last lap around the track for you this year as well, so congratulations and best wishes in the
+future.
+......................................................................................................................................................................................................................................................
+
+Doug Terreson
+
+Q
+
+Analyst, Evercore ISI
+
+Thanks, Mike.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+
+A
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+On your questions, I think a lot of the fundamentals that we've been exhibiting in our strategy will continue to
+serve shareholders well as we go forward. It's the capital and cost discipline. It is the ability to meet the needs of
+today's markets while also investing for tomorrow's markets. And with a diversified portfolio we have across
+business lines and across geographies, we can mitigate market and regulatory risk that may emerge in one
+country because we've got a footprint that allows us to shift resources and capital allocation to other parts of our
+portfolio.
+So, for 140-plus years, this is what we've been doing. You're right, things are evolving now, but they've been
+evolving for quite some time. And I think the capabilities we have in our organization, the honest dialogue we try
+to have with everybody about how do you meet the growing demand for energy and the desire to see the mix
+change? And how do we continue to invest where we have advantages in both the existing core business and
+emerging new businesses is what you will see us continue to do.
+At the core, I think the financial priorities stay the same. We are committed to the dividend. We're committed to
+organic reinvestment in order to support that dividend, and that can be reinvestment across the entire spectrum of
+energy technologies. Maintaining a strong balance sheet; we've seen this last year how important that is. And
+then when we've got surplus cash after those first three needs to distribute that back to shareholders. That
+framework is intact and I don't see that changing.
+......................................................................................................................................................................................................................................................
+
+Doug Terreson
+
+Q
+
+Analyst, Evercore ISI
+
+Okay. Thanks. And also good luck to Wayne from me as well. He's done a great job in this role. Thanks a lot.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+
+A
+
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Doug. Audra, next question.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll move next to Biraj Borkhataria with RBC. Please go ahead.
+......................................................................................................................................................................................................................................................
+
+Biraj Borkhataria
+Analyst, RBC Securities
+
+Q
+
+Hi. Thanks for taking my questions. I had a couple. So, the first one is just around your comments around
+generating free cash flow at prevailing commodity prices. I wondered if you could talk a little bit about the balance
+sheet and where you'd be comfortable in terms of gearing as you move through 2021. Also, Pierre, maybe you
+can touch on the recent announcement from the S&P on potential changes in the credit ratings for the sector and
+risk of the industry with the transition and how that is working into your thinking in managing the balance sheet.
+
+And then the second question on a different topic, with Gorgon down in the quarter, presuming that's obviously a
+decent hit to your LNG portfolio, can you confirm if you were buying spot LNG cargoes in the fourth quarter? And
+just if you can give a rough sense of the quantity or the earnings impact on that because, I guess, that's more a
+transitory nature given some of the issues there. Thank you.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+
+A
+
+Vice President & Chief Financial Officer, Chevron Corp.
+
+All right. Thanks, Biraj. It's Pierre. I'll start. Look, Mike just went to our financial priorities, and we're in a good
+place on a debt ratio. Our net debt ratio is under 23%. That includes the assumption of debt from the Noble
+acquisition, which added about $9 billion of debt.
+So I've talked about – we don't have a target net debt ratio range, but I've talked about a range between 20% and
+25% is a good place to be over the cycle. We can be below that at times. We'd be heading up towards this range.
+If we're above it for some reason, I'd want to have confidence that we're heading down that range. So it's not a
+hard and fast target, but we're in a really good place with a leading balance sheet, low breakeven, as Mike talked
+about, and very well positioned. We also have asset sales that we provided some guidance on here on the call.
+In terms of the S&P, look, we work with them. It was an industry-wide call. I think our track record speaks for itself
+in terms of being disciplined with capital, protecting the balance sheet, and being very progressive about the
+future of energy and our approach of higher returns, lower carbon. So I think that lines up with the rating
+agencies. But that's not something we control. That'll be up to them. We're managing the company for long-term
+value; we think we're doing a good job.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Biraj, on your question on Australian LNG, a simple way to think about this is we've got 80% or so of our volume
+termed up, and you can think about having a train down for a better part of this last quarter, so four out of five
+trains running, so about 80% of our capacity. So we've been able to satisfy all of our term needs, and we're in the
+market now with our commercial organization, buying a cargo here, selling a cargo there in and out of the spot
+market. But we haven't been out of position and hurt because we had to buy high and sell low to any meaningful
+degree through this whole cycle.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Biraj
+......................................................................................................................................................................................................................................................
+
+Biraj Borkhataria
+Analyst, RBC Securities
+
+Q
+
+Okay. Noted. Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll move next to Doug Leggate at Bank of America.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, BofA Securities, Inc.
+
+Q
+
+Thanks. Good morning, everyone. Wayne, I want to wish you good luck and hoping Roderick gets in a little earlier
+in the Q. But congratulations. Guys, I wonder if I could just go back to the capital allocation question very quickly,
+Mike. You've now got Israel and a lot of growth opportunities that Noble had talked about longer term. And it
+sounds like you're backing away a little bit from [ph] the need for (49:02) growth in the Permian. I'm just
+wondering if, under Biden administration, is that how we should think capital allocation, international versus
+domestic, now you've got bigger opportunity set.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+We'll have to see how things play out in the US. I don't want to overreact to that at this point in time till we know
+more. But, fundamentally, we intend to continue to be very disciplined in the allocation of capital. Noble's assets in
+Israel have the big part of their capital spend behind them right now. There's capacity to grow production there
+with little or no incremental capital right now. And the nice thing is we bring some capabilities to bear here that
+might not have been in Noble's wheelhouse.
+So there's ways to take this gas further into regional markets. There's ways to take it into LNG, be it facilities that
+[ph] have oilage (49:58) today that you could go into or Noble had been looking at an FLNG concept. There are
+ways to take it to power markets and into power generation and regional power distribution across borders. And
+there are opportunities to look at things like hydrogen and new energy technologies as well.
+So we have the financial strength and capacity to underwrite things larger than perhaps Noble could have and
+some technical capability and relationship depth in some of these markets that should be an advantage. And so
+we'll look to use those to support the growth of the position in Israel. And in the broad capital allocation question
+US versus other countries, we're always thinking about that, always looking at that and drawn by returns and risk.
+And we'll continue to evaluate those things.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, BofA Securities, Inc.
+
+Q
+
+Okay. I appreciate that. My follow up is maybe for Pierre and it's a follow up to the S&P question earlier. Whoever
+– whichever one of you guys would like to answer this. But it's really more about the external pressures that
+you're seeing, whether it be from one of your large peers seeing an active shareholder talking about big energy.
+Your key investment community and, obviously, your European peers moving in that direction. And now you've
+got the credit agencies. And it seems to me at least that the US side of the pond is still very much in the big oil
+category in terms of how you see your opportunity set going forward.
+I'm just curious, Mike or Pierre, how do you see these external pressures influencing discussions with the board,
+discussions with investors and ultimately a longer-term energy mix? Will we see Chevron move towards that big
+energy story over time?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Well, I'm going to come back. I think Pierre mentioned earlier that we describe our strategy with four simple
+words; it's higher returns and lower carbon. And both of those things matter to the investors that we speak to. And
+we're working hard on both fronts, and we've got to improve return on capital and demonstrate that we're going to
+do that. And at the same time, we also have to prepare for a lower carbon energy system in the future.
+
+And we're reducing the intensity of the energy we deliver today and making really good progress on that and will
+continue to set new targets in that area because the world – stepping on the hose of supply through one way or
+another doesn't really change demand. And so somehow demand will need to be met, and we think it should be
+met by those that can do it in a way that has the lowest carbon impact. We're increasing the production of
+renewable and lower carbon products for our customers, so they can reduce their energy intensity and carbon
+intensity, and then likewise looking at these breakthrough technologies and I mentioned a couple of them earlier.
+So, every company in the industry, Doug, is searching for the right mix. There's not an empirically observable
+correct answer to this, and I think we're all working with our various stakeholders, right? Our boards, our
+employees, our customers, the countries where we operate and the policies that we operate under to manage
+both of these things.
+And look, energy is the lifeblood of the global economy, and reliable, affordable energy will be fundamental to the
+recovery from the pandemic in the short term. And in the longer term, it will be fundamental to lifting people out of
+poverty around the world, and we have to remember that. And today's energy system is not the enemy. Lower
+emissions are what we should be focused on. And that's what we as a company are focused on, and that's what
+we talk to our stakeholders about, and that's what we're committed to doing.
+......................................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, BofA Securities, Inc.
+
+Q
+
+Appreciate the answer. Keep in touch, Wayne. Thanks.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll go next to Paul Sankey at Sankey Research.
+......................................................................................................................................................................................................................................................
+
+Paul Sankey
+Analyst, Sankey Research
+
+Q
+
+Hello, everyone.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Hello, Paul.
+......................................................................................................................................................................................................................................................
+
+Paul Sankey
+Analyst, Sankey Research
+
+Q
+
+Mike, [indiscernible] (54:05) question. You've obviously addressed your strategy on the core, but I just wondered
+in the light of activism that we're seeing, are there any specific requests, if you like, or strategy pushes that you're
+getting from shareholders? I wondered if you could just update us on what you've been hearing, and perhaps
+where you're sympathetic to the ideas that are being pushed towards you and maybe where you're pushing back.
+And then I had a follow up just on the decline rates. You said that you got higher decline rates on lower spending
+in 2021. Having said that, the numbers are only 70,000 barrels a day or about a 2% decline. Can you just help me
+understand why that number is so low? Thank you.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Yeah, Paul, so on strategy push from shareholders, there's not a lot that's being said in shareholder discussions
+that I haven't discussed here. It's what is your strategy for a lower carbon world and where do you see yourself
+having unique strengths?
+And if there's one thing I do hear back from people, it is support for not going into things where we wouldn't have
+competitive differentiation and we may pursue lower return investments just for the sake of saying we're doing it
+when there's others out there that can do it just as well. So, beyond that, I'm not hearing a lot of strategy push
+from shareholders.
+I'll let Pierre take the question on declines.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+
+A
+
+Vice President & Chief Financial Officer, Chevron Corp.
+
+Yeah. And I'll just add to Mike's comments. This is a sector that is trying to regain favor with investors. It hasn't
+earned its cost of capital, and the way out of that isn't by investing more capital; so being disciplined in our
+conventional business with capital, being disciplined in M&A, and being disciplined with the energy transition. As
+Jeanine asked, renewable energy products operate in commodity markets that have cycles up and down just like
+conventional products do.
+In terms of our decline, yeah, Paul, I'm not sure – what I had meant to say is that you'll see declines this year
+resulting from our capital last year because we did take capital down. But as you rightly point out, the decline –
+and we tried to put that on the best apples-to-apples basis, so again, we've got curtailment adjusted and then
+asset sales or contract expirations adjusted, which is a good view of our base and our shale and tight. And so it's
+a little more than a 2% decline.
+It is a big change because that would've been growth previously because you would've had Permian growing.
+That was part of the reallocation. Mike showed a chart that said we're likely to invest $40 billion over the last year
+and this year. But $13 billion of that was Noble, so no doubt our organic portfolio is not growing like it would have
+been previously because we've taken some capital out.
+But, as you point out, it's a modest decline. It's because we're facility constrained in a lot of places. We have longlived assets like in Australia LNG and Tengiz and offshore, and even the declines with considered high decline
+areas like the Permian, we're able to mitigate. Mike said earlier that our Permian production is beating our
+guidance range and will actually be up because of the Noble barrels that we added 2021 versus 2020 full year
+and if you adjust for curtailment. So, it's a good story that we're able to be so efficient and mitigate declines, and
+I'm happy you picked up on that number.
+......................................................................................................................................................................................................................................................
+
+Paul Sankey
+
+Q
+
+Analyst, Sankey Research
+
+Great. And, of course, thanks very much to Wayne. Thanks, Wayne. It's been a pleasure.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Paul. Likewise.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Thanks.
+......................................................................................................................................................................................................................................................
+
+Operator: And we'll move next to Dan Boyd at Mizuho Securities.
+......................................................................................................................................................................................................................................................
+
+Dan Boyd
+Analyst, Mizuho
+
+Q
+
+Hi. Thanks for squeezing me on. One, I would just say thanks for sticking to your guns and only doing things
+where you have a competitive advantage. I think that makes clear business sense. Most things have been asked.
+I just have one for Pierre. Just on the FX, which has been a headwind to earnings this year, can you talk about
+the cash impact that that has, if any, and how you see that potentially playing out in 2021?
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+A
+
+Yeah, the vast majority of it is non-cash. It's balance sheet translation, so it's taking your monetary accounts,
+asset accounts and liability accounts and revaluing it. What we've seen is during the course of the year the dollar
+strengthened initially and then we saw it weakening relative to other currencies, in particular, like in Australia,
+Canada, some of the others where we'll have like a deferred tax liability that gets revalued.
+So it turns into cash over time, but it depends on what the exchange rate is at that time in the future. So you have
+modest amounts that happened in the quarter, but the vast majority is reflecting a full revaluation of that liability,
+monetary liability or monetary asset account. And how it ultimately settles will decide if those gains or losses are
+realized or not in cash flow.
+......................................................................................................................................................................................................................................................
+
+Dan Boyd
+Analyst, Mizuho
+
+Q
+
+Okay. That's helpful. Thanks.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Okay. Next question.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll go next to Manav Gupta at Credit Suisse.
+......................................................................................................................................................................................................................................................
+
+Manav Gupta
+Analyst, Credit Suisse Securities (USA) LLC
+
+Q
+
+Hey, guys. I just want to ask one question. You are absolutely leading the charge on RNG. And some of the
+projects that you're actually developing in RNG have a CI of like minus 150 to minus 200. That's significantly
+lower than any EV can actually produce at this point of time. Yet, all we see out there is the demand for EVs and
+states saying they only want to run on EVs and manufacturers are saying they only want to make EVs. So is there
+something that Chevron and the industry groups can do to educate the governments or the markets that there are
+other forms of lower carbon like RNG, which actually have a much significantly lower carbon intensity than an
+actual EV?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Manav, I'm impressed. You've done your homework on carbon intensity and not many have to the foundation of
+your question. Look, RNG is very good from a carbon standpoint because you mitigate otherwise unmitigated
+methane emissions, and that's why it gets the very attractive CI factor. The CI factor has to be worth something
+because RNG from a first-cost basis is more expensive than fossil natural gas.
+And so, in markets where there's a policy framework that creates that financial connection to the low CI, it's
+attractive and economic. And that's where we're playing today. I would expect over time that those policy
+frameworks could expand for the reasons that underlie your question. And we are working with customers as well
+to help incentivize the adoption of CNG vehicles. We've got an initiative in California where we'll subsidize truck
+owners to convert or buy new heavy-duty CNG engines in return for a supply agreement. And then we're working
+with a number of different distribution points to enable that to happen.
+So we think this is a good part of the mix. It's not the answer everywhere, but it is certainly a part of the mix that
+we think deserves to grow, and that's why we've been investing into it. And it ties to the earlier comments about
+doing things where we've got unique and competitive advantages.
+......................................................................................................................................................................................................................................................
+
+Manav Gupta
+Analyst, Credit Suisse Securities (USA) LLC
+
+Q
+
+Thank you so much for taking my question.
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Manav.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll move next to Jon Rigby at UBS.
+......................................................................................................................................................................................................................................................
+
+Jon Rigby
+Analyst, UBS AG (London Branch)
+
+Q
+
+Hi. Yes. Thanks for taking my question. Two questions actually. One is on, when you think about the portfolio and
+also what you've seen in the market through the sort of 2014-2015 volatility, the volatility you're seeing now, are
+you starting to change the way you look at the investments that you're making going forward? So, are you looking
+at hurdle rates, payback periods, et cetera and changing them to sort of tailor a different environment going
+forward?
+And also, if you are, are you able to do that through the portfolio or can you also do that through the way you
+approach the development of an asset? So you build it with the expectation of adding satellites longer term or you
+build a bigger [ph] hose (01:02:28), et cetera. That's the first question. The second, which is slightly tied to that,
+and it seems to me also and you've demonstrated it, but low gearing, a low level of indebtedness has served you
+very well through those two cycles. So when you think about the sort of three shock absorbers that you have, so
+short cycle investment, balance sheet and buybacks, is in the near term the priority getting debt down? Thanks.
+......................................................................................................................................................................................................................................................
+
+
+A
+
+All right. Thanks, Jon. Look, I'll get started. I think the answer to your first question is yes and no. No, we're not
+changing how we look at investments. We don't have to go to ancient history books to know that the top line in our
+business is volatile. We've had not just 2014-2015, you go 2008-2009, you can go late-1990s, and so to have
+companies in our industry that don't have balance sheets that are built for something that we know occurs with
+some frequency is a capital structure that doesn't make a lot of sense. It transfers too much risk to equity holders,
+and that's partly reflected why the energy sector has underperformed other sectors for a while. So, in that sense, I
+don't think we think of it differently.
+But to the second part of your first question, can we do developments differently? Absolutely. Can we size them to
+keep them full longer offshore? I think Mike has talked about the capital efficiency of our shale and tight, the
+flexibility of it. So, undoubtedly, our capital efficiency is better than it ever has been. It means our ability to
+generate positive free cash flow from a dollar capital investment. We've talked about being very disciplined with
+our capital which reinforces it.
+But the basic premise of operating in a set of commodity businesses that are volatile, that hasn't changed in the
+last several years. That's been the case for the 30 years I've been with the company. And as you said, I think to
+your second part of the question, how we operate with our four financial priorities is it reflects that reality. And so
+we understand what business we're in and what kind of capital structure we should have that's in the interest of
+our shareholders.
+......................................................................................................................................................................................................................................................
+
+Jon Rigby
+Analyst, UBS AG (London Branch)
+
+Q
+
+Right. But to that point is, even with an advantaged balance sheet that you have against your peers, I think that's
+widely acknowledged, would it be fair to say that the first priority of those sort of three variable things, excepting
+that the dividend is a structural thing, is probably balance sheet?
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+A
+
+Well, again, our four priorities Mike went through them. It's dividend, reinvestment because we've got to generate
+cash for the dividend, maintaining a strong balance sheet, and buybacks is fourth. And so we're already going to
+maintain a strong balance sheet. I gave a kind of arrange that we think is a good place to be over the cycle. And
+again, we can be below it, heading towards it or above it. So the balance sheet is, well, it's right in the middle of
+the range I've been talking about since I've been CFO. So there's no primary need on balance sheet.
+What's more – the bigger driver is we're not at a full economic recovery here. And so getting control of the
+pandemic, getting the world economies growing again on a sustained path that would be good be good for our
+business. Our breakeven is under $50. You can do the math. If oil prices are about $50 and if downstream
+margins improved because that's a breakeven under $50 including pretty weak downstream margins, we'll have
+excess cash, and we'll look at our priorities and make decisions like we have in the past.
+Just as a reminder, we bought back shares 13 out of the last 17 years. We bought back shares on average during
+that time period basically equivalent to the daily average. So we're a pretty consistent returner of cash to
+shareholders in the form of sustained and growing dividends and share buybacks when we have excess cash.
+......................................................................................................................................................................................................................................................
+Wayne Borduin
+
+A
+
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Jon.
+......................................................................................................................................................................................................................................................
+
+Jon Rigby
+
+Q
+
+Analyst, UBS AG (London Branch)
+
+Thank you.
+......................................................................................................................................................................................................................................................
+
+Operator: We'll take our final question from Ryan Todd at Simmons Energy.
+......................................................................................................................................................................................................................................................
+
+Ryan M. Todd
+Analyst, Simmons Energy
+
+Q
+
+Great. Thanks, guys. Maybe a couple of quick ones at the end. On disposals moving forward, with the downsized
+capital program, should we expect a relatively downsized disposal program on a run rate basis? And if so, is there
+a range in terms of what we should think of in terms of annual disposals?
+And then maybe as a follow-up question, as we think about your 2021 production guidance, the contract
+expirations in Indonesia and Thailand, can you confirm what the volume effect is there? And any willingness to
+share what the potential cash flow impact of those volumes would be at $50 oil?
+......................................................................................................................................................................................................................................................
+
+Michael K. Wirth
+Chairman & Chief Executive Officer, Chevron Corp.
+
+A
+
+Okay. I'll take the asset sale question. I'll let Pierre handle contracts. Yeah, Ryan, first thing is we don't need to
+conduct asset sales to generate cash. Other companies might be in a different position. But, look, we've closed
+out the program we announced previously. We're not announcing a new program.
+Pierre guided to $2 billion to $3 billion for 2021. And if you look back over the last two decades, we've been kind
+of plus or minus a couple billion dollars a year in normal portfolio maintenance and kind of rotation. And so I think
+that's the kind of a number you ought to think about for your model. And like I said, this coming year, we might be
+a little bit to the upside of that. There'll be some years we'd be below that. But we're doing this to high grade and
+strengthen our portfolio, not to generate cash.
+Pierre, I'll let you take the contracts question.
+......................................................................................................................................................................................................................................................
+
+Pierre R. Breber
+Vice President & Chief Financial Officer, Chevron Corp.
+
+A
+
+Yeah, Ryan, we disclosed in our supplement tables that we provide each quarter, production by country. You see
+it in our 10K. So I think it's pretty transparent what production in Indonesia and Thailand is. Not all of Thailand is
+part of the concessions that are expiring here early next year. We don't disclose cash flow by country. There's a
+fair amount of disclosure in our oil and gas tables that you can look back for there.
+So we'll continue to provide what we think is meaningful guidance each quarter as we go forward. We showed the
+variance that was tied to contract expiration. So I think all the pieces of the puzzle are there for you, and of
+course, if you have follow-up questions, please reach out to Wayne and Roderick.
+......................................................................................................................................................................................................................................................
+Wayne Borduin
+
+A
+
+General Manager-Investor Relations, Chevron Corp.
+
+Thanks, Ryan.
+......................................................................................................................................................................................................................................................
+
+Ryan M. Todd
+Analyst, Simmons Energy
+
+Q
+
+Great. Thanks, guys.
+......................................................................................................................................................................................................................................................
+
+Wayne Borduin
+General Manager-Investor Relations, Chevron Corp.
+
+Well, I'd like to thank everyone for your time today. We do appreciate your interest in Chevron and everyone's
+participation on today's call. Please stay safe and healthy. Audra, back to you.
+......................................................................................................................................................................................................................................................
+
+Operator: Thank you. Ladies and gentlemen, this concludes Chevron's fourth quarter 2020 earnings conference
+call. You may now disconnect.

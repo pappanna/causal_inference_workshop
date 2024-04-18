@@ -1,0 +1,491 @@
+Operator: Good morning. My name is Matt and I will be your conference facilitator today. Welcome
+to Chevron's Fourth Quarter 2006 Earnings Conference Call. At this time, all participants are in a
+listen-only mode. After the speakers' remarks, there will be a question and answer session and
+instructions will be given at that time. [Operator Instructions] As a reminder, this conference call is
+being recorded. I would now turn the conference over to the Chairman and CEO of Chevron
+Corporation, Mr. Dave O'Reilly. Please go ahead sir.
+
+David O'Reilly, Chairman and Chief Executive Officer
+Hi. Good morning and welcome to Chevron's fourth quarter earnings conference call. Today I'm
+joined by Steve Crowe, our Chief Financial Officer and Irene Melitas, Manager of Investor
+Relations.
+Our focus today is on Chevron's financial and operating results for the fourth quarter of 2006 and
+we will refer to the slides that are available on the Web. Before we get started, please be reminded
+that today's presentation contains estimates, projections and other forward-looking statements. I
+ask that you review the Safe Harbor statement on Slide 2.
+
+corrected transcript
+
+I'll begin with Slide 3 which provides an overview of our financial performance. The company ended
+the year with quarterly earnings of $3.8 billion or $1.74 per diluted share. Full-year results of $17.1
+billion mark the third consecutive year of record earnings for Chevron.
+Our fourth quarter earnings were 9% lower compared to the fourth quarter 2005, reflecting a sharp
+decline in the price of natural gas in the US, which more than offset the benefits from improved
+operating performance. Fourth quarter results declined by about 25% versus the third quarter of
+2006, which Steve will discuss shortly.
+Return on capital employed for the year was a strong 23%. The debt ratio was 13% at year-end
+with net debt a negative $1.6 billion. Stock buybacks were $1.3 billion in the fourth quarter and $5
+billion for the year. The $5 billion buyback program initiated in late 2005 concluded within 12
+months. In December, we announced that the Board of Directors had authorized another similarly
+sized follow-up repurchase program of up to $5 billion over three years. Our total shareholder
+return for the year was nearly 34%.
+Turning to Slide 4, our total capital spending for 2006 was $16.6 billion. Upstream spending
+accounted for $12.8 billion or 77% of the total. Our cash C&E, which excludes our equity share of
+affiliate capital outlays, totaled $14.7 billion for the year. Our announced capital program for 2007 of
+$19.6 billion represents an increase of $3 billion over 2006. About $2 billion of the increase is
+earmarked for upstream activities. More than two-thirds of that increase is attributable to the more
+capital intensive phase of some of our long-term growth projects. And rising costs for materials and
+services account for the balance of the increase.
+Steve will now take us through the quarterly comparisons. Steve?
+
+Stephen Crowe, Vice President and Chief Financial Officer
+Thanks Dave. My remarks compare fourth quarter results to those of the third quarter. As a
+reminder, our earnings release compares fourth quarter 2006 to the same quarter a year ago.
+Turning to slide five. Fourth quarter net income was about $1.2 billion lower than our quarterly
+record set in the third quarter. Starting with the left side of this chart, significantly lower oil and gas
+prices adversely affected upstream results worldwide. Weaker refining and marketing margins,
+particularly in the US and Europe, reduced earnings nearly $500 million. Fourth quarter earnings
+benefited from higher international upstream liftings. The variance in the residual other bar is the
+net of everything else.
+Slide six summarizes the results of our US upstream earnings, which declined about $380 million
+between quarters. Lower realizations, primarily for liquids, reduced earnings by $300 million. The
+$11 per barrel decrease in crude realizations was generally higher than the change in industry
+benchmark prices and accounted for $295 million of the variance between quarters. While the
+average quarterly price for WTI declined by $10.58 per barrel between quarters, the Gulf of Mexico
+benchmark trade month price, which is on a lag basis, declined more steeply. The volume effect of
+higher planned project activity, particularly in the Gulf of Mexico, reduced earnings by $10 million.
+Other mostly reflects higher exploration expense.
+
+Turning to slide seven. International upstream earnings were about $210 million lower than the third
+quarter's. Lower oil and gas prices reduced profits by about $575 million. Unit realizations on liquids
+declined by $10.13 per barrel, in line with the drop in spot Brent prices. Higher liftings during the
+quarter, particularly in Kazakhstan, Venezuela, Canada, Indonesia and the UK resulted in a positive
+earnings variance of $185 million. Tax-related items benefited earnings by $200 million between
+quarters. This reflects the absence of the third quarter's one-time catch-up effects for the UK tax
+increase on North Sea oil and gas producers. The variance in Other reflects higher exploration and
+operating expenses, partially offset by a favorable swing in foreign exchange and other items.
+Slide 10 summarizes the change in worldwide oil equivalent production, including volumes
+produced from oil sands in Canada. Daily volumes were down 45,000 barrels between quarters.
+During the fourth quarter, US production declined 9,000 barrels per day as the impact of higher
+planned project activity and normal field declines exceeded the volume benefits from continued
+storm-related restoration efforts in the Gulf of Mexico.
+Outside the US, oil and gas production decreased 36,000 barrels per day between quarters. The
+decrease was driven by the conversion to Empresa Mixta in Venezuela, which took effect in
+October. This decrease was partially offset by higher production elsewhere, particularly in
+Kazakhstan following the completion of an annual turnaround that commenced in the third quarter.
+Looking ahead, worldwide oil equivalent production in 2007 is expected to average around 2.6
+million barrels at current price levels. The change relative to full-year 2006 volumes is attributable
+to the full-year effect of the Empresa Mixta conversions in Venezuela. The benefit of new project
+start-ups and ramp-ups are expected to largely offset normal field declines.
+The actual production will depend on many factors including possible disruptions to operations
+caused by weather or unrest, the effect of production quotas imposed by OPEC, the effect of price
+changes on cost recovery volumes under certain production sharing contracts or any other
+disruptions to our daily operations.
+Turning to slide 9, the US downstream results in the fourth quarter declined by about $490 million
+relative to the prior quarter's record earnings. The decrease was driven by weaker refining and
+marketing margins and the effect of a 75-day planned turnaround at the Pascagoula refinery, which
+decreased production of high-value products.
+Lower realized margins reduced results by $420 million relative to the third quarter, particularly in
+the West. In the West, the ANS refining indicator margin improved by $1.19 per barrel between
+periods. However, as noted in our interim update, we did not benefit to the full extent suggested by
+the variance given the mix of crudes run at our West Coast refineries.
+
+In the East, the Gulf Coast light-heavy differential indicator declined by about $6.50 per barrel. In
+the West, the Los Angeles dealer tank wagon to spot mogas indicator fell sharply by $6.76 per
+barrel as the decline in DTW prices outpaced the decline in spot product prices.
+In the East, the Houston Rack to Spot indicator margin decreased by $2.67 per barrel. Lower
+margins for aviation fuels and asphalt also affected marketing results. Lower volumes reduced
+earnings by about $20 million. A seasonal decline in the production of asphalt and lower lubricant
+sales contributed to the decrease. The other variants reflects reduced earnings in pipeline along
+with other miscellaneous items.
+Turning to Slide 10, international downstream earnings of about $610 million were unchanged from
+the third quarter's. Realized downstream margins decreased earnings between quarters by about
+75 million, led by lower refining and marketing margins in Europe, in line with the fall in indicator
+margins. The other bar includes a favorable variance in tax-related items.
+Slide 11 shows chemical results were $124 million in the fourth quarter compared with $168 million
+in the third quarter. Results for olefins declined on lower ethylene and polyethylene sales volumes
+and margins. Lower additives earnings were largely due to lower volumes and higher nonmanufacturing expenses, and the variance in other includes a fourth-quarter asset write-off.
+
+Slide 12 covers all other. The negative variants in the P&L businesses reflects lower results
+associated with the company's investment in Dynegy and lower seasonal results from our power
+operations. The other bar reflects the aggregation of taxes booked at the corporate level, along with
+other miscellaneous items. Our standard guidance for this segment calls for net quarterly charges
+in the range of 160 to $200 million, excluding Dynegy. Actual fourth quarter net charges were at the
+lower end of that guidance.
+That completes our brief analysis for the quarter and back over to you, Dave.
+
+David O'Reilly, Chairman and Chief Executive Officer
+Thanks Steve. Turning to Slide 13, let me recap our strategic progress in recent months and then
+I'll take your questions. Let's begin with the upstream. In Angola, we announced the production of
+first crude oil from the Landana North reservoir in the 31% owned and operated Tombua-Landana
+development, our third deepwater development in Angola. This project is expected to reach
+maximum production levels of about 100,000 barrels per day in 2009. And just last week, we
+announced a significant oil discovery at the 31% owned and operated Lucapa-1 well in deepwater
+Block 14. Appraisal drilling and additional geologic and engineering studies will follow to asses the
+potential reserves.
+We discovered natural gas at the 67% owned Clio-1 exploration well offshore northwestern
+Australia, further building on our leading natural gas resource position there. In downstream, we
+announced the completion of the fluid cat cracker expansion project at the Pascagoula refinery in
+Mississippi. The expansion increases our gasoline manufacturing capacity there by about 10%. We
+also submitted an environmental permit application for the construction of facilities that would
+increase gasoline output there by a further 15%.
+Turning to Slide 14, our preliminary estimate of 2006 reserve additions is shown here and equates
+to approximately 101% of worldwide equivalent production during the year. This represents an
+addition of about 950 million oil equivalent barrels for a total year-end crude reserve of 12.1 billion
+barrels, a strong organic growth year. Approximately 30% of the added reserves were associated
+with the Athabasca Oil Sands Project in Canada. The crude oil extracted bitumen- mining operation
+is not considered to be an oil and gas producing activity by the Securities and Exchange
+Commission. Excluding the oil sands volumes, the company's proved reserves additions in 2006
+equated to about 70% of oil equivalent production.
+Additional details will be available in the Form 10-K that we will file with the SEC on March 1 and of
+course we'll discuss it in more detail also at our mid-March analyst meeting in New York.
+Turning to Slide 15, 2006 was a year of record earnings, the attainment of several significant
+milestones, the completion of the integration of the former Unocal operations, improved operating
+performance and excellent shareholder returns. And as we enter 2007, we look forward to a year of
+further accomplishments.
+
+That concludes our prepared remarks and we'll now take your questions. One question per caller
+please. We plan to wrap up at or before the top of the hour. So, Matt, would you please open the
+lines for questions? Thank you.
+
+Operator: Thank you. [Operator Instructions] Our first question comes from John Herrlin of Merrill
+Lynch. Your question, please?
+<Q – John Herrlin, Jr.>: You spent 12.8 billion in upstream. Could you give us a sense of how
+much was spent on the Oil Sands?
+<A – David O'Reilly>: Very, very little in 2006 because that project was primarily in the engineering
+phase. So we estimate our share of expenditures during this phase of expansion is about $2 billion
+and that expenditure will occur over the next three years.
+<A – Stephen Crowe>: John, this is Steve. We expect that in 2007 spending relative to 2006 for
+the Athabasca expansion will be our share on the order of 300.
+<Q – John Herrlin, Jr.>: Thank you.
+<A – Stephen Crowe>: Thanks John. May we have the next question?
+Operator: Next question is from Dan Barcelo of Banc of America. Your question, please.
+
+<Q – Daniel Barcelo>: Yes, good morning. Thank you. There appeared to be a lot of willing buyers
+of refining assets, especially in the US. I didn’t know if you could just give us a quick update on your
+plans for your downstream in Europe, in Latin America and also just an update on Asia with
+particular reference to India.
+<A – David O'Reilly>: Thank you. Well, we like our position in refining in North America. We have
+a very strong position in 3 – particularly in 3 major refineries, two in the West Coast. We also got
+one in Richmond and Pascagoula, Mississippi.
+In Europe, we are marketing our share of the Nerefco Refinery in The Netherlands. And that – we
+expect that we will complete a transaction there this year. So that is in the process of being
+negotiated. And we also have plans to exit our marketing operations in the Benelux area. You’ll
+recall that last year we exited the marketing joint venture we participated in Scandinavia.
+In Latin America, we’re really not in the refining business; we’re in the marketing business. And we
+are pretty selective about where we participate, our strongest operations being in the Central
+America area.
+In Asia, which we like very much for the long-term, we are strengthening our position there. We
+upped our share of ownership in the Singapore refinery a couple of years ago to 50% and we have
+taken 5% interest in a refinery that Reliance is building in India. That is under construction and on
+or ahead of schedule, and we have an opportunity to increase that from 5 to 29% once the refinery
+is complete.
+We also have a major expansion underway in our Korean refinery, our joint venture refinery with
+GS, Goldstar. That is geared to – and it’s under construction; it will finish at the end of this year.
+And it’s geared to allow the refinery to run heavier, sourer crudes and increase light-product
+production. So we have a lot of activity underway and I hope that addresses your question, Dan.
+Thank you. Next question.
+Operator: Our next question is from Nicole Decker of Bear Stearns. Your question, please?
+<Q – Nicole Decker>: Good morning, Steve and Dave. Wondering if you could give us an update
+on your exploration and your appraisal program in the Gulf of Mexico?
+
+<A – David O'Reilly>: Yes. We’ll obviously cover this in more detail next month. In fact, Bobby
+Ryan, our Exploration General Manager, will be there with us and making a presentation in a lot of
+detail. Globally, we’ve had another very successful year. We’re meeting all of our metrics in terms
+of reserves, resource base added.
+In the deepwater Gulf of Mexico, we have a number of developments underway, which I think
+you’re aware of, but Tahiti and Blind Faith, which will augment our position in the Miocene trend.
+The Wilcox trend is the area that we’ve been doing the most interesting work in, and that’s Jack
+and Saint Malo. You’ll recall we’ve made a significant discovery in both of those areas on the same
+trend. We’ve had a very successful well test at Jack, which has been well documented, and we’re
+going to continue to pursue the appraisal and develop plans to develop those assets. We have an
+active exploration program in both of the trends that I talked about and a very strong lease position
+in both, and you’ll hear more of the details of that next month.
+Our success rate continues to be very good. And as you saw from our comments earlier, we’ve
+continued to have success in Angola and in West Africa in general. So our focused exploration
+program I think is paying off very well.
+<A – Stephen Crowe>: Nicki, you’ll hear a good deal more about exploration because we’ve had
+such great success over the last few years. Bobby Ryan will be covering that in some detail at our
+March meeting in about 6 weeks.
+<Q – Nicole Decker>: Thank you.
+
+<A – Stephen Crowe>: Thanks Nicki. May we have the next question?
+Operator: Our next question is from Doug Leggate of Citigroup. Your question please?
+<Q – Doug Leggate>: Thanks. Good morning, Dave, Steve and Irene.
+<A – Irene Melitas>: Good morning.
+<A – David O'Reilly>: Good morning, Doug.
+<Q – Doug Leggate>: My question is on OPEC exposure. Obviously, there has been a great deal
+of news on a number of fronts lately. You mentioned cuts are factored into your targets for this
+year. So I wonder if you could talk a little bit about that, but also about how you see Angola’s entry
+to OPEC potentially impacting your business, what the situation is currently in Venezuela? And
+finally on the -- there’s been some news on the wires that Kuwait may be looking to change things
+in the Neutral Zone, and I just wonder if you could comment on whether there is any movement
+there as you see it? Thanks.
+<A – David O'Reilly>: Well, more than one question, Doug, but I’ll do my best. First of all, let me
+just kind of put it in perspective in broad terms. If you just look at our international oil production
+overall, our international production, 20 to 25% of that is in countries that are OPEC affiliated,
+roughly. I’m just giving you rough numbers to put it in perspective. 75% of that roughly lies outside
+OPEC. So far the OPEC cuts that have been made have had an impact of less than 10,000 barrels
+a day net to us. But it’s very uncertain. Obviously, this could impact us somewhat more over the
+next year depending on what happens with total supply and demand. So the impact has been very
+minimal so far. And I think – the fundamentals I think suggest that it’s very hard to make a judgment
+about this until after we get through the second quarter period which is typically a period of
+weakness before the demand builds up in the northern hemisphere in the summer. So we have
+expressed some reservations about the impact, but so far it’s been minimal.
+
+Angola joining OPEC, which they did effective January 1, doesn’t have a near-term impact in our
+view because it’s clear that it isn’t going to impact their production and they’re going to be
+apparently allowed to phase-in for some period of time before they become a full member in terms
+of participating in OPEC production. But, however, I don’t view that this will be a significant impact
+either. All of our projections suggest that within a few years, we will need more OPEC production.
+And it doesn’t seem to me that this is something that we should be too concerned about. Our
+investments there are made over the very long term. We’re looking at assets that have lives that go
+20 years and 30 years. So taking account of – I think OPEC would be a minor impact.
+You asked briefly about Kuwait and the Neutral Zone, really what we do in the Neutral Zone is we
+operate on behalf of the Saudis in the Neutral Zone, not in partnership with the Kuwaitis. So our
+operations there are representing the Saudis and we are in the process of renegotiating our
+concession there with the Saudis, which will expire in a few years time. And that negotiation is
+underway and we’re optimistic that it will be completed successfully and that will be there for the
+long-term. That’s an area in which we’re demonstrating some pretty significant new technology in
+steam flooding in the Eocene, which is a very – which hasn’t been demonstrated yet, but after our
+successes in places like the Jack development I’m confident that we’re going to develop success
+there as well. I think that covered all your questions, I hope. Thank you. Next question please.
+
+
+Operator: Next question is from Neil McMahon of Sanford Bernstein. Your question please?
+<Q – Neil McMahon>: Hi. Good morning. It’s really a question about the US upstream earnings in
+the fourth quarter. It looks like – you did mention there was higher depreciation, et cetera. Plus it
+seems like you had a bit of a spike, maybe an end-year true-up in terms of exploration costs which
+look high. So sort of really 2 things. One, could you go into the detail on what caused US earnings,
+especially on a dollar per barrel basis, to decrease in for the fourth quarter? And what should we be
+looking at given your exploration program for guidance in terms of exploration expense next year?
+Same as 2006 or higher as a relationship to a higher CapEx getting thrown into exploration?
+<A – Stephen Crowe>: Thank you Neil. Let me deal with the capital expenditure portion first. In
+2006, our exploration expenditures ran on the order of 2.3 billion and that was higher than we had
+originally anticipated coming into the year. But it reflected certainly the heated market for drilling
+rigs and oilfield services, but also a lot of increased activity including appraisal drilling following up
+on our exploration success that Dave had mentioned. So looking at the expenditures and at least
+initially comparing 2007 projections relative to 2006 we think it’s going to be down a couple of
+hundred million dollars between years in terms of our spending level between periods.
+With regards to the cost structure, I don’t have the per barrel amounts with me on the call here right
+now, but Irene will be happy to give you that detail offline. But as to your question referring to the,
+say, the comparisons of the fourth quarter to those of the third for US upstream, in that chart 6
+where we showed a variance between quarters of $73 million in the – between quarters in that
+other bar, the lion’s share of that difference is associated with higher after-tax exploration expense.
+The net of all those other things that are in such a large business as ours including DD&A and FAS
+133 and equity income from cogen [cogeneration] operations and the like, essentially all more or
+less netted against one another. You’ll see then in the supplements to the investor relations
+material that was sent out the quarterly pattern throughout the year. Thanks very much Neil. May
+we have the next question?
+Operator: The next question is from Mark Gilman from The Benchmark Company. Your question
+please?
+<Q – Mark Gilman>: Dave, Steve, Irene, good morning.
+<A – Irene Melitas>: Good morning.
+
+<A – David O'Reilly>: Good morning.
+<A – Stephen Crowe>: Good morning, Mark.
+<Q – Mark Gilman>: I guess I’m a little bit surprised guys by the 2007 production number, a little
+bit weaker frankly than what I was looking for. Could you clarify what you’ve included for OPEC
+cuts and what is serving to offset the gains that ought to be otherwise expected in West Africa and
+particularly with the startup of Tengiz Phase II, which perhaps is being delayed somewhat and thus
+explains the flat year-over-year comparison.
+<A – Stephen Crowe>: Thanks very much Mark. Let me begin by giving you just some numbers
+for orientation and then Dave can follow up with a little – a broader perspective. Starting with the
+full-year 2006, our OEG production was 2.666 million barrels per day. The main reason for the
+decline from 2006 into 2007 is associated with the full-year impact versus the partial-year effect of
+the conversions of Empresa Mixta from the OSA’s to equity ventures. That’s worth about 64,000
+barrels a day. The balance then essentially net against one another and what it includes are major
+capital project ramp ups and major capital project start-ups in 2007, which are largely offset by the
+net declines in the operations. These would be normal field declines net of workovers, development
+and delineation. Some of the ramp-ups that we’re seeing in 2007 will be the continued ramp-up of
+BBLT as well as the ACG operations in Azerbaijan.
+
+
+Later on in the year, we also see start-ups occurring in 2007, including the TCO expansion and
+maybe some increased operations in Asia. So that’s the broad view. It’s essentially then the impact
+of Empresa Mixta is the main driver.
+<A – David O'Reilly>: Let me just add a little bit, Mark. One of the issues that we’re equivocating
+here a little bit about is the timing of Tengiz. We had, as you’ve probably seen in the press, a labor
+dispute that disrupted – it didn’t disrupt our ongoing operations but some of the construction. We
+are clarifying what the time impacts of that will be and I hope we’ll have a much better picture on
+that in the March meeting to give to all of you. So if you could just hold that thought until we see you
+in mid-March I think we’ll have better information.
+<Q – Mark Gilman>: Dave, if you could just clarify what’s in there for OPEC cuts?
+<A – David O'Reilly>: Well, it’s really – we didn’t really put anything specific in there, Mark. It’s just
+an acknowledgement that it could impact our business and I mentioned so far – as I mentioned
+earlier, so far the impact has been in the order of less than 10,000 barrels a day.
+<Q – Mark Gilman>: Okay. Thanks very much.
+<A – David O'Reilly>: Thank you.
+<A – Stephen Crowe>: Thanks Mark. Can we have the next question?
+Operator: Your next question is from Paul Cheng of Lehman Brothers. Your question please?
+<Q – Paul Cheng>: Thank you. Good morning everyone.
+<A – Stephen Crowe>: Good morning, Paul.
+<A – David O'Reilly>: Good morning, Paul.
+<Q – Paul Cheng>: Dave and Steve and Irene, last year in your analyst meeting you gave a very
+good information about success on your exploration program, how much is the resource base that
+you add to that program? Wondering if you can give us a preview, what is the program data in 2006
+and then maybe I’ll try to fit in into one question. If you can also give a update about the project for
+Tahiti, Agbami, and Gorgon, the update?
+<A – David O'Reilly>: Okay. So the Tahiti, Agbami and Gorgon?
+<Q – Paul Cheng>: Right. And also with that, the exploration success that what is the resource
+addition that because of that...
+<A – David O'Reilly>: Okay. Well, I can say that the resource additions for the year are going to be
+in excess of 1 billion barrels of oil equivalent and we’ll have more detail on that. That represents
+another very successful year with the drill bit and will be our fifth successive year of averaging
+above a billion barrels of resources. So it’s a strong year, but as I mentioned, Bobby Ryan will be
+providing a lot more detail on this in the meeting in March.
+You asked about 3 projects and how they’re doing. Let me start with Tahiti. Tahiti has been doing
+development drilling. The top sides and all of that work is underway and we anticipate that it will
+start up in 2008, on schedule, and no reason to believe that there is anything that would prevent
+that from occurring. To date everything has been successful including the work in the yards as well
+as the work in the fields.
+
+Agbami is also doing well. There’s been a lot of drilling activity, both on the production wells as well
+as the injector wells. The FPSO, which is one of the biggest FPSOs built, is being built in Korea and
+it’s well on schedule and will probably sail in the third quarter of 2007 for positioning somewhere in
+its location in Africa and Nigeria. So it’s also on schedule.
+Gorgon, there were a number of hurdles in Gorgon, which had to be resolved. And one of them was
+resolved in the last few months and that is the Western Australia Government’s approval for the
+environmental permit. That was granted. You will recall that the EPA there had lodged an objection.
+We filed an appeal and the appeal was successful and those issues are on the way to being
+resolved. We are also required to get federal permits, but now that the state has approved we are
+confident that within sometime in the second quarter we should be able to complete the federal
+permits. The third issue was cost. Like many of these projects, we’re seeing cost challenges and
+cost escalation. So we and our partners are working together to looking at how we might optimize
+the design and the construction of the facility to improve the economics, and that work is underway
+and probably will be complete also somewhere in the second quarter.
+So we have work underway here. So two of the projects are on plan and the other one is still in the
+engineering and permitting phase.
+<Q – Paul Cheng>: So, Dave, if that means Gorgon is a possibility we may see a project extension
+of an FID sometime in the second half?
+<A – David O'Reilly>: Well, it’s possible, but I think it all depends on the issues that I’ve just
+mentioned. I might – and let me just add that in our reserves bookings this year there are no new
+LNG projects that have been booked in any of those numbers. That’s a very broad-based reserve.
+So in my mind, if I looked at the queue here, I would think that Angola LNG will come first in the
+early part of this year and if we meet all of the objectives that we have set out for the Gorgon
+project, it would be later in the year. But again we have work to do.
+<Q – Paul Cheng>: Okay, thank you.
+<A – David O'Reilly>: Thank you.
+<A – Stephen Crowe>: Thank you, Paul.
+<A – David O'Reilly>: Next question?
+Operator: Our next question comes from Bernard Picchi of Wall Street Access. Your question
+please.
+<Q – Bernard Picchi>: Yes, my question is on Venezuela, which is certainly very topical. Can you
+brief us on your discussions with the Venezuelan government on their stated goal of achieving a
+minority interest in the Orinoco leases including Hamaca? And how much cash flow is at risk to
+Chevron there? And relatedly, what are you doing in Plataforma Deltana and elsewhere in terms of
+discretionary spending in Venezuela?
+<A – David O'Reilly>: Well, let me just talk about Venezuela overall, Bernie. First of all, we read
+this morning that the government has declared or President Chávez has declared that he would like
+to have a new arrangement in place in the Orinoco projects, of which there are four by May 1. That
+means there will be a period of negotiation and it’s very hard to speculate during a period about
+how that will turn out. So I’d rather not speculate, but just let us update you as we make progress
+and know what the outcome is.
+
+As for our other operations in Venezuela, we converted Boscán to an Empresa Mixta. We did that
+very successfully and we were able to preserve value and extend the life of the contract in doing
+that. So you can negotiate there on the basis of a reasonable dialogue and I’m hoping that we’ll be
+able to do that in the Orinoco as well, although I don’t want to speculate without having gotten
+there.
+You asked about discretionary expenditures. There are no other major expenditures at the moment
+because everything else we have in the portfolio there, including Plataforma Deltana, is really at the
+very early phase of evaluation still. So the big issue is the resolution of Hamaca. I’d rather not
+speculate about the impact on cash flow or any other metrics because I think it’s something that is
+commercially important to us and it’s better not to speculate until we’ve actually resolved the issue.
+Thank you.
+<A – Stephen Crowe>: Thanks Bernie. May we have the next call please?
+Operator: Our next question is from Neil McMahon of Sanford Bernstein. Your question please.
+<Q – Neil McMahon>: I’ve been very good and queued up again. Just a question really looking at
+new areas that you look like you’ve been active in. First of all, could you give me an update on what
+really got signed with the Gazprom agreement that came out last month or at least the
+announcement? And secondly, you didn’t seem to be all that active in the Indian licensing round
+that happened late last year, maybe just an update on your MoU with Reliance in India in upstream.
+Thanks.
+<A – David O'Reilly>: Let me deal with the latter one first. We have – in the last round in India, we
+were not active. We put it through the evaluation process. The opportunity in those leases –
+through our opportunity process or evaluation process that we use to identify areas that are
+attractive and a priority, and it didn’t – the opportunities there did not meet our criteria and it’s
+because of those criteria and the rigid application of them that I think we’ve been successful in the
+places in which we have been exploring. So it just didn’t meet our criteria for exploration.
+Now that has not in any way adversely impacted our relationship with Reliance. We’re still working
+with them obviously in the refinery as I mentioned earlier, and we’re also pursuing other
+opportunities to partner across the full value chain. And that – I think they are good partners and
+we’re very pleased to be affiliated with them in India and perhaps even in other areas where we
+have common interests.
+
+You asked about Gazprom, we have a joint venture with Gazprom Neft in Western Siberia. It’s an
+exploration joint venture on leases that have recently been extended. It’s relatively modest and it’s
+a – I don’t want to speculate about how successful it will be, but it’s – we think it’s a good start and
+we’ll see what it leads us to. But it’s early days yet in that opportunity. Thank you.
+<Q – Neil McMahon>: Thanks.
+<A – Stephen Crowe>: May we have the next caller, please?
+Operator: Our next question comes from Dan Vetter of JPMorgan. Your question please?
+<Q – Daniel Vetter>: Yes. Could you provide us with an update on the Bibiyana gas field in
+Bangladesh? And secondly, can you talk about your major sources of reserve bookings in 2006?
+Thank you.
+
+<A – David O'Reilly>: Okay. First of all, on Bibiyana, the work is essentially complete. In fact, I
+think it – our plan is to start it up this quarter. It might have started up sooner, but there have been
+civil challenges there, not around our fields, but in delays through the ports because of the elections
+that are ongoing, which have delayed some of the access to some of the equipment that we need.
+But the project is essentially complete and we anticipate within the next few months that we will be
+starting up.
+I’m going to defer on the second question because I think you’re going to see a lot of detail on our
+reserves. I’m confident that the aggregate numbers that I’ve given you are correct. I am also
+confident that there are no new LNG projects booked, but the numbers that we quote in aggregate
+are preliminary and you will see them in detail in our 10-K in early March, and we’ll be talking about
+them in more detail at our March analyst meeting. I can say, though, that they are broadly
+distributed across the organization in many locations, and that it was a very good organic year for
+Chevron. Thank you.
+<A – Stephen Crowe>: May we have the next question?
+Operator: Our next question comes from David Wheeler of Neuberger. Your question, please?
+<Q – David Wheeler>: Hi, Dave, can you tell us what the bite out of reserve replacement was from
+Venezuela?
+<A – David O'Reilly>: Well, there was no bite because you’ll recall that our – that the Empresa
+Mixta conversion at Boscán was a – we were converting from an operating services agreement to
+an equity agreement. So actually the impact on reserves in Venezuela is a positive one and not a
+negative one.
+<Q – David Wheeler>: Okay. Thanks.
+<A – Stephen Crowe>: May we have the next caller, please?
+Operator: Our next question comes from Mark Gilman from The Benchmark Company. Your
+question, please?
+<Q – Mark Gilman>: Dave, Steve, just two very specific things. Were there any LIFO-related
+earnings in the international downstream? Those kinds of things tend to occur potentially at yearend. And secondly, the international exploration expense number in the fourth quarter was to say
+the least very high. Are there any larger specific write-offs that were included in that number?
+
+<A – Stephen Crowe>: As to the exploration expense, there weren’t any – there was a lot of
+activity as I described through the context of our expenditures, but there wasn’t a specific item that
+at this juncture we’re disclosing as being unique. But there was a lot of activity flowing from our
+other successes. As far as LIFO is concerned, Irene do you have anything on that?
+<A – Irene Melitas>: Yes, both the US and the international segments had some adjustments,
+Mark. On the US side, it was fairly minimal on the negative, but nonetheless minimal. It was 10 to
+15. For the international, there were also some LIFO effects on the positive, a little north of 50.
+<A – David O'Reilly>: Thanks Mark. We’ll take one more question please.
+Operator: Our final question today comes from William Ferer of W. H. Reaves & Company. You
+question please?
+<Q – William Ferer>: Good morning. You almost shut it off correctly.
+<A – Stephen Crowe>: You just snuck in, Bill.
+
+<Q – William Ferer>: Yes, I know. It’s the story of my life. You discussed, gave us a good rundown
+on R&M asset sales. Could you discuss any opportunities that you might see on the upstream
+asset sales and further could you discuss your other businesses, Dynegy and the like, do you see
+any opportunities to dispose of assets at this point in time? Thanks very much and good morning to
+you.
+<A – David O'Reilly>: Okay. Well, Bill, we’ve – the ones I discussed were ones that are in the
+public domain on the downstream and that’s why I could be very specific. On the upstream, we
+periodically find assets in our upstream portfolio, as you know, that don’t fit or have matured to the
+point that we don’t think we can add value. And under those circumstances we sell. But I can’t
+speculate about that for this year. As far as the rest of the portfolio is concerned, we have – I’m not
+in a position to speculate either. So I think I’d prefer to pass on that and just stick with the answer
+that I’ve given you that the ones that we’ve talked about that are in the public domain.
+So just as a general comment, our ongoing asset sales last year were somewhat lower than typical
+and we would expect that we would be much closer to the typical range which is in the 1 to $3
+billion range for the year 2007. Thank you for the question.
+
+David O'Reilly, Chairman and Chief Executive Officer
+I think we’re going to conclude the call. We promised we’d get out of here before the top of the
+hour. And Matt, thank you for having today’s call. Thank you for all participating on today’s call. And
+I look forward to seeing you at our upcoming Security Analyst Meeting in New York next month.
+Thank you all.
+Operator: Ladies and gentlemen this concludes today’s fourth quarter 2006 earnings conference
+call. Thank you for participating. You may now disconnect. Good day.

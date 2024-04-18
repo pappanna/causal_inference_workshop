@@ -1,0 +1,1590 @@
+Operator: Good morning. My name is Jonathan, and I will be your conference facilitator today. Welcome to
+Chevron's fourth quarter 2016 earnings conference call. At this time, all participants are in a listen-only mode.
+After the speakers' remarks, there will be a question-and-answer session, and instructions will be given at that
+time. [Operator Instructions] As a reminder, this conference call is being recorded.
+I will now turn the conference call over the Chairman and Chief Executive Officer of Chevron Corporation, Mr.
+John Watson. Please go ahead.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+Thanks, Jonathan. Welcome to Chevron's fourth quarter earnings conference call and webcast. On the call with
+me today are Pat Yarrington, our Vice President and Chief Financial Officer, and Frank Mount, our General
+Manager of Investor Relations. We will refer to the slides that are available on our website.
+Before we get started, please be reminded that this presentation contains estimates, projections, and other
+forward-looking statements. We ask that you review the cautionary statement on slide 2.
+Okay, let's start with the key messages on slide 3. I said we needed to do five things well to adjust to lower prices,
+first, finish projects under construction which reduces spend and brings on new revenue. Gorgon Train 1 and 2,
+Chuandongbei, Bangka, Alder, Angola LNG are all on production and stable. In 2017, progress will continue with
+Gorgon Train 3 and Wheatstone coming online.
+Second, we need to reduce capital expenditures and focus on work that's profitable at lower prices. 2016 capital
+was down 34% or $11.6 billion from 2015. We're further reducing capital spending in 2017 and investing a larger
+percentage of capital in short-cycle high-return opportunities presented by our advantaged portfolio.
+Third, we're lowering operating expenses by getting more efficient in all that we do. 2016 operating expense was
+down 9% or $2.5 billion from 2015, and we expect further reductions in 2017.
+Fourth, we need to complete planned asset sales. We're on track with $2.8 billion in proceeds in 2016. And we
+expect 2017 proceeds will likely move us towards the upper end of the 2016 – 2017 guidance range of $5 billion
+to $10 billion we previously communicated.
+And finally, we need do all of this while operating safely and reliably.
+As a result, free cash flow is improving, with momentum building through 2016. We expect to be cash balanced in
+2017 and the cash flow improvement to continue into 2018 and beyond. Our actions support our number one
+financial priority, which is maintaining growing the dividend as the pattern of earnings and cash flow permit.
+Turning to slide 4, Chevron's total shareholder return outpaced our major competitors and the S&P 500 in 2016
+and is number one relative to our peers for any cumulative holding period going back 20 years. We appreciate the
+support from our investors, but recognize markets are forward-looking and expectations are high. We need to
+continue to deliver on our commitments and manage our advantaged portfolio for growing cash flow and
+competitive returns.
+
+Pat will now take you through the financial results.
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Okay, thank you, John.
+Turning now to slide 5, which is an overview of our financial performance, the company's fourth quarter earnings
+were $415 million or $0.22 per diluted share, while earnings for the full year 2016 were a loss of $497 million.
+Excluding special items and foreign exchange, Chevron earned $1.8 billion in 2016. A detailed reconciliation of
+special items and foreign exchange is included in the appendix to this presentation.
+Fourth quarter results were impacted by non-routine items and timing effects. Downstream results were weak,
+reflecting adverse timing effects because of a rising crude price environment and an extensive turnaround at the
+Richmond refinery, a once in every 5-year event. At the same time, fourth quarter corporate charges, which are
+known to be non-ratable, were heavier than an average quarter.
+Our debt ratio at year end was 24%.
+During the fourth quarter, we paid $2 billion in dividends, bringing our total for the year to $8 billion or $4.29 per
+share. 2016 was our 29th consecutive year of an annual per share increase. We currently yield 3.7%.
+Turning to slide 6, cash generated from operations was $3.9 billion during the fourth quarter. Fourth quarter cash
+flow benefited from stronger oil prices but had offsets in seasonal downstream margin patterns and the Richmond
+refinery turnaround. On a year-to-date basis, operating cash flow totaled $12.8 billion, a function of low oil and
+gas prices and weaker downstream margins than in 2015.
+2016 working capital consumption of approximately $600 million and lower affiliate dividends relative to earnings
+reduced operating cash. We had deferred tax items of nearly $4 billion, for example, those associated with tax
+loss positions. These will benefit cash in future periods.
+Proceeds from asset sales for 2016 were $2.8 billion.
+Cash capital expenditures were $4 billion for the quarter and about $18 billion for the full year excluding expensed
+exploration. This continues the trend towards lower outlays. At year end, our cash and cash equivalents total ed
+$7 billion. Our net debt stood at $39 billion, resulting in a net debt ratio of approximately 21%.
+Turning to slide 7, slide 7 compares 2016 annual earnings to 2015. Full year 2016 results were a loss of $497
+million, or approximately $5 billion lower than the 2015 results. The impact of special items, primarily due to lower
+gains on asset sales, reduced earnings by $515 million. Lower foreign exchange gains decreased earnings by
+about $710 million.
+Upstream earnings excluding special items and foreign exchange decreased $798 million between periods, as
+lower realizations were only partly offset by lower operating costs and exploration expense.
+Downstream results excluding special items and foreign exchange decreased by $2.8 billion, primarily due to
+lower margins. Recall that 2015 downstream margins were among the strongest we've seen in a number of years.
+
+The variance in the Other segment primarily reflects higher corporate charges and interest expense. Full year
+2016 results are in line with our standing guidance of $350 million to $400 million in net charges per quarter for
+the Other segment.
+Turning to slide 8, I'll now compare results for the fourth quarter of 2016 with the third quarter of 2016. Fourth
+quarter results were approximately $870 million lower than the third quarter. The absence of third quarter 2016
+gains from special items reduced earnings by $290 million between periods. Lower foreign exchange gains
+reduced earnings by approximately $50 million between periods.
+Upstream results excluding special items and foreign exchange increased approximately $850 million between
+quarters, primarily reflecting higher crude realizations, higher volumes, and lower taxes.
+Downstream earnings excluding special items and foreign exchange were lower by $765 million. This outcome
+was primarily driven by decreased volumes and increased operating expense associated with the Richmond
+refinery turnaround, lower worldwide margins, and an unfavorable swing in inventory timing effects.
+The variance in the Other segment is largely driven by adverse tax effects and corporate charges. These impacts
+are non-ratable and tend to fluctuate from quarter to quarter.
+And now I'll turn it back to John.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+Okay, thanks, Pat.
+Turning to slide 9, 2016 capital spending was $22.4 billion. That's approximately $4 billion less than our original
+budget and more than $11 billion lower than last year. Cash C&E was $18.7 billion. The reductions were mainly
+from finishing our major projects under construction, pacing and high-grading future investment, and realizing
+efficiency gains and supplier cost reductions.
+In December we announced a total capital and exploratory budget for 2017 of $19.8 billion, which is right in the
+middle of our $17 billion to $22 billion guidance range for the period out to 2020. Cash capital and exploratory
+expenditures, which exclude affiliate spend, are expected to be $15.1 billion. 70% of our expenditures in 2017 will
+generate cash flow within two years, reducing cash flow cycle time and financial risk.
+2016 operating expense was $25 billion, better than we had most recently guided and more than $2.5 billion less
+than last year. We're sizing the organization to fit the work we anticipate. Our employee workforce is down 9,500
+since the end of 2014. We've improved work processes and have negotiated better rates from contractors and
+vendors. Upstream operating expenses excluding fuel are down nearly $3 per barrel since 2014. Most significant
+workforce reductions are behind us, but our focus on improving efficiencies in all aspects of the business
+continue, and we expect further progress on OpEx in 2017 and beyond.
+Slide 10 shows the sources of changes in production between 2015 and 2016. 2016 net production was 2.6
+million barrels per day. Growth continues from completing and ramping up major capital projects. Our short -cycle
+shale and base business work was excellent, particularly in light of significant reductions in spending. We limited
+declines in mature fields by improvements in reliability and drilling work and an effective workover program.
+Production was impacted by the ongoing shut-in of the Partitioned Zone, security issues in Nigeria, and Gulf of
+Mexico asset sales.
+
+Looking at the fourth quarter bar, you see that the fourth quarter was strong and production growth is
+accelerating. As we start the year, two trains at Gorgon are running near capacity, Angola LNG is operating well,
+and the successful Agbami and TCO maintenance shutdowns are behind us.
+We expect production growth this year of 4% to 9% at $50 per barrel before asset sales. The uncertainty reflects
+variables such as the speed of major capital project ramp-ups, external events such as the timing of the
+Partitioned Zone restart, and our ultimate base decline rates. Growth comes from a number of areas. First, we
+expect to see full-year production from projects started up in 2016, Gorgon Train 1 and Train 2, Chuandongbei,
+Angola LNG, Alder, and Bangka. But we also expect to see partial year contributions from projects starting up in
+2017, Gorgon Train 3, Wheatstone, and Mafumeira Sul, for example.
+Shale and tight production, headlined by the Permian, will also show growth as we take advantage of our valuable
+acreage. Base declines along with full year 2017 impacts of sales consummated in 2016 will both reduce
+production. The impact of 2017 asset sales on the timing of the close of the individual transaction is one variable.
+Our current estimate is a reduction of 50,000 to 100,000 barrels a day.
+Turning to slide 12, the chart on the left side shows our $5 billion to $10 billion guidance range for asset sale
+proceeds for 2016 and 2017. In 2016 we made good progress, with $2.8 billion in proceeds, as we sold assets for
+value that were not essential to delivering on strategy, didn't compete for capital with our current opportunity set,
+and were worth more to others than to us. Additional opportunities are in progress, and many will close in 2017.
+We expect proceeds close to the top of the guidance range.
+With new assets coming online and the benefits of portfolio actions, we expect to increase cash margins. The
+chart on the right shows a doubling of production in the more than $25 per barrel category and a reduction in lowmargin barrels.
+Despite the sharp reduction in capital spending, we had a strong reserve replacement year, exceeding 100%
+before asset sales for the 1 and 5-year periods. We saw significant adds from the final investment decision on
+TCO's future growth project. Additionally, there were reserves added from improved reservoir characterization in
+several areas and strong well performance in shale and tight and various other locations. Lower commodity prices
+benefited entitlement volumes from profit sharing and variable royalty contracts. This was partially offset by lower
+economic produceability in a few assets.
+Asset sales resulted in a RRR [Reserve Replacement Ratio] reserve replacement rate slightly below 100%.
+Consistent with the expectation of 2017 asset sales impacting production, we also expect an impact on 2017
+reserves from these sales.
+Let's talk now about some of the major activities, starting with Gorgon. Gorgon currently is stable with gross
+output of over 200,000 barrels a day and 130 million cubic feet of domestic gas output. A total of 39 cargos have
+been shipped, 10 since the beginning of the year. Train 1 ramp-up was below expectations as we worked through
+startup issues we've discussed previously. All learnings from Train 1 were applied to Train 2, and consequently
+Train 2 ramped up to over 90% of capacity within a week and continues to exceed expectations. Train 3 is also
+expected to benefit from these learnings. Construction is complete and we're well into startup and commissioning.
+We expect first LNG early in the second quarter of this year.
+At Wheatstone, our outlook for first LNG remains mid-2017. All modules for Train 1 and Train 2 are on their
+foundations, and the site is under permanent power. Ongoing hookup and commissioning of the offshore platform
+is the critical path activity. We're leveraging our experience from Gorgon and incorporating earnings into our
+ongoing activities. We expect Train 2 to start up six to eight months following Train 1.
+Turning to the Permian, we're making excellent progress. Last year, we lowered unit development costs by 20%
+and lowered unit operating costs by 35% compared to 2015. We're improving recoveries, and our results are
+validating expectations around improvements in type curves. We're currently running 10 company-operated rigs,
+and we're adding a new rig about every eight weeks. The story keeps getting better. We'll update this chart and
+provide much more information about our Permian operations at our Analyst Day in March.
+That concludes our prepared remarks. We're now ready to take some questions. Keep in mind we actually have a
+very full queue, so please try to limit yourself to one question and one follow-up if necessary, and we'll do our best
+to get all of your questions answered. Thanks. Jonathan, please open the lines for questions.
+................................................................................................................................................................................................................................
+
+QUESTION AND ANSWER SECTION
+Operator: Certainly. Thank you. [Operator Instructions] Our first question comes from the line of Phil Gresh from
+JPMorgan, your question, please.
+................................................................................................................................................................................................................................
+
+Phil M. Gresh
+Analyst, JPMorgan Securities LLC
+
+Q
+
+Hi. Good morning.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Hey, Phil.
+................................................................................................................................................................................................................................
+
+Frank Mount
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Hi, Phil.
+................................................................................................................................................................................................................................
+
+Phil M. Gresh
+
+Analyst, JPMorgan Securities LLC
+
+Q
+
+So I just want to start on the 2017 production guidance. If I look at that guidance maybe on an absolute volume
+basis at the midpoint, maybe around 2.75 million barrels a day. And I know it's little bit stale, but a couple years
+ago you had talked had about a 2.9 million to 3.0 million type of range, and obviously a lot has changed from then
+to now. But I was hoping maybe you could help bridge some of those moving pieces between project timing,
+asset sales, P&C effects. I'm really just trying to think through ultimately after 2017 how much additional uplift to
+volumes there would be from projects.
+................................................................................................................................................................................................................................
+
+John S. Watson
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+It's a good question. If you go back to that time, we did put out an estimate of 2.9 million to 3. 0 million barrel per
+day range, and actually the results we're showing you now are very consistent with that with a couple of
+exceptions. The first and obvious one is the Partitioned Zone. We were producing – we expected we'd be back up
+and operating, and that's about 70,000 barrels a day, so that's a clear delta. The second is the effects of asset
+sales that we didn't anticipate at that time. If you add up what's already closed, you can get another 70,000
+barrels a day pretty quickly. And so you put those two together, and that's 150,000 barrels a day, and that really
+explains it.
+Now as you point out, there are some other ups and downs, notably some delays in capital projects, but the flip
+side of that is we got benefits. The shale and tight volume is growing. Jack/St. Malo has performed better than we
+expected. We have a little bit of benefit from price effects, but those about offset. So the two big items are really
+the Partitioned Zone and asset sales, and you get right back into the zone we talked about.
+................................................................................................................................................................................................................................
+
+Phil M. Gresh
+Analyst, JPMorgan Securities LLC
+
+Q
+
+Okay, got it. That's very helpful. And then the second question would just be on the longer-term CapEx budget.
+Looking at the bars that you gave for 2017, there's still $2 billion in there for Gorgon and Wheatstone, and then
+another $2 billion-plus it looks like just looking at the bars for projects that are outside of Tengiz. So I guess I was
+just wondering how you're thinking about that $17 billion to $22 billion range, especially as we look at 2018 a nd
+you potentially have a couple billion still rolling off. Are there a lot of projects in the queue that you think work in
+the mid-$50s, or how are you thinking about that now?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Yeah, first, if I go back a year and you told me we'd be able to get our spending – do all the work we did this year
+and have spending at $22.4 billion, I wouldn't have believed it. So we've made remarkable progress in bringing
+our costs down.
+I had my drilling guy in the other day and he gave me an example. The wells we drilled in 2016, if we had had the
+productivity we had in 2014, we would have spent $1 billion more. So the drilling efficiencies that we had put in
+place – and that was just in the deepwater. So the efficiencies we've put in place have allowed us to bring down
+costs. So the trend of spend is down. And as you point out, we have some major capital projects that are being
+completed.
+If we're still in the $50 to $55 world, you'll see us tracking at the bottom end of that range. Now, we have – we're
+showing a range out to 2020. That's a 4-year period. And so when you think out over that time period, obviously a
+lot of things can change. Notably, I would expect that we would see an increase in unconventional spending.
+We've talked about ramping up the Permian, and I think that will be the case. We're budgeting about $2 billion this
+year, but you could easily see another $1 billion there.
+We have very little activity in the Marcellus now. We have gotten very efficient there, but we would expect better
+market conditions and offtake capability there. We've made good progress in the Duvernay, Argentina. So just in
+the shale and tight area, you could see some increases. But again, that's short -cycle high-return activity.
+Now we do have some opportunities in the portfolio that if we continue to make good progress on concepts and
+delineation drilling, things like Anchor and Tigris, and we've highlighted Rosebank and a few others. So we have a
+good queue of projects, but we need to make sure that those have the right economics associated with them. But
+all of that can comfortably fit in the range that we've talked about. But I'll just say that if we're at $50 to $55, you
+should expect spending to go down next year.
+................................................................................................................................................................................................................................
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Phil.
+................................................................................................................................................................................................................................
+
+Phil M. Gresh
+
+Q
+
+Analyst, JPMorgan Securities LLC
+
+Thanks, John.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Okay, next?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Sure, thank you.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Doug Leggate from Bank of America Merrill
+Lynch, your question, please.
+................................................................................................................................................................................................................................
+
+Doug Leggate
+
+Analyst, Bank of America / Merrill Lynch
+
+Q
+
+Thanks. Good morning, everybody.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Good morning.
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Hi, Doug.
+................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, Bank of America / Merrill Lynch
+
+Q
+
+Good morning. You've normally talked about the base business and the tight unconventional business in the
+same breath as one offsetting the declines in the other. So I guess my first question is in the context of decline
+rates and maintenance spending. Your budget this year puts that number at about $8.5 billion. Is that how we
+should interpret Chevron's definition of maintenance CapEx on a go-forward basis, at least for the portfolio as it
+stands today?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+I think that's right, if I understand the question. We've been trying to isolate the shale from the other base
+business activity just because it's such a high profile activity. The fundamental nature of it has a lot of similarities
+with base business in the sense that it's relatively short-cycle activity and it has to compete for capital with, for
+example, infill drilling in Bakersfield or Thailand or places like that. So I think that's right way to look at it. And
+that's why we've talked about declines in the 2% to 3% range. And despite the big drop in capital, we were able to
+maintain that sort of a decline rate. But I think that's the right way to look at it.
+And I think we'll generally separate the shale from the base business so that you have transparency in that way
+because you're right. When you put them both together, if you lump them together, it will mask what's going on in
+the underlying conventional business. So if I understand your question right, I think the answer is yes.
+................................................................................................................................................................................................................................
+
+Doug Leggate
+Analyst, Bank of America / Merrill Lynch
+
+Q
+
+Okay, I appreciate that, and that's what I was trying to get at. I guess my follow-up is also on the Permian. I
+realize you probably want to hold some details for the Analyst Day. But just to frame this, so Exxon has d one the
+[ph] Bass Co (23:28) deal. They're talking about going to 15 rigs minus having [indiscernible] (23:33) a fraction of
+that number today. You're talking about adding a rig every eight weeks, stepping up your spending and so on.
+Can you give us some idea, John? What's the strategic thinking there? Is there a real pivot away from large
+capital projects, at least in the short term, to work the Permian? And if that's the case, how big a piece of the
+portfolio would you like to see the Permian ultimately represent, given things like dividend commitments and other
+portfolio decisions that you have? And I'll leave it there, thanks.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+The chart on slide 15 we haven't updated since the last time we talked, but we will update it the next time that we
+see you. And if my foreshadowing was any good, you know that it's likely to improve. So we have taken a different
+approach than some on the Permian. We've taken the approach of trying to delineate, understand what we have,
+and then put together plans that consider offtake, consider infrastructure, and really get lined out so that we can
+steadily grow over the period consistent with generating good returns in this business.
+Now we've told you we've been able to bring our costs down, but we will continue to ramp up. We talked about
+over next couple years getting up to 20 rigs, but we're not limited per se. We're only limited by the good planning
+that we can do, the planning around infrastructure, around rig contracts, the quality of crews, frac spreads, and
+other aspects of this so that we can move forward rapidly, and we'll continue to do that.
+It's kind of interesting. We hear a lot about how rapidly others are doing, but the facts are we only had five nonoperated rigs running at the end of the year. And we've been steadily growing during the year, and so there's a lot
+of up and down that other operators put in place. We want to do – as we add rigs, we want those rigs to be in
+service to us going forward. We want a steady ramp up and not be whipsawing our organization around. And so
+you'll see us steadily growing – and I've told my group in the Permian that they are not capital limited. They just
+need to be sure that they are disciplined about their spend, that we get good returns on it, and that we properly
+evaluate the acreage.
+Just one anecdote for you getting at the efficiency argument that might be of interest, we added to our resource
+base 500 million barrels this year in the Permian without spending any money. And we did that by watching what
+offset operators have done. So obviously, these are continuous plays. We were able – so we have been able to
+learn – by being a little bit behind others, we have been able to learn, and that's helped us prioritize the spend that
+we're doing. So we will prosecute our agenda. You'll see the potential and growth profile rise. In an overall sense,
+it wouldn't surprise me to see our unconventional activity be 25% of our production by the middle of the next
+decade. So this is a really solid asset class, but it's one that's going be driven by our ability to generate good
+returns and fit the proper role in the portfolio.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Doug.
+................................................................................................................................................................................................................................
+
+Doug Leggate
+
+Q
+
+Analyst, Bank of America / Merrill Lynch
+
+I appreciate the answer again. Thanks a lot.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Sure.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Neil Mehta from Goldman Sachs, your question,
+please.
+................................................................................................................................................................................................................................
+
+Neil Mehta
+
+Q
+
+Analyst, Goldman Sachs & Co.
+
+Good morning, John, Pat, Frank.
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+A
+
+Chief Financial Officer & Vice President, Chevron Corp.
+
+Good morning.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Hey, Neil.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Good morning.
+................................................................................................................................................................................................................................
+
+Neil Mehta
+
+Q
+
+Analyst, Goldman Sachs & Co.
+
+There has been some investor questions about Gorgon and Wheatstone timing, especially with some of the
+choppiness around Train 1 in the fourth quarter. But it sounds like your message is you think everything is
+tracking well here. Can you just give us an up-to-date on what the confidence level is around construction
+execution at the assets and what the greatest risk to timing at Gorgon and Wheatstone ramp is?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Sure. Well, at Gorgon, it's done I guess would be the way I would describe. The construction is completed on
+Train 3. Train 1 and 2 are operating near capacity. In fact, the only remaining thing to do is to bring on the Gorgon
+offshore field. We've been running on the Jansz field. And so we'll fill out those plants 100% when the Gorgon
+field comes online shortly. So in terms of construction activity at Gorgon, all is good.
+
+Now we do have to have an effective startup and commissioning process, and we had some bumps on Train 1.
+We've talked about that before. But I've been really pleased that the organization has taken all that in and
+addressed anything from those learnings on Train 2 and on Train 3. It's obviously been very effective on Train 2,
+and I've got no reason to believe it won't be effective on Train 3. But a strong startup and commissioning is really
+key for Gorgon, but my subtlety in my comments was we expect LNG early in the second quarter. So I think the
+story at Gorgon is a good one.
+At Wheatstone, we're making good progress certainly at the plant, and the comment I made is the critical path
+activity is the offshore platform. Now the well work, the subsea flow lines, pipelines, umbilicals, all that is
+complete. Train 1 construction is nearing completion and commissioning is well underway. And so the critical path
+activity is in some of the platform piping systems that are taking a little longer to complete and be commissioned.
+We've supplemented our workforce on the platform, but it hasn't changed our expectation of a midyear start date.
+It's just the ongoing activity and ebb and flow in the construction work. But the plan is still for a midyear startup of
+that plant, but the message I'm trying give you is it's pretty good.
+And as activity winds down, you can really focus on the work phases that are still open, high-grading crews. And
+so I expect you'll continue to see a good story coming out of this. But it's obviously a little bit earlier in the process,
+so there's more work to do than Gorgon, but it's also progressing well.
+................................................................................................................................................................................................................................
+
+Neil Mehta
+
+Analyst, Goldman Sachs & Co.
+
+Q
+
+And shifting to policy, there are obviously a lot of changes under this new administration. One of the things that's
+caught a lot of investor attention is the border tax adjustment. John, what's your view on whether that's good
+policy and whether that has a meaningful impact on global oil prices and the refining business if it goes through?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Well, Neil, I've seen what you've published and others, and I think you've assessed it reasonably well. Let me
+make a couple of comments. First, in an overall sense, I've been very pleased with the agenda that the Trump
+administration has. We have seen an avalanche of regulation over the last decade, and putting a much more
+balanced cost/benefit framework in place to assess the value of those regulations , freeing up infrastructure
+pipelines, all of that is quite positive for our business, for the country, job creation, and a lot of things. So that is
+very much a positive.
+And we all know that our tax system is not competitive. We want American companies to be able to compete, and
+so there's a lot of work being done to try to bring down corporate rates so that we can compete both at home and
+abroad for capital. And of course, the administration has a focus on bringing jobs and capital back to the U.S., and
+lower rates will help that. In my view, they're looking for pay -fors. They're looking for ways to make those lower
+rates happen. And so they're looking at a variety of different concepts. And the truth is there are a lot of different
+ideas being floated right now. And I think they're looking for input, and we'll continue to provide it.
+President Trump has indicated that the border adjustment concept is complex, and I would agree with that. And
+so I think we need to take a close look at perhaps the consequences of that, both some that could be positive and
+the unintended consequences in terms of impact on consumers, exchange rates, and knock -on effects on the
+global economy. And I have no doubt that the administration will do a good job of doing that and wi ll settle on the
+right kind of tax reform at the end of the day. But I think we need to have a little patience for the different ideas
+that are being put out there, and hopefully we'll get to the right outcome.
+................................................................................................................................................................................................................................
+Neil Mehta
+
+Q
+
+Analyst, Goldman Sachs & Co.
+
+Thanks, John.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Neil.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Thank you.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Paul Sankey from Wolfe Research, your
+question, please.
+................................................................................................................................................................................................................................
+
+Paul Sankey
+
+Analyst, Wolfe Research LLC
+
+Q
+
+Good morning, everyone. John, could you talk about OPEC this year and the impacts that you anticipate? My
+understanding was that the Partitioned Neutral Zone would be part of the cuts, but also I'd be interested if you had
+observations on some of your other areas of exposure. And a couple of the more obscure ones would be
+obviously Venezuela and whether or not – exactly where you're at in Nigeria right now. Thank you.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Sure. The short answer is I don't expect a significant impact from any of these things on our operation. Certainly
+in Venezuela and Nigeria, indications are they've been operating at lower rates, and we've had no indication that
+we're going to be impacted.
+When you look at the Partitioned Zone and you look at the public comments that have been made by Kuwait, they
+have a strong desire to get the onshore Partitioned Zone where the Saudis and the Kuwaitis are partners, and we
+represent the Kingdom of Saudi Arabia. They have a strong desire to get that online, and they've indicated that it
+won't have an impact on quotas. So to me, the issues are between the two governments. And if they can resolve
+those, we'll be able to bring it back up. And I think both countries have flexibility in terms of which fields they
+produce and where that volume will come from.
+We think those are high-margin barrels when they come online. In fact, if you look at the work – during this time
+when we've been down there, our people have taken the time to dramatically reduce costs and they've taken a
+close look at the reservoir. And we've got a queue of base business activity that is very high return. It will compete
+with the best we've got in the world and it's very economic. So I think the Kuwaitis understand that, and I think
+there's a desire to get it back on production. But look, these are issues between government and I'm not going to
+give you a forecast of when that might be resolved.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Paul.
+................................................................................................................................................................................................................................
+
+Q
+
+But on balance, you're expecting little impact from OPEC. My follow-up is on decline rates, John. You've talked in
+the past a lot about them. Have you been surprised by how little global oil supplies declined post -2014? And do
+you anticipate an acceleration in declines? Thank you.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+It's a really good question, Paul. I think the short answer is I have been surprised at how resilient production has
+been in many locations around the world. Some of that is we just keep getting better. If you look at, for example,
+some of the deepwater developments that we and others have, we've been on plateau at Agbami for a long time.
+We've been on plateau in some of our Gulf of Mexico projects, and I think we and others are getting very good at
+extending plateaus, and technology only goes in one direction. We hear about it in the context of the shales, but
+the same thing is true in other conventional activities.
+So I think the short answer is I have been a little surprised. And with the benefit, for example, in Russia from
+declining exchange rates and things of that sort, it's made some of that base activity more competitive. Ultimately,
+however, you do need new major capital projects to fill the gap if you look out a few years. And we're just not
+seeing FIDs being taken on significant new greenfield opportunities. And so at some point, we do expect to see,
+at least in the conventional area, some declines in production. And there's a limit to this, and it has surprised us
+that it's held up as well as it has. But at some point, you're going to need new activity.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thank you, Paul.
+................................................................................................................................................................................................................................
+
+Paul Sankey
+Analyst, Wolfe Research LLC
+
+Q
+
+Thank you.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Thanks, Paul.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Jason Gammel from Jefferies, your question,
+please.
+................................................................................................................................................................................................................................
+
+Jason Gammel
+Analyst, Jefferies International Ltd.
+
+Q
+
+Thanks and hi, everyone. John, I wanted to come back to the comment you made about 70% of capital spend
+having an effect on production within two years. Now I assume part of that is still spending on major capital
+projects that start in that time. But nevertheless, it does illustrate how much you're shifting towards short -cycle
+spend. And really the question is, how has this changed how you manage the risk profile of the company on a
+move-forward basis? I'm thinking really about how you view uncertainty of earnings from the production profile by
+not having the big step changes necessarily being as impactful and how you think about the balance sheet
+without having those big capital commitments.
+
+A
+
+I think it's true. There are different kinds of risk when you think about a deepwater development versus some of
+the base business activity or some of the shale developments. And so we're cognizant of that, and I think that's
+driven some of the comments you've heard me and Pat make about how we look at the balance sheet. During the
+period of time in the early part of this decade, I was very clear going back 5 years-plus. We were heading into a
+period where we had significant major capital projects. We were going to keep some capacity on the balance
+sheet, and so we had more cash than debt on the balance sheet because we knew we were going be drawing on
+the balance sheet. Now we didn't expect to see the drop in prices as big as we saw, but it proved to be pretty wise
+to keep that capacity on the balance sheet.
+Now we're in a different period. We do have the Tengiz project, but I don't see the same – anything like a Gorgon,
+Wheatstone, or Tengiz that's in our future. We could see a deepwater development, but none of these are of that
+same magnitude. And with the drop in interest rates that we've seen during that period, debt is a very effective
+form of financing. And so we want to keep some capacity on the balance sheet to withstand the ups and downs
+and be in a good position to take advantage of opportunities. But I think you'll see us carrying more debt on the
+balance sheet than we have in the past. We've talked in the 20% to 25% debt range, and we think that balances
+keeping some capacity and taking advantage of the low cost of debt. The key for us is having some financial
+flexibility around our capital spending that really reduces the execution risk and means you don't have to keep as
+much capacity on the balance sheet.
+................................................................................................................................................................................................................................
+
+Frank Mount
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Jason.
+................................................................................................................................................................................................................................
+
+Jason Gammel
+
+Analyst, Jefferies International Ltd.
+
+Q
+
+That's helpful. Could I ask one follow-up, please?
+................................................................................................................................................................................................................................
+
+John S. Watson
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Sure.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Sure.
+................................................................................................................................................................................................................................
+
+Jason Gammel
+Analyst, Jefferies International Ltd.
+
+Q
+
+Okay. I just wanted to – I had two quick questions about what's included in the production guidance. If I look at the
+chart on page 10, if I take the net of the base decline and the base investment, the decline, it implies a mitigated
+decline rate of 1%. Could you just tell me what factors into the guidance range, and then also how the Partitioned
+Zone factors into the 4% to 9% guidance range?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+Sure. I think if I understand the question, the base declines that we show by that red bar are in the 2% to 3%
+range. And we do have a range. The bottom of the production range in our estimate that we've put forward
+assumes that we get nothing from the Partitioned Zone this year. The top of the range assumed it starts up about
+midyear or so. So those are the two variables. And that's why we put the fuzzy bar and some brackets around it
+because I just can't handicap that perfectly. But the base decline is in that 2% to 3% range.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Jason.
+................................................................................................................................................................................................................................
+
+Jason Gammel
+
+Q
+
+Analyst, Jefferies International Ltd.
+
+That's very clear, thanks.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Paul Cheng from Barclays, your question,
+please.
+................................................................................................................................................................................................................................
+
+Paul Cheng
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Hey, guys. Good morning.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Good morning, Paul.
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Good morning Paul.
+................................................................................................................................................................................................................................
+
+Paul Cheng
+
+Analyst, Barclays Capital, Inc.
+
+Q
+
+John, if we look, the industry seems like it already bottomed, and the company is in good shape. Projects are
+coming on stream and you should reach [indiscernible] (40:25). It depends on the right project. It should be cash
+flow positive.
+So using this opportunity that you already resized your company also for this currently, the lower oil price, can we
+take a step back and maybe you can tell us that how next 5 to 10 years, how you want to position. What kind of
+roadmap do you have in mind? How do you want to differentiate yourself with your peers and the other
+international major corporations? Is it that everyone is now saying that there's no differentiation here. We're in a
+commodity business, and the big major IOC is really in a disadvantage on the business model. So can you help
+us to wrap it all together now that you no longer – not you necessarily, but for most other people that are no
+longer in the mode of survival, can we look a little bit further out now? Can you afford to look at your end and give
+us what is the roadmap?
+................................................................................................................................................................................................................................
+
+John S. Watson
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+Sure. Paul, look, it won't surprise you. I don't agree with some of those assessments. I think we're in a terrific
+position. And some of the TSR data that we show, even looking at independents over a period of time, we look
+pretty good. And I would tell you that we are differentiated from some of our competitors. Let me see if I can
+describe why.
+We are an integrated oil and gas company, and we have shown a bias toward the upstream portfolio. We think
+over time we can earn very strong returns and that we have competitive technology and assets to do just that. We
+do have a strong downstream in the chemical business. It earns good returns. It has complementary activity that
+add value to some of our resources around the world as well as a lot of very talented people. So we will have a
+downstream and chemical business. But certainly we will be predominantly an upstream company. And that in
+and of itself is a bit of a difference from some of our competitors.
+Within the upstream, I think we also differentiate ourselves by the quality of the assets that we have. There are
+risks to being a company that's only in one particular asset play, regardless of how good that play is. We've got a
+diverse portfolio. For example, if you look at our position in Australia and the resource base we have there, we'll
+have five LNG trains plus a position in a sixth that's – or a third project down there on the Northwest Shelf. We
+have a very advantaged manufacturing position and a lot of resource that can feed those facilities over time. So
+Australia is a terrific asset. Tengiz we've talked about. That distinguishes us from many of our competitors. And
+the Permian is of course the emerging asset, and we've got a terrific position there that I think is the envy of a lot
+of others. And you will see us – you're seeing us and you'll see us in the future really get after that busines s.
+And I haven't even talked about the talent we have and the asset position we've got in the deepwater and
+elsewhere. So we have a very good portfolio that I wouldn't trade with anybody. And I think over time, the diversity
+in that portfolio will show benefits because any one asset has some risk associated with it from an industry
+perspective, and I think we've got a position that's second to none.
+Now our approach going forward is to – we know we have to improve returns because in a lower price
+environment, the financial returns haven't been what you or I would want them to be. But if you look at the cost
+trends and the efficiency trends that we've got and where we're putting our capital going forward as the capital
+base rolls over, I think we've got some very strong assets so that going forward, the assets that we've got, the
+investments that we'll be able to make will earn good returns.
+So I think all of those things distinguish us in what is from a top line point of view a difficult time that we're
+emerging from and one that will not likely be the same $100 environment that we saw a few years ago. So maybe
+that's a long answer.
+................................................................................................................................................................................................................................
+
+Paul Cheng
+
+Analyst, Barclays Capital, Inc.
+
+Q
+
+That's really great, just a quick second one. Venezuela, any insight to how bad is the industry – oil industry in the
+country at this point? And do you think that any systematic risk is likely, or if not, then do you think that the current
+production capacity actually will be able to hold relatively flat, or are you going to conti nue to see pretty steep
+declines for the year?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+For the most part, I can only comment on our operations, and we've been able to navigate pretty well down there
+and have good relationships in Venezuela that we've been able to maintain. And we have a structure in place that
+is enabling us to continue work, enabling us to continue to invest, and enabling – importantly, to enable the
+contractors, the tax authorities, and ourselves to get paid. And so that seems to be working very well.
+What I'd point out is despite obviously the concerns about what's happening in the country right now and some of
+the difficulties they're encountering, they have a huge resource base, and Chevron is well respect ed there. And I
+think there's an opportunity for us to play a very constructive role in Venezuela going forward, certainly
+maintaining the existing assets that we have, and potentially as time goes forward participating in other
+opportunities there. But it's unquestionably a difficult time. Thus far, we've been able to manage it, working well
+with the government.
+................................................................................................................................................................................................................................
+
+Paul Cheng
+
+Analyst, Barclays Capital, Inc.
+
+Q
+
+Thanks.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Paul.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Ed Westlake from Credit Suisse, your question,
+please.
+................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Analyst, Credit Suisse Securities (USA) LLC
+
+Q
+
+Good morning, everyone. Thank you for the margin improvement chart into 2017. That's very helpful. Obviously,
+as you shift to short-cycle and Permian, you probably also get possibly deflation, some benefits on the capital
+intensity side as well, which should lead, as you pointed out, to returns and free cash flow. You spoke about debt
+balances, but what about growth, say, over the next decade versus dividends and buybacks, any philosophical
+changes there?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+There aren't changes philosophically, but let me make a couple comments because I am encouraged. You
+touched on cash flow. I am very encouraged by what I see going forward on cash flow. If you look at 2016, cash
+flow from operations in the $13 billion range, but it's easy to see big chunks of improvement in cash flow going
+forward.
+Capital spending, cash C&E was $18.7 billion last year. It's $15.1 billion. That's $3.5 billion. Oil averaged $44 a
+barrel. If it averages $55, our sensitivity is – that's another $3.5 billion. We made a capital contribution to TCO,
+technically a loan for $2 billion last year and didn't receive a dividend of consequence last year. So you could see
+another $3 billion swing net out of TCO, and that doesn't even count Gorgon and Wheatstone. The fourth quarter
+had a once in five-year shutdown in the Richmond refinery that probably cost us $300 million. We had Agbami
+down for once in eight years. That's a very profitable investment. We had record production at TCO last year
+despite one of the biggest shutdowns they've ever had that was done successfully. All these things are portending
+strong cash flow with obviously the underlying risks that have to be considered in price.
+But certainly the message going forward is good. So the prospect for us to improve earnings, improve free cash
+flow, and increase the dividends are good. And the priorities that you refer to really haven't changed. We want to
+increase the dividend as the pattern of earnings and cash flow permit. We need to continue to invest in the
+highest return opportunities, and we are definitely high-grading that and not funding everything that meets
+minimum hurdle rates.
+And we need to do that and manage the balance sheet at the same time. And it's something that Pat works very
+hard on, and dividend policy ultimately is a purview of the board. In speaking for them, we just reviewed what our
+plans are going forward. I think we have very good support from the full board on this subject. I think the outlook is
+good. And I'll tell you, four years ago I wouldn't have thought that would be the case at moderate prices. So I think
+it's a good story, and we're going to continue in that direction.
+................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Analyst, Credit Suisse Securities (USA) LLC
+
+Q
+
+And then maybe a follow-up on the question on decline. You spoke more globally. But as you think about the
+Chevron assets and the ability to keep the decline rate at what has been a relatively low level over the past year,
+how long do you think that you can keep that up? The Tengiz decline rate when that was announced did surprise
+a few folks, and so I'm just wondering if there's anything that we should be concerned about as we forecast out
+over the next several years.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+There's always a requirement to reinvest in the business. In the case of Tengiz, it's a technically complex field.
+And so there was needed pressure management equipment, and we have to make those investments. That's very
+different from, say, Bakersfield, California, where there's infill drilling that you need to do. But it's a pretty well
+understood phenomenon; if you invest a certain amount of capital, you can manage the declines.
+So I don't have a – the real – when we were – early last year when we were down around $30 a barrel and we
+weren't investing in the business and really we were cutting back activity in lots of areas, there was the potential
+for declines to accelerate because we just weren't drilling wells, and it was a very difficult time for everyone in the
+industry. But if we get back to a more normal level of activity, you can see 2% to 4% declines that I think would be
+normal. And any individual asset ultimately matures, but I don't think I can give you a lot more general guidance
+than that.
+................................................................................................................................................................................................................................
+
+Edward George Westlake
+
+Analyst, Credit Suisse Securities (USA) LLC
+
+Q
+
+Okay, thank you.
+................................................................................................................................................................................................................................
+
+Frank Mount
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Thanks, Ed.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Thank you.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Evan Calio from Morgan Stanley, your question,
+please.
+
+Q
+
+Hi. Good morning. Hey, John, you should tweet your U.S. policy and BAT response later. My question is on – you
+mentioned the Permian story keeps getting better with an ambitious 25% production potential in the middle of next
+decade. As much as border tax, I think investors remain focused on service cost inflation here in the U.S. So any
+color or outlook there, and how much inflation would it take to trigger capital reallocation away from the Delaware
+in your plan? Or how do you see offsets there as they maybe relate to continuing improvement in well
+performance and otherwise?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Yeah, Evan. Boy, that's a topic that gets a lot of attention. And my view is I think if you look globally, there isn't a
+lot of pressure on the supply chain. I don't expect continuing reductions necessarily in market conditions, b ut there
+isn't a lot of upside pressure globally. In the Permian, activity has picked up. And going forward, we would expect
+to see some pressure. But if you look at the dramatic reductions in cost that we've been able to achieve, it's been
+mostly a function of efficiency measures that we think are sustainable.
+One of the reasons I made the comments I did earlier about steady ramp up of rigs and having a consistent and
+well thought through plan is it will be important to have consistency in work crews, for example. Not all rigs are the
+same. So you want to have the best rigs. You want to have the best crews. You want to have consistent
+relationships with suppliers who want to be with you through thick and thin so that you can have and maintain that
+productivity that we've worked so hard to put in place. Our view is despite some potential for increases, we don't
+think it's going to make a material difference to us over the next couple years. And I'll confine it to that period, but
+we don't think it's going to make a big difference even if you should see some changes.
+I should also point out. In areas like the deepwater, our costs are going to come down because we've got
+deepwater rigs that are under contract at above-market rates. Now we're going to be releasing a couple of rigs
+here literally over the next couple weeks, so we'll be down to four deepwater rigs, but over time all these rigs
+come off contracts. And so when you think about the future of a deepwater development, costs are coming down,
+not going up. So there's some risk in isolated markets and areas, but I think overall we'll be able to manage it.
+................................................................................................................................................................................................................................
+
+Evan Calio
+
+Analyst, Morgan Stanley & Co. LLC
+
+Q
+
+Right. No, we can agree, Permian is a winner here. But my follow-up is on the Permian. And how big is your 2017
+program either in rig or well terms? I'm just trying to understand how much of the 2017 CapEx is being spent on
+infrastructure, pad development or otherwise that is reflected in 2018 and beyond. It would affect the model
+growth path.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+We ended the year at 15 rigs, 10 operated, 5 non-operated. And we're going to be ramping up over the course of
+this year. We expect up to 15 rigs operated by the end of the year, with more on the non-operated side. Our
+budget is about $2 billion there. And look, we expect to ramp up this year. In the $50 to $60 range, we're going to
+continue to ramp up. I just want to emphasize, we want to do it efficiently.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Evan.
+................................................................................................................................................................................................................................
+
+Evan Calio
+
+Q
+
+Analyst, Morgan Stanley & Co. LLC
+
+I appreciate it.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Thanks.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Alastair Syme from Citi, your question, please.
+................................................................................................................................................................................................................................
+
+Alastair R. Syme
+
+Q
+
+Analyst, Citigroup Global Markets Ltd.
+
+Hi, everyone. John, global LNG demand looked to have picked up a bit up last year. Can you comment on the
+state of the market? And are you seeing any positive signs from your customers towards a willingness to turn new
+contracts in the market?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Yes, it's been interesting and it's been maybe a little surprising to some. We have had good demand for LNG. We
+were able to sign a couple of contracts last year so that now at Gorgon and Wheatstone, we're 85%, maybe
+slightly more sold, which is right about where we want to be. And if you look at where spot prices have been, it's
+clear that there has been incremental cargos going into China and Japan. So it's been somewhat encouraging, I
+think. And if you look at some of the environmental objectives that are there, particularly throughout Asia, it's
+actually some encouraging signs.
+Now I temper that with the understanding that we've got projects that are coming online. But the long-term trend
+for LNG is LNG demand is good because it's competitive on price in many locations and it certainly has desirable
+environmental characteristics. And the security of that steady supply out of places like Australia, it remains in
+demand. So by 2025 or so, people are looking at demand increases that could be 65% or more, so it's a good
+story. I don't think we're yet at the place where you're going to see a lot of FIDs taken on new projects, but it's
+been encouraging to see a bump-up in prices.
+................................................................................................................................................................................................................................
+
+Alastair R. Syme
+
+Q
+
+Analyst, Citigroup Global Markets Ltd.
+
+As a follow-up, can I ask? Are you having any indicative marketing discussions around the Gorgon Train 4 or
+Kitimat or any of these projects?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+Well, we've had discussions over the years. I would say the most likely – you need to underpin a project like
+Kitimat with some type of contract and offtake, and I don't want to represent that we're very far along in those
+discussions. We've been looking at different concepts for an LNG plant, to be able to put one in more efficiently.
+We're proving up the resource side, which is encouraging, up in the Liard and Horn River area. And of course,
+we've done some work on pipeline, but I don't want to advertise that that's moving real quickly, primarily because
+of the economic side.
+When it comes to Gorgon, I think the first thing that you'll see at Gorgon is, first, we've got to get the three trains
+lined out and operating smoothly, and I think that will happen. Then you'll see the potential for debottlenecking
+and rerating of those. And I think those are probably in the queue – certainly in the queue ahead of a Train 4 or
+other trains at Wheatstone for that matter, where the same sort of principles will apply. We want to really get the
+most we can out of the gear and hardware that we have. And then contingent on market, we have a strong
+resource base there, we'll contemplate additional developments.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks, Alastair.
+................................................................................................................................................................................................................................
+
+Alastair R. Syme
+
+Q
+
+Analyst, Citigroup Global Markets Ltd.
+
+Thank you.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Roger Read from Wells Fargo.
+................................................................................................................................................................................................................................
+
+Roger D. Read
+
+Analyst, Wells Fargo Securit ies LLC
+
+Q
+
+Hello, good morning.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Good morning, Roger.
+................................................................................................................................................................................................................................
+
+Roger D. Read
+
+Analyst, Wells Fargo Securit ies LLC
+
+Q
+
+I guess a quick question for you, Pat. just to come back to the comment about the other expense in the quarter,
+you said it wasn't ratable. Was there anything in there that is likely to reverse next year or that you can think of
+that we should expect next year in terms of higher taxes or unusual payments?
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+Yeah, so I think it's a good question. I wouldn't say that there's anything necessarily that's going to reverse. An
+example that you might not have thought of, when we have as many retirements as we have had, for example,
+out of the U.S., John referenced over the current year we have 5,200 fewer employees this year, and over the last
+couple years it's about 9,500. For example, if you look at the U.S., we're slightly underfunded on our pension. And
+when those retirements occur, then of course you need to accelerate the recognition of that pension settlement
+cost. So that's an example of what's sitting there in that Corporate and Other sector. And since we anticipate
+moderating – certainly we're not going to have the same kind of employee reductions, that kind of thing will
+moderate going forward.
+
+There is a fair amount of lumpiness just on a tax sense where we continually every quarter go through and make
+assessments of our outstanding positions and make the appropriate bookings that are required there, and I can't
+say that there's any pattern to that necessarily. As you look forward into 2017 though, I would say the one thing
+that probably is going to continue to grow would be our interest expense because our debt balances are higher.
+So we have had a guidance range of $350 million to $400 million. It's probably towards the high end of that range.
+Probably you want to think in your mind around $400 million for each quarter for 2017.
+................................................................................................................................................................................................................................
+
+Roger D. Read
+
+Q
+
+Analyst, Wells Fargo Securities LLC
+
+Okay, great. Thanks. And then, John, maybe following up on Alastair's question but stepping out a little broader
+on FIDs – and I recognize at the Analyst Day there might be more detail coming then. But as you think about
+moving into the offshore, are costs down enough now? Are prices high enough and the returns attractive enough
+we should expect something in 2017, or is it still maybe more patience and waiting?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+I think most of the money that we'll be spending, in fact, the four deepwater rigs I mentioned will be doing
+development drilling. I think it's a bit early to think about FID on something on Anchor or Tigris. We're just
+completing a couple of appraisal wells, if you will. We need to evaluate those. We're looking at different concepts.
+For example, in the deepwater, there's technology that needs to be qualified there to be sure we can move them
+along. We've got industry groups that are working with vendors and suppliers to try to take costs out.
+So I would say it's a work in progress. There's plenty of work to do that I would call brownfield activity off of
+existing facilities, and so that's where most of the money will be spent. We've talked previously about Rosebank.
+I'll just tell you, Rosebank, Anchor, Tigris, all are potential FIDs, but we just have to get the cost – resource
+development balance right. And so I wouldn't think for any of those big ones we're likely to see an FID in 2017.
+................................................................................................................................................................................................................................
+
+Roger D. Read
+
+Q
+
+Analyst, Wells Fargo Securit ies LLC
+
+Great, thank you.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+A
+
+General Manager, Investor Relations, Chevron Corp.
+
+Thanks very much, Roger.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Guy Baber from Simmons & Company, your
+question, please.
+................................................................................................................................................................................................................................
+
+Guy Baber
+Analyst, Piper Jaffray & Co. (Broker)
+
+Q
+
+Good morning, everybody.
+................................................................................................................................................................................................................................
+
+Frank Mount
+
+General Manager, Investor Relations, Chevron Corp.
+
+A
+
+Good morning, Guy.
+
+Q
+
+I just wanted to follow up on the cash margin discussion a little bit more in slide 12 where you highlight that
+improvement. But you introduced a slide I believe around a year ago that highlighted cash margins in 2017 at
+about $20 a barrel at $60 a barrel oil. But since then, over the last year, I believe, your cost reductions have been
+more successful than anticipated. So lower-margin barrels have come out of the portfolio and the Permian is
+looking better. So can you just help us to understand how your view on those 2017 cash margins has maybe
+evolved over the last year or so? And is it reasonable for us to think that those margins could be higher at the
+same price?
+................................................................................................................................................................................................................................
+
+John S. Watson
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Yes, we put this chart in there to bait you a little bit and to whet your appetite, and I think we successfully did that.
+And I think all the things you point to are what we were trying to get at. I am going to push off a little bit though
+and tell you that Jay Johnson will talk more about what we see in cash margins in our portfolio with the cost
+improvements you're seeing in place, the portfolio actions that we're taking. We'll update you a little bit more at
+the SAM, guys. It's a really good question, and I think it's one of our strengths and one of our good stories. But I'll
+push off till the SAM in five weeks or so.
+................................................................................................................................................................................................................................
+
+Guy Baber
+
+Analyst, Piper Jaffray & Co. (Broker)
+
+Q
+
+Okay, understood. And then the follow-up for me, I thought your reserve additions and the replacement metrics
+were pretty favorable overall in light of the environment. Could you perhaps share with us the early view on F&D
+cost this year? And then given F&D can be lumpy in any year and the c ost deflation you've seen, your shift to
+prioritizing short-cycle, brownfield, do you have a view on maybe the new normal of F&D for your business going
+forward to 2020?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+I agree with you that the reserve replacement numbers are pretty good. I'll tell you, if I go back to the beginning of
+the year, we weren't expecting to be near 100%, so a lot of the work that the people in our business units did – we
+had them focused on shorter-cycle activity, and they did some excellent work in terms of characterizing
+reservoirs, seismic work, and others to enable us to appropriately book reserves. So you're right. We had a good
+year, and particularly given that we underspent dramatically relative to plan. So all that is good.
+F&D cost, if you think of the oil and gas disclosure, can be really lumpy, and you really have to look at an
+averaging over time. We've tended to give you development cost on a project -by-project basis. That doesn't
+always line up exactly with the proved reserve bookings that tend to be how things are viewed in the oil and gas
+disclosure. So I won't make comments on what will appear in oil and gas disclosure because that's a very specific
+set of calculations.
+But I think as we look forward to the Security Analyst Meeting we're going have in a few weeks, I think Jay will be
+able to talk a little bit more about progress in the Permian and what we're seeing in some of our – what we're
+doing on deepwater and other asset classes to give you a better idea of what development costs for any of those
+might be. So we'll give you more. It's a real good question, but we need more time to talk about it than I've got
+here today.
+................................................................................................................................................................................................................................
+
+Q
+
+Understood, thanks very much.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Thank you.
+................................................................................................................................................................................................................................
+
+Operator: Thank you. Our next question comes from the line of Anish Kapadia from TPH, your question, please.
+................................................................................................................................................................................................................................
+
+Anish Kapadia
+Analyst, Tudor, Pickering, Holt & Co. International LLP
+
+Q
+
+Thank you. My first question is – correct me if I'm wrong, but Chevron seems like it will be free cash flow positive
+in 2017 after dividends at around current oil prices. And then if you factor in disposals, certainly at the top e nd of
+the range you're going generate some significant excess cash flow. So I was wondering if you could talk about the
+priorities for the use of that excess cash flow this year.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Sure. The expectation is to be cash flow positive. Between all those things you mentioned, the ongoing
+improvements, finishing capital projects, lower spending, some asset sale proceeds, et cetera, we do expect to be
+cash flow positive. The priority on the dividend has been – we said we'll increase the dividend as the pattern of
+earnings and cash flow permits, so we'll take stock of it. The board takes stock of it. Every quarter we make a
+look, and we'll increase it as we find appropriate.
+I guess the one point I'd try to make is we're very cognizant that we've increased the dividend 29 years in a row,
+and I view that any increase in the dividend would be something I'd want to be able to sustain in perpetuity. So
+going in, that would be my expectation. So we always want to increase the dividend in a way that we can sustain
+over a period of time.
+So we've given you the guidance on capital. I don't expect us to exceed the capital numbers that we have
+certainly. We're cognizant of the dividend policy, and we're going to maintain a strong balance sheet. But I'm not
+going give you specific guidance on the dividend at this time other than to say I'm acutely aware of how much we
+all like dividends, and so is the board.
+................................................................................................................................................................................................................................
+
+Anish Kapadia
+
+Analyst, Tudor, Pickering, Holt & Co. International LLP
+
+Q
+
+Thank you. And a follow-up, going back to the Permian again, just to think of it bigger picture, I was just
+wondering. How important is it to you for the market to recognize the value of your Permian acreage? And if it is
+important, how do you get the market to recognize that? I'm thinking of it in the terms of you can easily bring value
+forward by running a lot more rigs on the acreage or disposing of some of your acreage. I suppose given your
+huge inventory, you might not be drilling for 20 – 30 years. How do you balance managing the asset versus
+showing the value to the market?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+First, it's very important for us to have value realized in a reasonable period of time. And there's no intention to
+warehouse acreage that we're not going get to. In fact, if you look at the asset disposals we have, we've been
+high-grading our portfolio very steadily. What I don't want to do is dispose of acreage prematurely before we've
+been able to assess it fully. If we had followed what some wanted us to do, we would have sold things a couple
+years ago that are now worth five times what they are. So we continue to assess it. If we find that there's acreage
+in the portfolio that we're not going get to for a long period of time, I am more than happy to monetize it. But that is
+not the way we think that we can realize the most value.
+And I'll just make a minor editorial comment. There are a lot of people with ulterior motives out there when it
+comes to disposal of assets. We are prosecuting our agenda. Our costs are competitive. We will utilize our
+acreage and expose that value to shareholders in a way that will give them confidence that value will be realized
+from it. And we recognize that we need to continue to give more information and provide that so that you have
+that confidence. So it's a very fair question and it's on us to do that. You'll see a lot more in March. I think we have
+time for one...
+................................................................................................................................................................................................................................
+
+Anish Kapadia
+
+Q
+
+Analyst, Tudor, Pickering, Holt & Co. International LLP
+
+Okay, very clear. Thank you.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+A
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+You bet. I think we have one more question.
+................................................................................................................................................................................................................................
+
+Operator: Certainly. Our final question comes from the line of Blake Fernandez from Howard Weil, your
+question, please.
+................................................................................................................................................................................................................................
+
+Blake Fernandez
+
+Analyst, Scotia Howard Weil
+
+Q
+
+Folks, good morning, thanks. Thanks for squeezing me in.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Good morning.
+................................................................................................................................................................................................................................
+
+Blake Fernandez
+
+Analyst, Scotia Howard Weil
+
+Q
+
+Back on the deepwater, Roger's question, Mad Dog was noticeably absent, and your partner and the operator has
+announced sanctioning there. Unless I missed it, I don't believe we've heard from Chevron. So can you talk about
+that and whether that's in the 2017 budget?
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+Yes, in a word, it is.
+................................................................................................................................................................................................................................
+
+Blake Fernandez
+Analyst, Scotia Howard Weil
+
+Q
+Okay.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Offic er, Chevron Corp.
+
+A
+
+We have a relatively small interest. We're not the operator, but yes, we work with the operator. We've been able
+to get cost down. They've taken FID. We have not yet taken FID, but I expect that we will.
+................................................................................................................................................................................................................................
+
+Blake Fernandez
+Analyst, Scotia Howard Weil
+
+Q
+
+Great, okay. And the second question, Pat, this may be for you, but you mentioned about $4 billion of deferred
+tax. And I assume that that begins to be a net positive once the U.S. upstream is net income positive, which it was
+this quarter. So is it fair to think that that's a cash contributor into next year, or this year I should say?
+................................................................................................................................................................................................................................
+
+Patricia E. Yarrington
+
+Chief Financial Officer & Vice President, Chevron Corp.
+
+A
+
+I think it will be a cash contributor, a partial cash contributor in 2017, yes. Becaus e we have the ability in the U.S.
+to take some of the tax losses and carry them back to earlier periods where we had taxable income. And
+depending upon what happens to prices and how we operate in the U.S., both upstream and downstream, then
+we will get a schedule of repayments over time.
+................................................................................................................................................................................................................................
+
+Blake Fernandez
+Analyst, Scotia Howard Weil
+
+Q
+
+Thank you very much.
+................................................................................................................................................................................................................................
+
+John S. Watson
+
+Chairman & Chief Executive Officer, Chevron Corp.
+
+Okay, we went a little longer. I wanted to get as many of you in as I could. Thank you for your time today. We
+appreciate your interest in the company. We'll look forward to talking to you again in March. And until then, we'll
+continue to prosecute our agenda. Thank you.
+................................................................................................................................................................................................................................
+
+Operator: Ladies and gentlemen, this concludes Chevron's fourth quarter 2016 earnings conference call. You
+may now disconnect.

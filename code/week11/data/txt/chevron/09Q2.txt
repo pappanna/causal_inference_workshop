@@ -1,0 +1,659 @@
+Operator: Good morning. My name is Shawn and I will be you conference facilitator today.
+Welcome to Chevron’s Second Quarter 2009 Earnings Conference Call. At this time, all participants
+are in a listen-only mode. After the speaker’s remarks, there will be a question and answer session
+and instructions will be given at that time. [Operator Instructions] As a reminder this conference call
+is being recorded.
+I will now turn the conference call over to the Vice President and Chief Financial Officer of Chevron
+Corporation, Ms. Pat Yarrington. Please go ahead.
+
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+Thanks, Shawn. Welcome to Chevron’s second quarter earnings call and webcast. On the call with
+me today are George Kirkland, Executive Vice President, Global Upstream and Gas and Jim
+Aleveras, General Manager, Investor Relations. Our focus today is on Chevron’s financial and
+operating results for the second quarter of 2009 and we’ll refer to the slides that are available on
+Chevron’s website.
+
+Before we get started please be reminded that this presentation contains estimates, projections and
+other forward-looking statements. We ask that you review the cautionary statement on slide two.
+Slide three provides an overview of our financial performance. The company’s second quarter
+earnings were 1.7 billion or $0.87 per diluted share. Our second quarter 2009 earnings were down
+71% from the second quarter 2008. Second quarter 2009 earnings fell 5%, compared to the first
+quarter of 2009, which Jim will discuss shortly.
+Return on capital employed for the trailing 12 months was 17%. The debt ratio was 12% at the end
+of the quarter. While debt balances were relatively flat during the second quarter, cash balances
+ended the period approximately 2 billion lower than the prior quarter. The cash change reflects
+working capital effects unique to the second quarter. For example, nearly half of the cash
+consumption in the second quarter pertains to a full year 2008 foreign tax obligation that was
+accrued last year but was paid in May 2009. The amount is particularly distorted because it’s based
+on the much higher earnings level of last year. And finally, as we announced on Wednesday,
+Chevron’s Board of Directors approved a $0.03 per share or 4.6% increase in the common stock
+dividend payable on September 10, 2009.
+Jim will now take us through the quarterly comparison. Jim?
+
+James Aleveras, General Manager, Investor Relations
+Thanks, Pat. My remarks compare results of the second quarter 2009 with the first quarter 2009. As
+a reminder, our earnings release compared second quarter 2009 with the same quarter a year ago.
+Turning to slide four, second quarter earnings were down $92 million from the first quarter. Starting
+with the left side of the chart, higher crude oil realizations increased the company’s worldwide
+upstream earnings. However, upstream results were adversely affected by a foreign currency
+variance of about $500 million between quarters.
+Second quarter downstream results were sharply lower than the first quarter. This decline reflects
+lower margins in the second quarter along with lower gains on asset sales. The second quarter
+included a $140 million benefit from asset sales, compared to the $400 million gain recorded in the
+first quarter. The Other bar largely reflects improved chemical earnings and a favorable swing in
+corporate tax items.
+
+On slide five, our U.S. upstream results for the second quarter were about $250 million higher than
+the first quarter’s results. Combined crude oil and natural gas realizations benefited earnings by
+$310 million.
+Chevron’s average U.S. crude oil realizations increased about $16.35 per barrel between
+consecutive quarters, almost the same change as average spot prices of West Texas Intermediate.
+Natural gas realizations, however, fell between consecutive quarters, offsetting about $75 million of
+the benefit of higher crude oil prices.
+Production volumes increased more than 4% between quarters. The startup of Tahiti, the ramp up
+of Blind Faith and continued hurricane restoration efforts in the Gulf of Mexico more than overcame
+natural field decline. The Other bar includes the benefit of lower operating expenses, but these
+were more than offset by impairments in several small fields, which flow through DD&A, and some
+other items.
+
+Slide six summarizes the results for our international upstream operations, which were essentially
+unchanged between quarters. On a combined basis, liquids and natural gas realizations improved
+earnings by $625 million. Our unit realizations for liquids improved by 35%, compared with a 33%
+increase in Brent Spot prices. Natural gas realizations, however, were lower in the second quarter,
+offsetting about $100 million of the benefit of higher liquids realizations. Exploration expense
+increased $90 million between quarters reflecting well write-offs spread among a number of
+countries. The FX and Other bar shown largely reflects a swing of more than $500 million in foreign
+currency effects between quarters.
+Slide seven summarizes the change in worldwide oil equivalent production, including volumes
+produced from oil sands in Canada. Production increased slightly between quarters. Higher prices
+reduced volumes under production sharing contracts and variable royalty provisions by 24,000
+barrels per day. Based on the $16.50 change in average West Texas Intermediate prices between
+the first and second quarters, this translates into a roughly 1,500 barrel per day impact, compared
+to the rule of thumb we provided six months ago of 1,200 barrels per day for each dollar of WTI
+price change.
+In the interim, we have looked at all of our production sharing agreements and variable royalties
+and this study reemphasizes our earlier caveats, that the effects are non-linear and any rule of
+thumb is very rough. Given the volatility in crude prices, no single rule of thumb is appropriate as
+forward guidance; therefore, we’ll continue to quantify our price and volume effects for you each
+quarter.
+Moving on to the next bar on slide seven. The decline of 44,000 barrels per day is shown under the
+caption “Base Business and External Constraints” includes a number of items. First, the total base
+business decline was 58,000 barrels per day, but over 40,000 barrels per day of this amount was
+due to planned turnaround activity in Kazakhstan, Canada and other countries. The same bar also
+reflects a 20,000 barrel per day benefit of hurricane restoration, partly offset by a 14,000 barrel per
+day change in Nigerian production due to local disruptions. External constrains, such as OpEx
+member host government limitations and Asian gas market factors were slightly less limiting than in
+the first quarter. This change was minimal, about 8000 barrels per day.
+As shown in the next bar, increased production from our new major capital projects benefited
+second quarter production by 75,000 barrels per day, primarily reflecting Agbami, Tahiti and Blind
+Faith. George Kirkland will provide a more detailed discussion of our major projects in production in
+a few minutes.
+Turning to slide eight, U.S. downstream earnings declined about $230 million in the second quarter.
+The overall impact of refining and marketing indicator margins was an adverse $75 million. The
+adverse change in our total margins between quarters was $130 million, in addition to the 75 million
+amount reflected by the indicator margins. The major factor was refining mix effects due to a
+decrease in distillate refining margins, a decrease in light-heavy crude spreads and other factors,
+such as higher refinery feedstock costs. As these impacts were not fully captured by the indicator
+margins, our realized refining margins were more unfavorable than suggested by the indicators.
+Additionally, lubricant base oil margins were lower due to weakness in the industrial and
+commercial transportation markets.
+Higher sales volumes increased second quarter earnings by $75 million. This improvement is about
+the same amount as the adverse variance we showed in the prior quarter. We completed the
+planned turnaround maintenance at our El Segundo, California refinery that I mentioned last
+quarter, and this accounts for the difference.
+
+The other bar reflects timing effects and a number of minor variances, including higher fuel costs
+due to higher prices. Timing effects represent about half of this variance between periods. WTI
+prices rose about $20 per barrel from the beginning to the end of the second quarter, compared to
+a $5 per barrel increase during the first quarter. The changes we’ve discussed before, including
+phasing out provisional pricing for our major supply contracts, have reduced the volatility of our
+U.S. downstream earnings and changes in commodity prices. However, we will continue to
+experience timing effects related to market factors, such as lag pricing terms for aviation fuel along
+with inventory and supply effects.
+Turning to slide nine, our international downstream earnings fell about $435 million from the first
+quarter’s results. On balance, refining and marketing margins reduced earnings by $55 million
+between quarters. Both refining and marketing margins were lower in Asia, our largest international
+region. Timing effects represent a $90 million adverse variance between quarters. On an absolute
+basis, timing effects reduced first quarter earnings by about $140 million, while the second quarter
+effect was about $230 million. The largest single component of the $90 million quarterly change
+was a $60 million impact of lagged aviation pricing terms.
+During the second quarter, we closed the previously announced sales of our fuels marketing
+operations in Cameroon and Kenya. However, the gain of $140 million was $260 million less than
+the amount recognized in the first quarter for the sale of marketing businesses in Nigeria and Brazil.
+Various items, including lower trading profits partly offset by lower foreign currency losses, made up
+the majority of the $29 million variance shown in the Other bar. Operating expense, which dropped
+substantially in the first quarter, inched up slightly in the second quarter partly on higher fuel costs.
+Slide 10 shows that earnings from chemical operations were $108 million in the second quarter,
+compared with $39 million in the first quarter. Results for olefins, aromatics, and oronite additives
+all reflected higher margins. Olefins and oronite additives also benefited from higher volume.
+Slide 11 covers all Other. Second quarter net charges were $43 million, compared to 294 million in
+the first quarter. All other charges were below our typical guidance range of 250 to $350 million.
+This reflects favorable corporate tax items, the swing from foreign currency losses to gains and
+lower corporate and service company net charges.
+Before turning the call over to George Kirkland, I’d just like to briefly recap the second quarter. First,
+upstream earnings benefited from higher crude oil prices but these were largely offset by
+substantial adverse foreign currency effects in line with the interim update. Downstream results
+reflected weak margins, adverse timing effects due to the increase in commodity prices and lower
+asset sales gains, also mentioned in the interim update. As we projected, all other net charges
+were below the guidance range.
+
+Finally, and most importantly, our operational results were strong from upstream production to
+refinery utilization. George Kirkland is now going to provide an update on our production outlook for
+2009 and further discuss our upstream projects. George?
+
+George L. Kirkland, Executive Vice President, Global Upstream and Gas
+Thank you, Jim. It’s good to be back to discuss upstream performance and our outlook for the
+remainder of the year. I’m very pleased with our progress through the first half of 2009, particularly
+in the areas of project execution, production, and cost management. And I am going to address
+each of these areas.
+Let’s now move to slide 13. Production performance from our major capital projects in the first half
+of this year has been strong. 2009 production growth from these projects will likely exceed the
+300,000 barrel a day forecast we provided at the fourth quarter earnings call and shows both the
+strength of our major capital project queue and our ability to execute.
+The bulk of the production increases come from four major capital projects. Tahiti achieved first oil
+on May 5th and reached peak production within three months; that was six months ahead of
+schedule. Current production is at full capacity of 135,000 barrels of oil equivalent per day. The
+ramp up of Agbami has reached 220,000 barrels of oil a day and is ahead of our schedule to reach
+peak production of 250,000 barrels of oil per day. SGI/SGP in Kazakhstan is performing above the
+Name Plate capacity of 240,000 barrels a day.
+
+Debottlenecking activities are currently underway that should allow for higher oil production by
+year-end. And finally, Blind Faith reached peak production of 70,000 barrels of oil equivalent a day
+in late March.
+Due to the performance of these major capital projects, combined with lower OPEC and market
+constraints and lower base business declines, which averaged about 6%, we now expect the full
+year outlook for 2009 to be about 2.66 million barrels a day, an increase of 30,000 barrels a day
+from our previous guidance. This translates to a 5% increase over 2008 levels of 2.53 million
+barrels a day and includes both the impact of security related disruptions in Nigeria that have
+caused – excuse me, includes both the security related disruptions in Nigeria that have caused
+significant shut-ins. This revised outlook is based on an average oil price of $50 per barrel and of
+course, changes in price will impact this outlook.
+Other progress to be noted in the first half of 2009 is as follows. Frade achieved first oil on June 20;
+this is Chevron’s first operated asset in Brazil. We expect Frade to reach peak production of 90,000
+barrels a day in 2001 as additional development wells are drilled and Mafumeira Norte and Angola
+Block 0 achieved first oil in July, once again ahead of schedule. Production is currently ramping up
+and forecasted to reach a peak production of 35,000 barrels of oil equivalent a day in 2011, as
+additional development wells come on-line.
+Turing now to slide 14, I would like to discuss some of the other significant achievements that
+occurred during the first half of 2009. Yesterday we announced that the Wheatstone LNG Project in
+Australia entered FEED as a two-train development. This significant milestone demonstrates our
+progress towards sanction. It follows the announcement in February of a successful seven well
+exploration and appraisal program that underpins the two-train development. Also in Australia we
+received a conditional recommendation from the Western Australian Environmental Protection
+Authority on the expanded Gorgon project. This is excellent news and we are on schedule to
+sanction the project later this year.
+In Nigeria we remain on schedule to sanction Stage 2 of the Agbami field. Stage 2 development
+wells will extend the peak production plateau of 250,000 barrels of oil a day. In the Partitioned
+Neutral Zone between Saudi Arabia and Kuwait, Steam Injection at the large-scale steam flood pilot
+began in late June. With pilot success, a full field development of the Wafra Eocene Reservoir will
+follow. This field contains over 12 billion barrels of oil in place and would be the first commercial
+application of a conventional steam flood in a carbonate reservoir.
+In Angola, we now forecast Tombua-Landana startup during the third quarter of 2009. Hookup and
+commissioning is about 90% complete. It is expected that three wells will be available at first oil.
+Tombua-Landana is projected to reach 100,000 barrels a day by 2011 with development drilling.
+And finally, in Indonesia the startup of the non-operated South Natuna Sea North Belut Field
+remains on schedule for the third quarter of 2009.
+Let’s now take a look at slide 15. I’d like to talk about our upstream cost structure, which includes
+production expense, DD&A, and other expenses. This chart shows the competitiveness of our cost
+structure and has been updated since our Security Analyst Meeting in March.
+
+For 2008, we had industry leading upstream costs of $20.05 per barrel. During the first half of 2009,
+this has improved to 19.87 a barrel. Lower production expenses and higher DD&A charges almost
+offset each other. On a unit of production basis, DD&A charges increased by 2.22 per barrel during
+the first half of 2009, compared to full year 2008. This was principally driven by the investments
+associated with new project startups at Agbami, Blind Faith, Tahiti, and Moho-Bilondo. Although the
+DD&A associated with these new project startups is high, this is to be expected and is a function of
+how proved developed reserves are booked over time.
+Let me offer an example; take a deepwater project like Blind Faith. DD&A rates at startup are
+calculated based on the project investment but only a small portion of the resources booked as
+proved reserves under SEC guidelines. However, as additional proved reserves are booked and
+the capital depreciated, the associated DD&A rate will significantly drop over subsequent years.
+Early in the project’s life, earnings maybe impacted due to the higher DD&A, but cash margins are
+generally at their highest levels. And remember, we base our investment decisions on cash flow.
+Now let’s turn to production expense because DD&A is only part of the story. In the upstream
+through the first half of 2009, production expenses were $2.52 per barrel, less than full year 2008.
+This is a function of lower operating expenses and taxes other than on income. This reduction has
+more than offset the increase in DD&A. I’m pleased with our progress on managing our production
+costs and this will remain a key focus for us. Pat will provide further insights on Chevron’s cost
+management activities.
+And with that I’d like to turn it over to Pat.
+
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+Thanks, George. Slide 16 provides a progress report on our aggressive company-wide efforts to
+reduce cash cost of running the business. We’ve targeted a $2.5 billion reduction in operating,
+selling, general and administrative expenses in 2009, compared to 2008. The target excludes the
+benefit associated with lower cost of 22:35 purchase fuel.
+All areas of the company are working to reduce costs. Upstream, downstream, corporate
+departments and our internal service and technology organizations, and at mid-year we were
+ahead of pace to meet the full year objectives.
+Some key areas of focus in our push for cost reduction are listed on the slide, materials and
+supplies, transportation expenses and contract labor and third party services. Our recent
+downstream asset sales, notably in Brazil and several West African countries, removed cost
+relative to the prior periods and this was anticipated in our target. On the upstream side, particularly
+in North America, we have reduced activity related to well workovers and are contracting fewer rigs
+at lower rates. This makes good business sense given the economics of these activities, in
+particular, in relation to natural gas prices. As a note of caution, please keep in mind that the
+operating expenses will not be perfectly ratable throughout the year due to seasonal and other
+effects, such as turnaround activities. Nevertheless, we are very pleased with our progress.
+I’d like to wrap up our prepared remarks with a recap of Chevron’s operational performance through
+the first half of the year. This is slide 17. As George discussed, our upstream production remains on
+track for good year-over-year increase with our major capital projects performing on plan or better.
+Our year-to-date refinery crude utilization remains a strong 93% of capacity. We’ve had no
+significant unplanned shutdowns and the Solomon Island utilization rate for our operated refineries
+is right at planned level. George described our upstream project execution, which is on track. And
+Jim mentioned that our downstream portfolio upgrading continued last quarter and we expect
+further progress on this initiative in the quarters ahead. As I just outlined, our cost management
+efforts are progressing quite well.
+And finally, we’re maintaining our strategic focus on the factors that will ensure growth and superior
+returns to our stockholders in the years ahead. In addition to funding the long-term growth
+components of our capital program, we’re continuing our strategic staffing initiatives to ensure that
+we have the future technical expertise in Chevron to remain a top performer.
+
+That concludes our prepared remarks. We’d now like to welcome your questions. Please try to limit
+your follow-up questions so that everybody has an opportunity to participate. So, Shawn, please
+open the lines now for questions. Thank you.
+Operator: Thank you. [Operator Instructions] Our first question comes from Paul Sankey with
+Deutsche Bank.
+<Q – Paul Sankey>: Hi, good morning, everyone.
+<A – Patricia Yarrington>: Good morning.
+<Q – Paul Sankey>: You mentioned the $500 million variance in the forex, which seems, correct
+me if I’m wrong but it does seem to be somewhat bigger than your rivals. I think its effects were
+direct, honestly was less – well less than 600 million obviously off a bigger base. Could you just
+help us understand how much of that is, if you like, an accounting effect and how much is an
+operational effect? Thanks.
+<A – Patricia Yarrington>: Yes. These, Paul, these are balance translations and it reflects where
+we have – where we do our business and the relationship of the currencies from period to period.
+So, a lot of this occurred in Australian dollars, Canadian dollar, the pound et cetera and we had
+currency appreciations there, local currency appreciation versus the dollar between 8 and 16% in
+the quarter.
+<Q – Paul Sankey>: Okay. So, essentially the entirety of it is a balance sheet item?
+<A – Patricia Yarrington>: Yes.
+<Q – Paul Sankey>: Okay.
+<A – Patricia Yarrington>: Yes, it’s a book item.
+<Q – Paul Sankey>: And conceptually if the dollar – I don’t want to be too negative here – but if the
+dollar continued weakening forever, would you just continue to – is there a limit to how much this
+can be or can it just keep going on forever?
+<A – James Aleveras>: Paul, it would fluctuate based on our relationship between liabilities and
+assets.
+<A – Patricia Yarrington>: Right.
+<A – James Aleveras>: The – depending on whether they are a net liability position or a net asset
+position we can see a larger or smaller or no effect from strengthening or weakening of the dollar.
+<A – Patricia Yarrington>: Yeah.
+<Q – Paul Sankey>: Okay, I think <A – Patricia Yarrington>: Of your monetary assets.
+<A – James Aleveras>: Monetary assets.
+<A – Patricia Yarrington>: Monetary assets.
+<Q – Paul Sankey>: Okay, I’ve got the general idea so maybe we’ll follow up. If I could have an
+upstream one as well, please. You had several different moving parts included in your base
+business decline, could you, to make it simple, just strip what you think your base business decline
+was for the quarter and then I have just a follow-up on upstream and I’ll leave it. Thanks.
+<A – George Kirkland>: Paul, let me try to do it in this context, we try to give a view of where we
+think base business is going to be for the year. Through the first half of the year it has been
+significantly below our 7% guidance, it’s been more in the 5% range, 4 to 5% range, as best we can
+track it. Once again you have to take a lot of ins and outs with turnarounds and everything else and
+security and everything else going on. Our present forecast for the full year is we’re going to
+average about 6%. Now, if you go back to our analyst meeting and the first quarter or the January
+call we said at that point that we were basing our outlook for the year based on a 7% base business
+decline and at this point we see that decline is going to be less than we had earlier forecasted by
+1% at least.
+<Q – Paul Sankey>: I understand and any idea for next year, George? Would that go faster again
+or...?
+<A – George Kirkland>: Paul, I really hate to talk about next year until we get our capital program
+put in place <Q – Paul Sankey>: If it was the same capital program as this year?
+
+<A – George Kirkland>: It would probably be more in line with the 7%, because we reduced our
+base business capital significantly and that’s driven heavily in the United States around our
+investments in the gas side of the business. Just to give you a little more color to that, I expect by
+the end of the year we will not have a single gas land rig running. We’re redeploying our efforts to
+where we can within our ability to move equipment around and contracts around to really focus on
+oil. In the United States, gas prices, it doesn’t make sense for us right now to be drilling those gas
+wells.
+<Q – Paul Sankey>: Yeah, and so the entirety of the incremental decline would be basically U.S.
+gas?
+<A – George Kirkland>: I think that’s a big – heavy – it’s going to be heavily US gas. We’ll be able
+to tell you a lot more after we get through our business plans. So, first quarter call, or I guess
+January call next year and analyst meeting, we’ll be able to give you lot more color on that.
+<Q – Paul Sankey>: Great. That’s very helpful, thank you.
+<A – James Aleveras>: Okay. Could we have the next caller please?
+Operator: Sure. Our next question comes from Paul Cheng with Barclays.
+<Q – Paul Cheng>: Hey, guys.
+<A – Patricia Yarrington>: Good morning.
+<Q – Paul Cheng>: Good morning. Well, first, let me – Jim, I want to say thank you for all the help
+over the past couple years and wish you a happy retirement.
+<A – James Aleveras>: Well, thank you very much, Paul.
+<Q – Paul Cheng>: We will miss you. I think I have two question. One, Pat, in – you talked about
+the cost saving is now ahead of pacing at mid-year. How much of the benefits so far you’ve seen is
+related to FX or that and how much is really just coming from the vendor or raw material cost is
+coming down?
+<A – Patricia Yarrington>: Oh, good question, Paul. Really from an FX standpoint, it’s a factor but
+it’s not a significant factor and I guess the second component you were asking about is sort of the
+energy related drivers?
+<Q – Paul Cheng>: And also, all the other raw material cost and everything.
+<A – Patricia Yarrington>: Well, it’s – clearly it’s a factor in there. We haven’t segregated it out on
+a raw materials component factor uniquely or discretely. We have cost reductions. I think as I
+mentioned on the call last time that depending upon the commodity or the product category, you
+can get price reductions here, or cost reductions here that have ranged from 60%, the more
+commoditized the service or equipment is, to 10% or 20% the less commoditized it is.
+<Q – Paul Cheng>: And maybe I have missed it; Pat, have you said exact number that how much
+you think that your cost saving is at this point?
+<A – Patricia Yarrington>: We said – you mean on a year-to-date basis?
+<Q – Paul Cheng>: Yes.
+<A – Patricia Yarrington>: Yeah, we are down more than the 10%. We said we are ahead of
+pace. The 10% is our target for the year; we said we are at more than 10%. We noted in the press
+release on a quarter-to-quarter, second quarter this year to second quarter last year that on a
+recurring basis we were down 15%. We did have some non-recurring items in the second quarter of
+last year that we didn’t have in the second quarter of this year; they were not repeated. So, timing
+effects like this can occur but they typically even out over the year. So, I just encourage you to look
+at the 10% target and to know that so far we’re ahead of pace.
+<Q – Paul Cheng>: So, so far you have 1.8, 1.9 million, 1.8, $1.9 billion, if you save 15%?
+<A – Patricia Yarrington>: Well, you’ll see it when we put out the 10 – well, you’ll see it when we
+put out the 10Q.
+<Q – Paul Cheng>: Okay, okay.
+<A – Patricia Yarrington>: And just know that there are some non-recurring elements in there.
+<Q – Paul Cheng>: Okay. Now, if I could have one quick upstream, George in Iraq, when you are
+looking at the opportunities there and the risks associated and the kind of term that they offer in the
+first round, if that maintain, is that really a pace that you guys will be very keen on to invest? Also
+that if you look at the security situation on the ground, is it improved sufficiently that for you to feel
+comfortable to put your people on the ground at this moment?
+<A – George Kirkland>: Paul, I think you can tell that – or maybe not – we didn’t really submit a
+bid on the first round in Iraq. We could not see a conforming bid at that point work for us on an
+economic basis. We like Iraq when you think about the resource side, phenomenal resource. We
+look at it, we’d like to be there but we need to have confidence both in the economic viability of the
+investments and the security side. So, you got to look at both elements of that and we weren’t able
+to see that in this first round. And in the way the first round has ended up really not – really the bid
+did not prove to be that successful.
+<Q – Paul Cheng>: Okay. In the first one you didn’t put a bid. Is it more of an economic concern or
+was it a security concern from your guys’ standpoint?
+<A – George Kirkland>: I would say at this point it was more an economic concern.
+<Q – Paul Cheng>: Okay, thank you.
+<A – James Aleveras>: Okay, thank you. The next caller, please.
+Operator: Our next question comes from Evan Calio with Morgan Stanley.
+<Q – Evan Calio>: Yes, good afternoon, guys. Thank you for taking my call and also,
+congratulations, Jim, on your retirement.
+<A – James Aleveras>: Thanks, Evan.
+<Q – Evan Calio>: I have just a quick question on Gorgon. I listened to your comments on the
+conditional improvement. I mean, can you walk me through, walk us through exact details on the
+path to FID for Gorgon?
+<A – George Kirkland>: I’ll give you some of the color. There’s a whole lot of things that must
+happen. First, most critical item is of course, getting our EPA approval. We need to get our
+environmental permit to build Gorgon on Barrow Island, that’s critical step one. Of course, and
+we’ve got to have all our partners between now and that period have their own internal approvals.
+We need from the government all the leases ratified I guess I think would be the best word. So,
+we’ve got to put in our development plans for production. They have to be approved.
+But I think the most critical items is, one, the environmental permit, nothing can happen until we get
+the environmental permit. And then second is of course, all the partners in Gorgon to give their
+financial approval to move forward. Those are the two critical steps. There are a lot of other little
+steps that go with it. We think we’re very, very close on the environmental permit and we’ve done
+all our due diligence and all the project due diligence, I think, to be ready on the decision making
+around the economics.
+<Q – Evan Calio>: Excellent. Do you – another question on the upstream, are there any hurricane
+volumes that remain shut in or any color on timing of bringing back those volumes on stream?
+<A – George Kirkland>: I think we’re at about 87% of our volumes that were impacted. We will
+bring another 5 to 8% on. We’ve always been telling everyone that we didn’t see maybe as much
+as 5% that would ever be restored. And I think most of this remainder will be on by the end of the
+year.
+<Q – Evan Calio>: Okay, great. Just one other follow-up on the decline issue. If I understand – and
+I know it’s CapEx related, yet your 7% decline versus the lower 4% at prior CapEx level, is really a
+U.S. gas driven event.
+<A – George Kirkland>: Predominantly.
+<Q – Evan Calio>: Is that fair?
+<A – George Kirkland>: It’s a predominantly – we’ve cut down all base business. We’ve got some
+issues around the world too where we have base business that could be impacted by OPEC
+constraints, that we would look at very similarly to what we’re looking at U.S. gas.
+<Q – Evan Calio>: Okay.
+<A – George Kirkland>: I mean, it doesn’t make sense to spend the money and build capacity
+where we’re not going to be able to produce it.
+<Q – Evan Calio>: Sure. But I mean, also you could have a higher decline base meaning that that
+7% could taper lower over time if you – and I know there’s a lot of variables in that math, but is that
+the kind of correct thinking?
+<A – George Kirkland>: Well, the big thing that’s going to happen over time is more and more of
+these large projects come on, they do not see the decline in the early periods. Many of them have
+multi-year, five year, some of them, and some of them longer flat lives. You look at like TCO,
+Tengiz and the investment we’ve made in SGI/SGP, that second generation plant there, that is
+almost a flat line, it is not a function at all of the reservoir. It’s only a function of the plant capacity
+and the plant capacity doesn’t go down, it stays up. So, you have to look at each one of them, but
+more and more – as we get more and more of these large new assets on, that base of production
+has very, very low to no decline rates. So, it will change overtime.
+<Q – Evan Calio>: Okay, good.
+<A – George Kirkland>: And we’ll have to give you updates on that at least a couple of times a
+year on what we’re seeing happening.
+<Q – Evan Calio>: Excellent. Thank you for taking my question.
+<A – James Aleveras>: Okay, thanks. Can we go on to the next caller?
+Operator: Our next question comes from Arjun Murti with Goldman Sachs.
+<Q – Arjun Murti>: Thank you. Thanks for the color on the DD&A rate. Were there any charges or
+other things that ran through DD&A in the first half, if I take that 2.20 a barrel you mentioned,
+there’s still seems to be a little bit of a gap. I suppose just wondering if the 3.1 billion rate in 2Q is
+sort of a run rate going forward.
+<A – James Aleveras>: Arjun, that’s a good question. If you look at the information in our press
+release, you can see that our six months 2008 DD&A was about 4.5 billion versus almost 6 billion
+for six months of 2009. The major capital projects account for about 55% of that, but then there’s a
+lot of other things that I mentioned last quarter that do impact DD&A. Things, such as impairments
+that run through that, accretion expense. There’s a lot of different items, as well as base business
+that impact DD&A in addition to our major capital projects but I do want to say the major capital
+projects were the largest single item and accounted for more than half of the increase. But if you
+look at overall DD&A, it’s – the increase is all on the upstream segment.
+<Q – Arjun Murti>: That’s great. That’s very helpful. And just a final one, any update on how you’re
+thinking about a stock buyback at this point?
+<A – Patricia E. Yarrington>: Yeah, I mean, Arjun, as we’ve expressed several times here, the
+stock buyback piece is really the most discretionary component of our uses of cash and the
+priorities are for the dividends, which you saw the Board increased, just funding the capital program
+and keeping a good balance sheet. And for the moment, that’s where our priorities are and I don’t –
+we’re not reinstating the share repurchase program at this time.
+<Q – Arjun Murti>: I mean, you guys clearly have an exceptionally strong balance sheet. I’m not a
+diehard stock buyback person, but maybe in this challenging economic environment you just want
+to keep an even stronger balance sheet than even is normally considered strong?
+<A – Patricia E. Yarrington>: Well, I think we just, we have a lot of organic opportunities here and
+maintaining flexibility, financial flexibility is important to us.
+<Q – Arjun Murti>: That’s great. Thank you.
+<A – James Aleveras>: Okay, can we move on to the next caller?
+Operator: Sure. Our next question comes from Neil McMahon with Sanford Bernstein.
+<Q – Neil McMahon>: Hi, hopefully you can hear me; the line’s not great. Maybe a few for George,
+I didn’t pick up when Tahiti was going to hit peak production, if it hadn’t done so already. And also,
+on that theme of Gulf Stream, just wondering when you were going to start to think about drilling in
+the subsalt in the Campos Basin around Frade, if there was an opportunity to do that going into
+2010? And then I’ve got a final follow-up.
+<A – George Kirkland>: Well Tahiti, I tried to make that in the early comments. We have reached
+peak production. Facility is really designed for about 135,000 barrel equivalent per day. We’ve
+reached that already; we ramped up all the wells very, very quickly to that. So, it’s going very
+positive. Like all cases, we’re always looking to see if we can get a little more efficiency out of our
+facilities, but we already reached the nameplate capacity and, like I said, very, very quickly.
+Frade, I think it’s too early for us to start thinking about the subsalt there. We don’t have a lot of
+opportunities for us in the basin at this point. We have some, but it’s – we are limited with our lease
+holdings there. So, we’re going – having to look to the future and future opportunities in Brazil.
+<Q – Neil McMahon>: Okay and then, just a very general question, again, for yourself. A number
+of your competitors this week have come out with statements that have suggested that one
+company has got the best set of assets in the industry and another one has – is the industry leader
+in terms of its options set in the upstream going forward, just wondering how you would classify
+your upstream position given the fact that obviously your – based on your competitors, you’re at
+least third in the rankings for some reason?
+<A – George Kirkland>: There’s been a lot of good work done by analysts and consultants out
+there and I think almost consistently they’ve always said Chevron has, if not the best, the – one of
+the very best queues of project in the industry. I think you can look back at the number of projects
+that we brought on-line in ‘08 and ‘09, and what we’re brining on in ‘10 and see the steps we also
+are taking going forward, with Gorgon and Wheatstone, and the quality of those assets, the next
+generation facility that we will bring to Tengiz. We’ve got a 400,000 barrel a day expansion that we
+can do there, and our position in the deepwater Gulf of Mexico in the lower tertiary. The first one of
+those projects come on in Perdido early next year. We’ve just moved Jack/St. Malo into FEED. We
+announced the discovery of Buckskin earlier this year. We’ve got a great queue of projects there.
+So, these pro – and all of the projects I’ve just mentioned, at very, very attractive development
+costs. So, I’m not aware of any other company that has got a better queue of projects.
+<Q – Neil McMahon>: Maybe we need to look into a bit more, but thanks for those comments.
+<A – George Kirkland>: Okay.
+<A – James Aleveras>: Okay. Do we have the next caller, please?
+Operator: Our next question comes from Doug Leggate with Howard Weil.
+<Q – Doug Leggate>: Hi, good morning, folks. Jim, you’re going to be missed. The changes
+you’ve made over the years have been really appreciated, and I’ll miss working with you.
+<A – James Aleveras>: Thank you very much, Doug.
+<Q – Doug Leggate>: A couple of questions. I’m going to take advantage of George being there, if
+that’s okay. The color on the cost is much appreciated, particularly on depreciation, given the
+substantial changes we’ve seen. However, George, is it possible to just give a general kind of
+overview as to the new projects that are driving the growth. How does the underlying F&D and the
+future DD&A compare to the base business to try and strip away the timing effects? I’m just trying
+to understand when we can expect to see some incremental reduction again, a reversal of this
+increase that we’ve seen in fairly substantial depreciation? That’s my first one, and I have a quick
+follow-up.
+<A – George Kirkland>: Yeah, I think it does vary between projects and this type of projects. I
+would tell you the deepwater projects are the ones that typically see the highest DD&A rates at the
+beginning. I will tell you, they ramp down pretty quickly. The first year with the barrels that have
+been booked have extremely high DD&A rates. We tend to, during the startup period, every six
+months look at reserves and look at reserve bookings. So, we often actually make mid-year
+updates on the reserve picture on these new projects.
+My expectation by, in most cases, by the third year, we will have seen a significant drop in the
+DD&A rates. We see it move pretty quickly as we book these additional barrels. So, normally, I
+would say within two booking cycles we’ll probably have those down. And I would tell you at that
+point in time they will be very attractive on a DD&A basis.
+But the other side of it, and I think what’s really important to recognize, is these projects tend to
+have the lowest OpEx, operating expense, of any barrels we have in the system. And that’s typical
+for new projects. You don’t make water. Chemical costs typically are low. You get a lot of barrels
+per person in effect, so, it’s a really good time and you really need to, what we really look at of
+course, is the margin and the cash margin, which is very, very good in those, on those projects.
+Does that help a little bit?
+<Q – Doug Leggate>: It does. George, if I could push you just a little more on that particular issue.
+Would you characterize the profitability, let’s say, call it, unit margin, on an all-in cost basis, that is,
+when full reserve bookings, and so on are in place, has been incrementally better than the base
+portfolio? In other words, is your capture rate going to start to improve as you deliver these,
+obviously very substantial growth visibility over the next year or two, in your opinion?
+<A – George Kirkland>: I would think on average it will improve. I think those barrels are better
+barrels in total on a margin context. But it does – for us to see it flow on the book side, on the
+earnings side, it’s going to take us probably in some of the projects, the second or third year to
+really see that, and it – once again, it varies greatly between projects. You get a project that’s like
+Tengiz you don’t see the big impact of it, because you really have characterized the reservoir and
+the reserves are a lot more straightforward in the booking. For most of our deepwater projects, the
+actual performance, the well performance is needed to book additional barrels, and that’s why the
+first couple of years are so important.
+<Q – Doug Leggate>: Great, and my follow-up was actually related to Wheatstone, the two-train
+development going to FEED as you mentioned in your remarks. Can you just give us some color as
+to whether you’re going to bring in partners to supply the FEED gas for those two developments or
+is this 100% Chevron or where are we in the process of securing the gas?
+<A – George Kirkland>: I think it starts with we have with our exploration and appraisal work we
+know we have enough gas with Wheatstone and Iago to underwrite a two-train, two 4.3 million ton
+per annum train. So, that’s 8.6 tons per year of LNG that can be covered by the Wheatstone and
+Iago projects. We would like – and like in all LNG projects, we would like to have a much bigger
+footprint, more trains. We’ve got other exploration opportunities in Australia. So, we’d like to be able
+to make a bigger footprint, i.e., more trains. So, we are very interested in moving forward with
+others to open up a bigger opportunity set for the Wheatstone project or the Wheatstone LNG.
+So, it’s both but I think what’s really important is we’ve got enough gas to get to the two trains
+ourselves. So, and we’d like to get bigger, because there’s always – the money to be made in LNG
+is all about getting more and more trains and more and more gas through it.
+<Q – Doug Leggate>: I guess where I am going with this, George, is would you expect fund both
+trains 100% Chevron and then any incremental trains would involve partners? Is that a fair way of
+thinking about it, or is it not as straightforward?
+<A – George Kirkland>: I don’t believe it’s that straightforward and it’s in the early stages. We’ve –
+once again, it’s back – we’ve got enough gas to underwrite it. What happens commercially between
+now and the next 24 months could shape what we end up with there. I hate to leave it open-ended
+but it is – it’s a little bit open-ended on that piece.
+<Q – Doug Leggate>: No, that’s great color. Thanks very much indeed.
+<A – James Aleveras>: Okay, can we have the next caller?
+Operator: Our next question comes from Michael LaMotte with JPMorgan.
+<Q – Michael LaMotte>: Thanks, good morning. George, if I could ask on Nigeria quickly, can you
+give us an update on your perspective on the state of play there with respect to the fiscal changes,
+and really where I’m going with the question is thinking longer term how you think about allocating
+capital in light of the risks of change in fiscal terms?
+<A – George Kirkland>: Okay, well, capital allocation everywhere is a function of the economic
+returns that we will receive. If fiscal terms, either future or retroactively, changes to contracts which
+– once again, like everyone, we really want to see contract sanctity. But if you look at the go
+forward case, if the economic and fiscal terms change, the capital will flow somewhere else. We are
+not sure of capital investment opportunities, and the challenge is always making sure we put our
+capital to those best opportunities. And we try to be very, very rigorous in doing that, and if the
+terms in one country in the world become inferior, you can bet that the capital will flow to another
+opportunity somewhere else in the world.
+<Q – Michael LaMotte>: Is that true, in terms of the incremental CapEx on, say, a project that’s in
+queue that hasn’t gone to FEED or FID, as well as any expenses you would have on the
+maintenance or operating side?
+<A – George Kirkland>: You’re getting to a detailed level where the economics are really pretty
+difficult to tell. So, you’re starting to get into those ones where there is some gray in there, and it
+depends on the impact, the amount of investment and the amount of risk.
+<Q – Michael LaMotte>: And we just don’t know enough yet on any of that yet?
+<A – George Kirkland>: That’s correct.
+<Q – Michael LaMotte>: Okay. If I could shift gears quickly, just a couple of cleanups on the
+numbers, the 40,000 in maintenance in Q2, is all of that backup? Any maintenance plans for the
+third quarter?
+<A – James Aleveras>: The 40,000 barrels a day of maintenance is partly backup, not fully
+backup, and I do not have our next quarter’s plans yet.
+<A – George Kirkland>: I can just give a little bit color on it. The second and third quarter for us
+are always the heaviest turnaround quarters. That’s when you have typically the best weather. So,
+we do have some turnarounds in the U.K. sector I know, and I do believe we have one – some
+additional work that may fall in Tengiz later this year. So, there is some more work to come, but I
+think we’ve got a lot of the big stuff done.
+<Q – Michael LaMotte>: Okay, and then lastly, on the SGI debottlenecking, where is that going to
+go from the 240 nameplate?
+<A – George Kirkland>: I think our opportunity is in the 10 to 15% increase, and maybe even
+20%, so we are pretty confident of 10 to 15 and we may get as high as a 20% bump on that. What
+we’re doing there is, the sulphur plant is really what controls the amount of crude that we’ve been
+able – that we can put through that we can’t change the, or increase the sulphur plant capacity. So,
+what we’ve really been able to do is we’ve got a little bit more capacity on the front end of the plant
+on separation, and the ability to inject a higher H2S gas into the reservoir, and that flexibility is how
+we’re able to get this higher rate.
+<Q – Michael LaMotte>: Interesting. All right, thanks, that does it for me.
+<A – James Aleveras>: Can we have the next caller, please?
+Operator: Yes, our next question comes from Robert Kessler with Simmons & Company.
+<Q – Robert Kessler>: Hi, good morning, George. Does your conservatism on U.S. natural gas
+production later this year have any assumption built in for shut-ins whether due to economic
+reasons or in want of transportation capacity to get your gas to the market?
+<A – George Kirkland>: No, it’s -
+<Q – Robert Kessler>: Okay.
+<A – George Kirkland>: Decline rates on U.S. gas are pretty high and we’ve, we’re pulling the
+trigger reducing the amount of investment in that arena. And it’s going to start responding and
+declining. Maybe even to give you a little additional color, we have – at Piceance Basin we have a
+facility that will be coming on. We have a nice area of development up there, 30,000 plus acres.
+We’ve drilled a large number of wells and we’ll be starting up a facility there, but we’re shutting
+down all drilling in the Piceance. And we had plans at one time to be up to even six or eight rigs
+running there. So, we are going to shut down the last rig. We’ve been running two there for a
+couple of years and we’re going to shut that down.
+<Q – Robert Kessler>: Beyond shutting down the zero on the incremental drilling is there a price
+below which you would actually turn off the taps?
+<A – George Kirkland>: That gets more into supply, the supply and demand balance. Of course,
+there is a price at some point that you’re not going to supply gas. We’ve done no – I’ve done no
+work or seen any work that we’ve done in that arena.
+<Q – Robert Kessler>: Okay. Separately on Tengiz, just trying to think about, going forward, now
+that you’ve got the capacity there, what sort of utilization rates should we think about for those
+facilities? Obviously you had quite a bit in maintenance last year. I imagine more than normal to tie
+in the new facilities. But if we think of a normal run rate utilization, say, 2010, 2011 and onwards,
+how should we think about that?
+<A – George Kirkland>: Mid-90s.
+<Q – Robert Kessler>: Okay. Good, thank you very much.
+<A – James Aleveras>: Okay. Could we have the next caller please?
+Operator: Our next question comes from Paul Cheng with Barclays.
+<Q – Paul Cheng>: Hey. George, I just want to make sure I hear you correctly. You say you are
+not going to have any more active gas rig at all in the lower 48 by year-end?
+<A – George Kirkland>: That’s correct on land rigs. Land gas rigs.
+<Q – Paul Cheng>: Right, land gas rigs.
+<A – George Kirkland>: Land gas rigs by the end of the year I expect <Q – Paul Cheng>: No work over or anything?
+<A – George Kirkland>: No development gas drilling.
+<Q – Paul Cheng>: Okay.
+<A – George Kirkland>: I’ll go that far, I wouldn’t hazard to say that that far on we would have
+anything with regards to workovers.
+<Q – Paul Cheng>: Okay. No new development drilling.
+<A – George Kirkland>: Right.
+<Q – Paul Cheng>: Okay. On a poised sense, I think several years ago that at one point you guys
+were pretty interested in trying to expand your footprint. In the last two or three years I think you
+have been pretty quiet or then not totally crazy about that. I mean, where are we from a company
+standpoint, what is your strategy or what is the priority of the oil sand in your portfolio at this point?
+<A – George Kirkland>: Paul, we are investing in the expansion of the Albian oil sands with Shell,
+the Athabasca Oil Sands project up there, that expansion should come online in 2010. That’s on a
+gross barrel basis that’s about 100,000 barrels a day and our working interest share is 20%. That
+will make the footprint we have in Canada – that will give us over – that, with the existing
+production, will give us over 50,000 barrels a day of oil sands production.
+We like oil sands in the sense of the resource, the location, so that’s a positive. At this point though,
+the cost of developing it and operating it, it’s tough to make money in a $50 world. So, the
+challenge for us – and we’ve got opportunities participating with our partners to expand up there,
+but we see it needs to happen when we can control the capital cost and bring the capital cost down
+and when we have a high – a view of higher oil prices. So, that’s what’s important for us. With –
+inside our project queue, oil sands makes up a pretty small piece of it. And when you look at the
+economics of it, it’s the weakest set of projects with inside our queue of projects – weakest in an
+economic sense.
+<Q – Paul Cheng>: Very good. Thank you.
+<A – James Aleveras>: Okay. Shawn, do we have any more callers?
+Operator: I am not showing any further questions, sir.
+Patricia E. Yarrington, Vice President and Chief Financial Officer
+Okay, then I’ll just go ahead and close up. Thank you, Shawn. Before ending completely here I just
+want to reiterate a couple of key messages here. The operations ran very well, are running really
+very well. Project execution is very strong. You heard from George about the volume increases that
+we’re seeing year-over-year as planed. We have a strong focus on cost management, $2.5 billion
+target, 10% target reduction for year-over-year, we’re running ahead of pace on that and we’re very
+intent on sustaining that momentum.
+I appreciate, we appreciate everybody’s participation on the call today and I want to thank
+everybody on the call on behalf of, everybody on the call for the analysts to have questions. Thank
+you very much.
+
+Operator: Thank you. Ladies and gentlemen, this concludes Chevron’s second quarter 2009
+earnings conference call. You may now disconnect.
