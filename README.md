@@ -32,8 +32,8 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 10:
   - __01_fe__: Simple examples showing problem with perfectly collinear treatment variable and time/unit FE
 - Week 11:
-  _ __01_nlp_example.ipynb__: Example of NLP preprocessing steps (stemming, etc.) as well as simple tasks (sentiment analysis, LDA)
-  _ See Google Colab notebook [here](https://colab.research.google.com/drive/1hPNGOMnaTk4udf0l-L6YR-FKduR6SKNr?usp=sharing)
+  - __01_nlp_example.ipynb__: Example of NLP preprocessing steps (stemming, etc.) as well as simple tasks (sentiment analysis, LDA)
+  - See Google Colab notebook [here](https://colab.research.google.com/drive/1hPNGOMnaTk4udf0l-L6YR-FKduR6SKNr?usp=sharing)
 
 ## Other helpful resources for causal inference and research design 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
