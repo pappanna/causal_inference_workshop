@@ -14,6 +14,7 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 8: Pre-estimation, estimation, and post-estimation steps
 - Week 9: Inference
 - Week 10: Fixed effects, climate regressions, remote sensing
+- Week 11: Text analysis, wrap-up
 
 ## Coding examples and exercises (in R and Stata)
 - Week 1: What happens when errors are spatially correlated? Simulated exercise
@@ -29,7 +30,10 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
 - Week 9:
   - __01_rand_inf__: Simple randomization inference example, based on [this](https://www.alexstephenson.me/post/randomization-inference-a-simple-example/)
 - Week 10:
-  - __01_fe__: Simple examples showing problem with perfectly collinear treatment variable and time/unit FE 
+  - __01_fe__: Simple examples showing problem with perfectly collinear treatment variable and time/unit FE
+- Week 11:
+  _ __01_nlp_example.ipynb__: Example of NLP preprocessing steps (stemming, etc.) as well as simple tasks (sentiment analysis, LDA)
+  _ See Google Colab notebook here: https://colab.research.google.com/drive/1hPNGOMnaTk4udf0l-L6YR-FKduR6SKNr?usp=sharing
 
 ## Other helpful resources for causal inference and research design 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) by Scott Cunningham (contains helpful coding examples in Stata, R, and Python)
