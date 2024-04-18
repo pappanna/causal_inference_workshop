@@ -44,4 +44,5 @@ Based on Claire Palandri's 2022 [version](https://clairepalandri.github.io/docs/
   - Helpful starting point: de Chaisemartin and D'Haultfoeuille [review/survey](https://www.nber.org/papers/w29691)
   - [YouTube](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) DiD reading group videos (very helpful!)
   - Jonathan Roth's [DiD resources page](https://www.jonathandroth.com/did-resources/)
+- Very cool [LLM visualization](https://bbycroft.net/llm) (thanks to Junho Choi for sharing!)
     
